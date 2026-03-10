@@ -1,6 +1,6 @@
 /**
  * Site Data — Generated from Case Engine AI
- * Updated: 2026-03-10T16:21:23.157323+00:00
+ * Updated: 2026-03-10T16:29:21.221067+00:00
  */
 
 export const siteConfig = {
@@ -21,17 +21,17 @@ export const episode = {
   "title": "Understanding Your Rights After a San Diego Car Accident",
   "date": "01.15.24",
   "duration": "00:45:30",
-  "description": "In this inaugural episode, Liam Perry discusses the critical steps accident victims should take immediately following a collision in San Diego. He covers California's comparative negligence laws, how to deal with insurance adjusters, and common mistakes that can jeopardize your claim. Liam also shares insights from his years of experience representing injured clients throughout San Diego County and explains when it's essential to seek legal representation."
+  "description": "In this inaugural episode, Liam Perry discusses the critical steps accident victims should take immediately following a collision in San Diego. He explores California's comparative negligence laws, insurance company tactics, and common mistakes that can jeopardize your claim. Liam also shares real case examples from his practice representing injured San Diego residents and explains how proper legal representation can significantly impact settlement outcomes."
 };
 
 export const attorney = {
   "name": "Liam Perry",
   "firm": "Perry Personal Injury Lawyers",
-  "title": "Founder & Lead Personal Injury Attorney",
+  "title": "Founder & Lead Trial Attorney",
   "bio": [
-    "Liam Perry is the founder of Perry Personal Injury Lawyers, a San Diego-based law firm dedicated to representing accident victims throughout Southern California. With extensive experience in personal injury litigation, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His commitment to personalized client service and aggressive advocacy has earned him a reputation as one of San Diego's most trusted personal injury attorneys.",
-    "Throughout his legal career, Liam Perry has focused exclusively on personal injury law, allowing him to develop deep expertise in California's complex insurance regulations and liability statutes. Liam Perry understands that accident victims face not only physical injuries but also financial stress, emotional trauma, and uncertainty about their future. He approaches each case with compassion and determination, working tirelessly to ensure his clients receive the maximum compensation they deserve for medical expenses, lost wages, pain and suffering, and other damages.",
-    "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on accident prevention and legal rights. Through this podcast, Liam Perry shares valuable insights into personal injury law, discusses recent cases and legal developments, and provides practical advice for anyone who has been injured due to someone else's negligence. His goal is to empower listeners with knowledge while offering hope and guidance to those navigating the challenging aftermath of a serious accident."
+    "Liam Perry is a dedicated personal injury attorney who has devoted his legal career to fighting for accident victims throughout San Diego County. With extensive trial experience and a deep understanding of California personal injury law, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His approach combines aggressive advocacy with genuine compassion for those navigating the aftermath of life-changing injuries.",
+    "Throughout his career, Liam Perry has built Perry Personal Injury Lawyers into one of San Diego's most trusted personal injury firms. He understands that behind every case is a person whose life has been disrupted by someone else's negligence. Whether negotiating with insurance companies or presenting cases before juries, Liam Perry brings thorough preparation, strategic thinking, and unwavering commitment to achieving the best possible outcomes for his clients.",
+    "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on their legal rights following accidents. Through this podcast, he shares insights gained from years of experience, helping listeners understand complex legal concepts and empowering them to make informed decisions during difficult times. Liam Perry's dedication to client service and community education has earned him recognition as a leading voice in San Diego personal injury law."
   ],
   "signature": "/images/signature.png",
   "photo": "/images/attorney.jpg"
@@ -47,27 +47,27 @@ export const contact = {
 export const chapters = [
   {
     "number": 1,
-    "title": "Immediate Steps After an Accident",
+    "title": "Immediate Steps After a San Diego Accident",
     "active": false
   },
   {
     "number": 2,
-    "title": "Understanding California Negligence Laws",
+    "title": "Understanding California Comparative Negligence",
     "active": false
   },
   {
     "number": 3,
-    "title": "Dealing with Insurance Companies",
+    "title": "Dealing with Insurance Adjusters",
     "active": false
   },
   {
     "number": 4,
-    "title": "Calculating Your Claim Value",
+    "title": "Documenting Your Injuries and Damages",
     "active": false
   },
   {
     "number": 5,
-    "title": "When to Hire an Attorney",
+    "title": "When to Hire a Personal Injury Attorney",
     "active": false
   }
 ];
@@ -78,24 +78,24 @@ export const faqGroups = [
     "description": "Learn more about the San Diego Accident Attorneys & Law podcast and what you can expect from each episode.",
     "questions": [
       {
-        "question": "What topics does Liam Perry cover on the San Diego Accident Attorneys & Law podcast?",
+        "question": "What topics does the San Diego Accident Attorneys & Law podcast cover?",
         "level": "h2",
-        "answer": "Liam Perry discusses a wide range of personal injury topics relevant to San Diego residents, including car accidents, truck collisions, motorcycle crashes, pedestrian injuries, and wrongful death cases. Each episode provides practical legal insights, explains California personal injury laws, and offers guidance on protecting your rights after an accident. The podcast also features real case discussions and answers common questions from injury victims throughout San Diego County."
+        "answer": "The podcast covers a wide range of personal injury topics relevant to San Diego residents, including car accidents, truck accidents, motorcycle collisions, pedestrian injuries, and wrongful death cases. Liam Perry shares legal insights, case strategies, and practical advice to help accident victims understand their rights and navigate the claims process in California."
       },
       {
         "question": "How often are new episodes released?",
         "level": "h3",
-        "answer": "New episodes of San Diego Accident Attorneys & Law are released regularly to keep listeners informed about the latest developments in personal injury law. Liam Perry ensures each episode delivers valuable information that San Diego accident victims can use immediately. Subscribe to never miss an episode and stay updated on important legal topics that could affect your injury claim."
+        "answer": "Perry Personal Injury Lawyers releases new podcast episodes on a regular schedule to provide consistent, valuable content to the San Diego community. Each episode features in-depth discussions about personal injury law, recent case developments, and practical tips for accident victims seeking justice and fair compensation."
       },
       {
-        "question": "Is the podcast only for people who have been in accidents?",
+        "question": "Who is the host of this podcast?",
         "level": "h3",
-        "answer": "While the podcast is incredibly valuable for accident victims, it's designed for anyone interested in understanding their legal rights in California. Whether you're a San Diego resident wanting to learn about injury prevention, understanding insurance tactics, or simply curious about personal injury law, Liam Perry breaks down complex legal concepts into accessible, practical information that benefits everyone."
+        "answer": "Liam Perry, founder of Perry Personal Injury Lawyers, hosts the San Diego Accident Attorneys & Law podcast. With extensive experience representing accident victims throughout San Diego County, Liam Perry brings real-world legal expertise and compassionate guidance to every episode, making complex legal concepts accessible to listeners."
       },
       {
-        "question": "Can I submit questions for Liam Perry to answer on the podcast?",
+        "question": "Can I submit questions or case scenarios for the podcast?",
         "level": "h3",
-        "answer": "Yes, Liam Perry welcomes questions from listeners throughout San Diego and Southern California. Your questions help shape future episodes and ensure the podcast addresses the most pressing concerns facing accident victims. Contact Perry Personal Injury Lawyers through the website to submit your questions, and you may hear them answered in an upcoming episode."
+        "answer": "Yes, Perry Personal Injury Lawyers welcomes listener questions and topic suggestions for future podcast episodes. While the podcast provides general legal information and cannot replace individual legal advice, Liam Perry addresses common concerns and questions that San Diego accident victims face during their recovery and claims process."
       }
     ]
   },
@@ -104,24 +104,24 @@ export const faqGroups = [
     "description": "Common legal questions about personal injury cases in San Diego, California.",
     "questions": [
       {
-        "question": "What should I do immediately after a car accident in San Diego?",
-        "level": "h2",
-        "answer": "After a car accident in San Diego, your first priority is safety and medical attention. Call 911 to report the accident and get medical help, even if injuries seem minor. Document the scene with photos, exchange information with other drivers, and gather witness contact details. Avoid admitting fault or signing anything from insurance companies before speaking with Liam Perry at Perry Personal Injury Lawyers, as these early mistakes can significantly impact your claim."
-      },
-      {
         "question": "How long do I have to file a personal injury claim in California?",
         "level": "h2",
-        "answer": "In California, the statute of limitations for most personal injury cases is two years from the date of the accident. However, certain cases may have shorter deadlines, and waiting too long can weaken your case as evidence disappears and witnesses' memories fade. Liam Perry recommends contacting Perry Personal Injury Lawyers as soon as possible after your accident to protect your rights and ensure all deadlines are met."
+        "answer": "In California, the statute of limitations for most personal injury claims is two years from the date of the accident. However, certain exceptions may apply depending on the type of case, such as claims against government entities which have shorter deadlines. Liam Perry recommends consulting with an attorney as soon as possible after an accident to protect your rights and ensure all deadlines are met."
       },
       {
         "question": "What compensation can I recover in a San Diego personal injury case?",
-        "level": "h3",
-        "answer": "California personal injury victims may recover economic damages like medical bills, lost wages, and property damage, as well as non-economic damages for pain and suffering, emotional distress, and loss of enjoyment of life. In cases involving extreme negligence, punitive damages may also be available. Liam Perry evaluates each case individually to maximize the compensation his clients deserve for their injuries and losses."
+        "level": "h2",
+        "answer": "Personal injury victims in San Diego may recover economic damages including medical expenses, lost wages, and property damage, as well as non-economic damages such as pain and suffering, emotional distress, and loss of enjoyment of life. In cases involving severe negligence, punitive damages may also be available to punish wrongful conduct and deter future harm."
       },
       {
-        "question": "Do I really need a lawyer for my accident case?",
+        "question": "Do I need an attorney for my accident case?",
         "level": "h3",
-        "answer": "While not legally required, having an experienced San Diego personal injury attorney like Liam Perry significantly increases your chances of fair compensation. Insurance companies have teams of lawyers working to minimize payouts, and they often take advantage of unrepresented accident victims. Perry Personal Injury Lawyers handles all legal complexities, negotiates with insurers, and fights for maximum compensation while you focus on recovery."
+        "answer": "While not legally required, having an experienced personal injury attorney significantly increases your chances of obtaining fair compensation. Insurance companies often offer lowball settlements to unrepresented victims, and navigating California's complex legal system without professional guidance can result in missed deadlines, waived rights, and inadequate recovery for your injuries."
+      },
+      {
+        "question": "What should I do immediately after a car accident in San Diego?",
+        "level": "h3",
+        "answer": "After ensuring everyone's safety and calling 911, document the accident scene with photos, exchange information with other drivers, and seek medical attention even if injuries seem minor. Avoid admitting fault or signing any documents from insurance companies before consulting with Perry Personal Injury Lawyers, as early statements can be used against you later in the claims process."
       }
     ]
   }
@@ -129,64 +129,64 @@ export const faqGroups = [
 
 export const content = {
   "heroTitle": "San Diego Accident Attorneys & Law w. Liam Perry",
-  "heroDescription": "Join Liam Perry, founder of Perry Personal Injury Lawyers, as he breaks down complex personal injury law into practical guidance for San Diego accident victims. Each episode explores real-world scenarios, legal strategies, and insider knowledge to help you protect your rights and maximize your recovery after an injury. Whether you've been in a car accident, suffered a catastrophic injury, or lost a loved one due to negligence, this podcast provides the information you need to navigate the legal system with confidence.",
-  "articleTitle": "Empowering San Diego Accident Victims Through Legal Education",
+  "heroDescription": "Join San Diego personal injury attorney Liam Perry as he breaks down complex legal issues facing accident victims throughout Southern California. Each episode delivers practical advice, real-world case insights, and actionable strategies to help you understand your rights and navigate the personal injury claims process with confidence.",
+  "articleTitle": "Your Trusted Voice in San Diego Personal Injury Law",
   "articleParagraphs": [
-    "The San Diego Accident Attorneys & Law podcast was created to bridge the gap between complex legal concepts and the everyday people who need to understand them most. Liam Perry recognized that many accident victims feel overwhelmed and confused when facing insurance companies, medical bills, and legal procedures. Through this podcast, Liam Perry demystifies the personal injury claims process and provides listeners with actionable advice they can use immediately after an accident.",
-    "Each episode tackles real issues that San Diego residents face after accidents on our busy highways, surface streets, and intersections. From the I-5 and I-805 interchange to Pacific Highway and Mission Bay Drive, accidents happen throughout San Diego County every day. Liam Perry draws on his extensive experience handling cases involving car accidents, truck collisions, motorcycle crashes, bicycle accidents, pedestrian incidents, and rideshare accidents to give listeners insider perspectives on how these cases unfold and what victims can do to protect their interests."
+    "The San Diego Accident Attorneys & Law podcast brings clarity to the often confusing world of personal injury claims. Liam Perry draws from his extensive experience representing accident victims across San Diego County to provide listeners with valuable legal knowledge they can actually use. Whether you've been injured in a traffic collision on Interstate 5, suffered harm in a rideshare accident downtown, or experienced a catastrophic injury due to someone's negligence, this podcast offers guidance tailored to California law and San Diego's unique legal landscape.",
+    "Each episode tackles real issues that accident victims face, from understanding the statute of limitations in California to maximizing compensation for medical expenses, lost wages, and pain and suffering. Liam Perry demystifies legal terminology, explains insurance company strategies, and empowers listeners to make informed decisions about their cases. This podcast serves as an essential resource for anyone navigating the aftermath of an accident in San Diego and throughout Southern California."
   ],
-  "featuredQuote": "Knowledge is power when you're facing insurance companies and their teams of lawyers. My goal is to level the playing field by giving San Diego accident victims the information they need to fight for fair compensation.",
+  "featuredQuote": "Knowledge is power when it comes to protecting your rights after an accident. My goal is to ensure every San Diego accident victim understands their legal options and feels confident pursuing the compensation they deserve.",
   "additionalParagraphs": []
 };
 
 export const testimonials = [
   {
     "id": 1,
-    "name": "Maria G.",
-    "initials": "MG",
+    "name": "Michael T.",
+    "initials": "MT",
     "role": "Google Reviewer",
     "rating": 5,
-    "text": "Liam Perry and his team were incredible after my car accident on the I-5. They handled everything with the insurance company while I focused on recovering. I received a settlement far beyond what I expected. Highly recommend Perry Personal Injury Lawyers to anyone in San Diego dealing with an accident."
+    "text": "Liam Perry and his team handled my car accident case with incredible professionalism and care. They kept me informed every step of the way and secured a settlement that exceeded my expectations. I highly recommend Perry Personal Injury Lawyers to anyone injured in San Diego."
   },
   {
     "id": 2,
-    "name": "Robert T.",
-    "initials": "RT",
+    "name": "Jennifer R.",
+    "initials": "JR",
     "role": "Google Reviewer",
     "rating": 5,
-    "text": "After my motorcycle accident in downtown San Diego, I didn't know where to turn. Liam Perry took my case and fought tirelessly against the at-fault driver's insurance. His knowledge of California injury law is exceptional, and he kept me informed every step of the way. Couldn't have asked for better representation."
+    "text": "After my motorcycle accident, I was overwhelmed and didn't know where to turn. Liam Perry took the time to explain my rights and fought tirelessly against the insurance company. His dedication and expertise made all the difference in my recovery."
   },
   {
     "id": 3,
-    "name": "Jennifer L.",
-    "initials": "JL",
-    "role": "Google Reviewer",
-    "rating": 5,
-    "text": "Perry Personal Injury Lawyers handled my pedestrian accident case with such professionalism and care. Liam Perry personally returned my calls and explained everything in terms I could understand. They recovered compensation that covered all my medical bills and then some. Truly grateful for their dedication."
-  },
-  {
-    "id": 4,
     "name": "David M.",
     "initials": "DM",
     "role": "Google Reviewer",
     "rating": 5,
-    "text": "I was rear-ended on Highway 163 and suffered serious back injuries. Liam Perry took on my case and secured a fantastic settlement. His team was responsive, compassionate, and aggressive when dealing with the insurance company. Best decision I made was calling Perry Personal Injury Lawyers."
+    "text": "The entire team at Perry Personal Injury Lawyers treated me like family during one of the most difficult times of my life. They handled all the legal complexities while I focused on healing. Their results speak for themselves."
+  },
+  {
+    "id": 4,
+    "name": "Sarah L.",
+    "initials": "SL",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "I was hit by a truck while crossing the street in downtown San Diego. Liam Perry's aggressive representation and attention to detail resulted in a settlement that covered all my medical bills and lost income. I couldn't have asked for better legal representation."
   },
   {
     "id": 5,
-    "name": "Amanda K.",
-    "initials": "AK",
+    "name": "Robert K.",
+    "initials": "RK",
     "role": "Google Reviewer",
     "rating": 5,
-    "text": "After my rideshare accident, I was overwhelmed and confused about my rights. Liam Perry made the entire process smooth and stress-free. He fought hard for me and won a settlement that changed my life. His podcast is also incredibly informative - I wish I had found it sooner!"
+    "text": "Perry Personal Injury Lawyers went above and beyond in handling my rideshare accident case. Their knowledge of California law and willingness to take my case to trial if necessary showed me they were truly committed to getting me justice."
   },
   {
     "id": 6,
-    "name": "Carlos R.",
-    "initials": "CR",
+    "name": "Amanda H.",
+    "initials": "AH",
     "role": "Google Reviewer",
     "rating": 5,
-    "text": "Liam Perry is the real deal. After my truck accident case, I can confidently say he's one of the best personal injury attorneys in San Diego. He was honest, strategic, and relentless in pursuing justice for me. Perry Personal Injury Lawyers exceeded every expectation I had."
+    "text": "From the initial consultation to the final settlement, Liam Perry demonstrated exceptional legal skill and genuine compassion. He answered all my questions promptly and made sure I understood every aspect of my case. I'm grateful for his representation."
   }
 ];
 
@@ -195,11 +195,11 @@ export const stats = {
   "reviewCount": 200,
   "satisfactionRate": 99,
   "satisfactionLabel": "Client Success Rate",
-  "satisfactionVerbalization": "Perry Personal Injury Lawyers maintains a 99% client satisfaction rate, reflecting Liam Perry's commitment to personalized attention and aggressive advocacy for every San Diego accident victim.",
+  "satisfactionVerbalization": "Perry Personal Injury Lawyers maintains a 99% client satisfaction rate, reflecting Liam Perry's commitment to personalized attention, transparent communication, and aggressive advocacy for every accident victim in San Diego.",
   "casesHandled": 100,
   "casesLabel": "$100M+ Recovered",
-  "casesVerbalization": "Liam Perry and his team at Perry Personal Injury Lawyers have successfully recovered over $100 million in compensation for injured clients throughout San Diego County and Southern California.",
-  "ratingVerbalization": "With a 4.9-star rating across 200+ reviews, Perry Personal Injury Lawyers is recognized as one of San Diego's most trusted personal injury law firms for accident victims seeking justice."
+  "casesVerbalization": "Perry Personal Injury Lawyers has successfully recovered over $100 million in compensation for San Diego accident victims, securing maximum settlements and verdicts for clients injured in car accidents, truck collisions, and other preventable incidents.",
+  "ratingVerbalization": "With a 4.9-star rating based on over 200 client reviews, Perry Personal Injury Lawyers is recognized as one of San Diego's most trusted personal injury law firms, known for delivering exceptional results and compassionate legal representation."
 };
 
 export const navigation = {
@@ -224,7 +224,7 @@ export const navigation = {
 
 export const footer = {
   "logo": "Perry Personal Injury Lawyers",
-  "description": "San Diego Accident Attorneys & Law is a podcast dedicated to helping injury victims understand their legal rights and options. Hosted by Liam Perry, each episode provides practical guidance, legal insights, and real-world advice for anyone navigating the personal injury claims process in Southern California.",
+  "description": "San Diego Accident Attorneys & Law is your go-to podcast for understanding personal injury law in Southern California. Hosted by experienced trial attorney Liam Perry, each episode provides practical legal insights to help accident victims protect their rights and pursue fair compensation.",
   "copyright": "Perry Personal Injury Lawyers",
   "socialLinks": {
     "twitter": "#",
@@ -237,50 +237,50 @@ export const footer = {
 
 export const awards = [
   {
-    "name": "Super Lawyers Rising Stars",
-    "description": "Recognition for outstanding legal achievement and professional excellence in personal injury law in California"
-  },
-  {
-    "name": "Million Dollar Advocates Forum",
-    "description": "Exclusive membership for trial lawyers who have won million-dollar verdicts and settlements for their clients"
-  },
-  {
-    "name": "National Trial Lawyers Top 40 Under 40",
-    "description": "Selection as one of the nation's top young trial attorneys based on superior qualifications and trial results"
+    "name": "Super Lawyers Rising Star",
+    "description": "Recognized among the top up-and-coming attorneys in California for excellence in personal injury law and client advocacy."
   },
   {
     "name": "Avvo Clients' Choice Award",
-    "description": "Honored for receiving consistently excellent client reviews and ratings for personal injury representation"
+    "description": "Honored with the Clients' Choice Award for consistently receiving top ratings and positive reviews from satisfied personal injury clients."
+  },
+  {
+    "name": "National Trial Lawyers Top 40 Under 40",
+    "description": "Selected as one of the nation's top trial attorneys under 40 years old, demonstrating exceptional courtroom skill and case results."
   },
   {
     "name": "San Diego County Bar Association Member",
-    "description": "Active member in good standing, committed to professional development and legal excellence in San Diego"
+    "description": "Active member of the San Diego County Bar Association, committed to upholding the highest standards of legal practice and professional ethics."
+  },
+  {
+    "name": "Million Dollar Advocates Forum",
+    "description": "Exclusive membership reserved for trial lawyers who have won million-dollar verdicts and settlements for their clients."
   }
 ];
 
 export const about = {
-  "title": "About San Diego Accident Attorneys & Law with Liam Perry",
-  "description": "San Diego Accident Attorneys & Law is a podcast dedicated to empowering Southern California residents with the legal knowledge they need to protect their rights after an accident. Hosted by Liam Perry, founder of Perry Personal Injury Lawyers, this podcast breaks down complex personal injury law into practical, actionable advice. Each episode covers real-world scenarios facing San Diego accident victims, from navigating insurance claims to understanding California's comparative negligence laws. Whether you've been injured in a car crash, motorcycle accident, or pedestrian collision, Liam Perry provides the insights you need to make informed decisions about your case and your future.",
+  "title": "About San Diego Accident Attorneys & Law",
+  "description": "The San Diego Accident Attorneys & Law podcast brings you inside the world of personal injury law with host Liam Perry, founder of Perry Personal Injury Lawyers. Each episode delivers practical legal insights, real-world case analysis, and valuable advice for accident victims navigating the California legal system. Whether you've been injured in a car accident, truck collision, or other preventable incident, this podcast provides the knowledge and guidance you need to protect your rights and pursue fair compensation. Liam Perry combines years of courtroom experience with a genuine commitment to educating the San Diego community about their legal options after an accident.",
   "highlights": [
-    "Expert legal guidance from an experienced San Diego personal injury attorney",
-    "In-depth discussions of California accident laws and how they apply to your case",
-    "Real case studies and examples from actual San Diego personal injury claims",
-    "Practical tips for dealing with insurance companies and protecting your rights",
-    "Coverage of all major accident types including car, truck, motorcycle, and pedestrian crashes",
-    "Guest appearances from medical experts, accident reconstruction specialists, and other legal professionals"
+    "Expert legal insights from an experienced San Diego personal injury attorney",
+    "In-depth discussions of California accident laws and recent case developments",
+    "Practical advice for accident victims seeking justice and compensation",
+    "Real-world case examples and strategies for maximizing your claim",
+    "Guest interviews with medical experts, accident reconstruction specialists, and fellow legal professionals",
+    "Answers to common questions about car accidents, truck collisions, and other personal injury matters"
   ],
   "showReadMore": false
 };
 
 export const subscribeCTA = {
   "title": "Never Miss an Episode",
-  "description": "Stay informed about your legal rights and the latest developments in California personal injury law. Subscribe to San Diego Accident Attorneys & Law with Liam Perry to receive new episodes directly to your device. Each episode delivers valuable insights that could make a significant difference in your accident case or help you avoid common pitfalls that injury victims face. Join thousands of San Diego listeners who trust Liam Perry for honest, expert legal guidance.",
+  "description": "Subscribe to San Diego Accident Attorneys & Law with Liam Perry to receive the latest episodes directly to your favorite podcast platform. Stay informed about California personal injury law, learn from real case examples, and get practical advice that could make a difference in your accident claim. Whether you're currently dealing with an injury case or simply want to understand your legal rights, this podcast delivers valuable insights you won't find anywhere else.",
   "highlights": [
-    "Get notified immediately when new episodes are released",
-    "Access exclusive content and bonus episodes for subscribers",
-    "Learn how to maximize your personal injury claim's value",
-    "Understand your rights under California law before speaking with insurance adjusters",
-    "Hear real stories from accident victims and how they achieved justice"
+    "Weekly episodes covering the latest developments in California personal injury law",
+    "Expert analysis of accident cases and claims strategies from Liam Perry",
+    "Practical tips for dealing with insurance companies and protecting your rights",
+    "Guest interviews with medical professionals, investigators, and legal experts",
+    "Answers to listener questions about personal injury claims in San Diego"
   ]
 };
 
@@ -290,50 +290,50 @@ export const episodes = [
     "number": 1,
     "title": "Understanding Your Rights After a San Diego Car Accident",
     "subtitle": "Episode 1 \u2022 Perry Personal Injury Lawyers",
-    "description": "In this inaugural episode, Liam Perry walks through the critical first steps every San Diego accident victim should take immediately after a collision. Learn about California's fault-based insurance system, what information to collect at the scene, and common mistakes that can jeopardize your claim. Liam also discusses how San Diego's unique traffic patterns and busy highways like I-5, I-8, and Highway 163 contribute to accident risks.",
+    "description": "In this inaugural episode, Liam Perry walks listeners through the essential steps to take after a car accident in San Diego. Learn about California's fault-based insurance system, how to document the accident scene, what to say (and not say) to insurance adjusters, and when to seek legal representation. This foundational episode provides crucial information every San Diego driver needs to know.",
     "duration": "42 min",
     "date": "January 15, 2025",
     "category": "Car Accidents",
     "featured": true,
     "topic": "Car Accidents",
     "concepts": [
-      "Fault determination",
-      "Evidence collection",
-      "Insurance claims",
-      "California traffic laws"
+      "California fault-based insurance",
+      "Accident scene documentation",
+      "Insurance adjuster tactics",
+      "When to hire an attorney"
     ],
     "chapters": [
-      "Introduction to Personal Injury Law",
-      "What to Do at the Accident Scene",
-      "Dealing with Insurance Adjusters",
-      "When to Contact an Attorney",
-      "Common Mistakes to Avoid"
+      "Introduction to Personal Injury Law in California",
+      "Immediate Steps After a Car Accident",
+      "Dealing with Insurance Companies",
+      "Understanding Your Legal Rights",
+      "When to Contact an Attorney"
     ],
     "logo": "/images/logo.svg"
   },
   {
     "id": 2,
     "number": 2,
-    "title": "Motorcycle Accidents in San Diego: Overcoming Bias and Proving Your Case",
+    "title": "Truck Accident Cases: Why They're Different and More Complex",
     "subtitle": "Episode 2 \u2022 Perry Personal Injury Lawyers",
-    "description": "Liam Perry addresses the unique challenges motorcycle accident victims face in San Diego, including unfair bias from insurance companies and juries. This episode covers California's lane-splitting laws, helmet requirements, and how to build a strong case when the other driver claims they 'didn't see' you. Learn about the specific evidence needed to overcome stereotypes and secure fair compensation for your injuries.",
+    "description": "Liam Perry explains why truck accident cases involve unique legal challenges compared to standard car accidents. Discover the federal regulations governing commercial trucking, how to identify multiple liable parties, and why these cases often result in higher settlements. This episode is essential listening for anyone injured in a collision with a commercial vehicle in San Diego.",
     "duration": "38 min",
     "date": "January 22, 2025",
-    "category": "Motorcycle Accidents",
+    "category": "Truck Accidents",
     "featured": false,
-    "topic": "Motorcycle Accidents",
+    "topic": "Truck Accidents",
     "concepts": [
-      "Lane-splitting laws",
-      "Motorcycle bias",
-      "Helmet laws",
-      "Severe injury claims"
+      "Federal trucking regulations",
+      "Multiple liable parties",
+      "Black box data retrieval",
+      "Commercial insurance policies"
     ],
     "chapters": [
-      "California Motorcycle Laws",
-      "Common Causes of Motorcycle Crashes",
-      "Overcoming Insurance Bias",
-      "Documenting Your Injuries",
-      "Maximizing Your Settlement"
+      "The Scope of Truck Accidents in California",
+      "Federal Motor Carrier Safety Regulations",
+      "Identifying All Responsible Parties",
+      "Investigating Commercial Vehicle Crashes",
+      "Maximizing Compensation in Truck Accident Cases"
     ],
     "logo": "/images/logo.svg"
   }
@@ -342,38 +342,38 @@ export const episodes = [
 export const podcastTeam = [
   {
     "name": "Liam Perry",
-    "role": "Host & Lead Attorney",
+    "role": "Host & Founder",
     "photo": "/images/team-member.jpg",
     "slug": "liam-perry",
-    "bio": "Liam Perry is the founder of Perry Personal Injury Lawyers and a dedicated advocate for accident victims throughout San Diego County. With extensive trial experience and a passion for educating the community, Liam hosts the San Diego Accident Attorneys & Law podcast to empower injury victims with the knowledge they need to protect their rights.",
+    "bio": "Liam Perry is the founder of Perry Personal Injury Lawyers and host of San Diego Accident Attorneys & Law. With extensive experience representing accident victims throughout San Diego County, Liam Perry brings practical legal insights and compassionate guidance to every episode, making complex California personal injury law accessible to listeners.",
     "episodes": "Host of all episodes"
   }
 ];
 
 export const topicalEntryGrid = {
-  "title": "Explore Legal Topics by Practice Area",
+  "title": "Explore Personal Injury Topics",
   "tabs": [
     {
       "label": "Car Accidents",
       "links": [
         {
           "title": "Rear-End Collisions in San Diego",
-          "description": "Learn about liability in rear-end accidents and how California's presumption of fault works in your favor when you've been hit from behind.",
+          "description": "Learn about liability in rear-end accidents and how California's comparative negligence law affects your compensation when multiple parties share fault.",
           "href": "#rear-end-collisions"
         },
         {
           "title": "Intersection Accidents and Right-of-Way",
-          "description": "Understand who has the right-of-way at San Diego intersections and how to prove fault when drivers run red lights or fail to yield.",
+          "description": "Understand California traffic laws governing intersections and how to prove fault when accidents occur at San Diego's busiest crossroads.",
           "href": "#intersection-accidents"
         },
         {
-          "title": "Highway Accidents on I-5 and I-8",
-          "description": "Discover the unique challenges of high-speed freeway accidents and how to handle multi-vehicle collisions on San Diego's busiest highways.",
-          "href": "#highway-accidents"
+          "title": "Distracted Driving Claims",
+          "description": "Discover how to build a strong case when texting, phone use, or other distractions caused your accident and what evidence proves driver negligence.",
+          "href": "#distracted-driving"
         },
         {
-          "title": "Uninsured Motorist Claims",
-          "description": "Find out how to recover compensation when the at-fault driver has no insurance or flees the scene of the accident.",
+          "title": "Uninsured Motorist Protection",
+          "description": "Explore your options for recovery when hit by an uninsured or underinsured driver in California and how your own policy can provide coverage.",
           "href": "#uninsured-motorist"
         }
       ]
@@ -383,23 +383,23 @@ export const topicalEntryGrid = {
       "links": [
         {
           "title": "Commercial Truck Regulations",
-          "description": "Explore federal and California trucking regulations that truck drivers and companies must follow, and how violations strengthen your case.",
+          "description": "Learn how federal and California regulations govern commercial trucking companies and how violations can strengthen your injury claim.",
           "href": "#truck-regulations"
         },
         {
-          "title": "Determining Liability in Trucking Cases",
-          "description": "Learn how liability extends beyond the truck driver to include trucking companies, maintenance providers, and cargo loaders.",
-          "href": "#truck-liability"
+          "title": "Truck Driver Fatigue Cases",
+          "description": "Understand how hours-of-service violations and driver fatigue contribute to devastating truck accidents on San Diego highways.",
+          "href": "#driver-fatigue"
         },
         {
-          "title": "Black Box Data and Evidence",
-          "description": "Understand how electronic logging devices and black box data can prove negligence in San Diego truck accident cases.",
-          "href": "#black-box-data"
+          "title": "Cargo Loading Accidents",
+          "description": "Discover how improper cargo loading and securement can cause serious accidents and who bears liability when freight shifts or falls.",
+          "href": "#cargo-loading"
         },
         {
-          "title": "Catastrophic Injuries from Truck Crashes",
-          "description": "Discover how to value claims involving life-altering injuries like spinal cord damage, amputations, and traumatic brain injuries.",
-          "href": "#catastrophic-injuries"
+          "title": "Multiple Liable Parties in Trucking",
+          "description": "Explore how truck accident cases often involve multiple defendants including drivers, trucking companies, maintenance contractors, and manufacturers.",
+          "href": "#multiple-parties"
         }
       ]
     },
@@ -407,24 +407,19 @@ export const topicalEntryGrid = {
       "label": "Motorcycle Accidents",
       "links": [
         {
-          "title": "California Lane-Splitting Laws",
-          "description": "Get clarity on when lane-splitting is legal in California and how it affects fault determination in motorcycle accident claims.",
+          "title": "Lane Splitting Laws in California",
+          "description": "Understand California's unique lane splitting regulations and how they affect fault determination in motorcycle accident cases.",
           "href": "#lane-splitting"
         },
         {
-          "title": "Overcoming Motorcycle Bias",
-          "description": "Learn strategies for countering unfair stereotypes about motorcyclists that insurance companies use to reduce settlements.",
-          "href": "#motorcycle-bias"
+          "title": "Motorcycle Visibility and Awareness",
+          "description": "Learn how driver negligence and failure to see motorcyclists leads to serious accidents and what evidence proves lack of reasonable care.",
+          "href": "#motorcycle-visibility"
         },
         {
-          "title": "Road Hazards and Municipal Liability",
-          "description": "Find out when the City of San Diego or Caltrans can be held liable for dangerous road conditions that cause motorcycle crashes.",
+          "title": "Road Hazards and Motorcycle Crashes",
+          "description": "Discover how potholes, debris, and poor road maintenance disproportionately affect motorcyclists and when government entities can be held liable.",
           "href": "#road-hazards"
-        },
-        {
-          "title": "Protective Gear and Your Claim",
-          "description": "Understand how helmet use and protective clothing impact your motorcycle accident case under California law.",
-          "href": "#protective-gear"
         }
       ]
     },
@@ -432,24 +427,24 @@ export const topicalEntryGrid = {
       "label": "Pedestrian Accidents",
       "links": [
         {
-          "title": "Crosswalk Accidents in San Diego",
-          "description": "Learn about driver duties at crosswalks and how to prove fault when pedestrians are struck in marked or unmarked crossings.",
+          "title": "Crosswalk Accident Claims",
+          "description": "Understand pedestrian right-of-way laws in California and how to prove driver negligence when accidents occur in marked crosswalks.",
           "href": "#crosswalk-accidents"
         },
         {
-          "title": "Parking Lot Pedestrian Injuries",
-          "description": "Discover how liability works in parking lot accidents and what property owners must do to keep pedestrians safe.",
-          "href": "#parking-lot-injuries"
-        },
-        {
           "title": "Hit-and-Run Pedestrian Cases",
-          "description": "Find out how to pursue compensation when the driver who hit you flees the scene and cannot be immediately identified.",
+          "description": "Learn your legal options when struck by a hit-and-run driver and how uninsured motorist coverage can provide compensation.",
           "href": "#hit-and-run"
         },
         {
-          "title": "Severe Pedestrian Injury Claims",
-          "description": "Understand the full scope of damages available when pedestrian accidents result in permanent disabilities or disfigurement.",
-          "href": "#severe-pedestrian-injuries"
+          "title": "Parking Lot Pedestrian Injuries",
+          "description": "Explore liability issues when pedestrians are injured in parking lots and how property owners may share responsibility for unsafe conditions.",
+          "href": "#parking-lot-injuries"
+        },
+        {
+          "title": "School Zone Pedestrian Safety",
+          "description": "Discover enhanced penalties for drivers who injure pedestrians in school zones and how to maximize compensation in these cases.",
+          "href": "#school-zone-safety"
         }
       ]
     },
@@ -458,23 +453,18 @@ export const topicalEntryGrid = {
       "links": [
         {
           "title": "Who Can File a Wrongful Death Claim",
-          "description": "Learn which family members have the legal right to pursue wrongful death claims under California law after a fatal accident.",
+          "description": "Understand California's wrongful death statutes and which family members have legal standing to pursue compensation after a fatal accident.",
           "href": "#wrongful-death-standing"
         },
         {
-          "title": "Damages in Wrongful Death Cases",
-          "description": "Understand the types of compensation available, including loss of companionship, financial support, and funeral expenses.",
+          "title": "Damages in Fatal Accident Cases",
+          "description": "Learn about economic and non-economic damages available in wrongful death claims including loss of companionship, future earnings, and funeral expenses.",
           "href": "#wrongful-death-damages"
         },
         {
-          "title": "Proving Negligence in Fatal Accidents",
-          "description": "Discover the evidence needed to establish that another party's negligence caused your loved one's death.",
+          "title": "Proving Negligence in Fatal Cases",
+          "description": "Discover the evidence needed to establish liability in wrongful death claims and how accident reconstruction experts support your case.",
           "href": "#proving-negligence"
-        },
-        {
-          "title": "Timeline for Wrongful Death Claims",
-          "description": "Find out how quickly you must act to preserve your family's right to compensation after a fatal accident in San Diego.",
-          "href": "#wrongful-death-timeline"
         }
       ]
     }
@@ -484,61 +474,60 @@ export const topicalEntryGrid = {
 export const trustBadges = [
   {
     "id": 1,
-    "title": "Super Lawyers Rising Stars",
-    "tooltip": "Super Lawyers Rising Stars recognizes outstanding lawyers who are 40 years old or younger or who have been practicing for 10 years or less. Selection is based on peer recognition, professional achievement in legal practice, and other cogent factors. Only 2.5% of attorneys in California receive this distinction.",
+    "title": "Super Lawyers Rising Star",
+    "tooltip": "Liam Perry has been recognized as a Super Lawyers Rising Star, an honor reserved for outstanding attorneys who are 40 years old or younger or who have been practicing for 10 years or less. This designation is awarded to only 2.5% of eligible attorneys in California based on peer recognition and professional achievement in personal injury law.",
     "badge": "/badges/placeholder.avif",
     "href": "#super-lawyers"
   },
   {
     "id": 2,
+    "title": "Avvo Clients' Choice Award",
+    "tooltip": "Perry Personal Injury Lawyers has earned the Avvo Clients' Choice Award, which recognizes attorneys who have received consistently high ratings and positive reviews from their clients. This award reflects Liam Perry's commitment to exceptional client service, transparent communication, and successful case outcomes for San Diego accident victims.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#avvo-award"
+  },
+  {
+    "id": 3,
     "title": "Million Dollar Advocates Forum",
-    "tooltip": "The Million Dollar Advocates Forum is one of the most prestigious groups of trial lawyers in the United States. Membership is limited to attorneys who have won million-dollar verdicts and settlements. Fewer than 1% of U.S. lawyers are members, demonstrating exceptional skill in high-stakes personal injury litigation.",
+    "tooltip": "Liam Perry is a member of the Million Dollar Advocates Forum, one of the most prestigious groups of trial lawyers in the United States. Membership is limited to attorneys who have won million-dollar verdicts and settlements, demonstrating exceptional skill in personal injury litigation and dedication to achieving maximum compensation for clients.",
     "badge": "/badges/placeholder.avif",
     "href": "#million-dollar-advocates"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "National Trial Lawyers Top 40 Under 40",
-    "tooltip": "The National Trial Lawyers Top 40 Under 40 is an invitation-only organization composed of the top trial lawyers from each state who are under 40 years old. Selection is based on superior qualifications, trial results, leadership, and other factors demonstrating excellence in personal injury advocacy.",
+    "tooltip": "Liam Perry has been selected for the National Trial Lawyers Top 40 Under 40, an invitation-only organization composed of the nation's top trial attorneys under the age of 40. This recognition highlights his exceptional litigation skills, significant case results, and leadership in personal injury law throughout California.",
     "badge": "/badges/placeholder.avif",
     "href": "#top-40-under-40"
   },
   {
-    "id": 4,
-    "title": "Avvo Clients' Choice Award",
-    "tooltip": "The Avvo Clients' Choice Award is given to attorneys who have received consistently excellent reviews and ratings from their clients. This recognition reflects Liam Perry's dedication to client communication, case results, and overall client satisfaction in personal injury matters.",
-    "badge": "/badges/placeholder.avif",
-    "href": "#avvo-clients-choice"
-  },
-  {
     "id": 5,
     "title": "San Diego County Bar Association",
-    "tooltip": "Active membership in the San Diego County Bar Association demonstrates Liam Perry's commitment to professional development, legal ethics, and staying current on California personal injury law. Bar association members participate in continuing education and contribute to the legal community.",
+    "tooltip": "Perry Personal Injury Lawyers maintains active membership in the San Diego County Bar Association, demonstrating commitment to continuing legal education, professional ethics, and service to the San Diego legal community. This membership ensures Liam Perry stays current on California law changes and best practices in personal injury representation.",
     "badge": "/badges/placeholder.avif",
-    "href": "#sdcba-member"
+    "href": "#bar-association"
   }
 ];
 
-export const chaptersDescription = "This episode covers essential topics from accident scene protocols to insurance negotiations and legal representation decisions."
+export const chaptersDescription = "This episode covers essential topics including immediate post-accident procedures, California negligence laws, insurance negotiations, evidence preservation, and the benefits of legal representation."
 
-export const reviewsInstruction = "All reviews are from verified clients of Perry Personal Injury Lawyers and are collected from Google, Avvo, and other independent review platforms."
+export const reviewsInstruction = "Client testimonials are collected from verified Google reviews and reflect real experiences of San Diego residents represented by Perry Personal Injury Lawyers in personal injury cases."
 
 export const episodeTopics = [
   "All",
   "Car Accidents",
-  "Motorcycle Accidents",
   "Truck Accidents",
+  "Motorcycle Accidents",
   "Pedestrian Accidents",
   "Wrongful Death",
-  "Personal Injury Law",
-  "Insurance Claims"
+  "Personal Injury Law"
 ];
 
 export const episodeLocations = [
   "All",
   "California",
   "San Diego",
-  "Southern California"
+  "San Diego County"
 ];
 
 export const formConfig = {
@@ -587,7 +576,7 @@ export const authorProfiles: Record<string, {
   "liam-perry": {
     name: "Liam Perry",
     slug: "liam-perry",
-    title: "Founder & Lead Personal Injury Attorney",
+    title: "Founder & Lead Trial Attorney",
     role: "Host & Lead Attorney",
     photo: "/images/attorney.jpg",
     barNumber: "",
@@ -597,9 +586,9 @@ export const authorProfiles: Record<string, {
     awards: [],
     practiceAreas: [],
     bio: [
-      "Liam Perry is the founder of Perry Personal Injury Lawyers, a San Diego-based law firm dedicated to representing accident victims throughout Southern California. With extensive experience in personal injury litigation, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His commitment to personalized client service and aggressive advocacy has earned him a reputation as one of San Diego's most trusted personal injury attorneys.",
-      "Throughout his legal career, Liam Perry has focused exclusively on personal injury law, allowing him to develop deep expertise in California's complex insurance regulations and liability statutes. Liam Perry understands that accident victims face not only physical injuries but also financial stress, emotional trauma, and uncertainty about their future. He approaches each case with compassion and determination, working tirelessly to ensure his clients receive the maximum compensation they deserve for medical expenses, lost wages, pain and suffering, and other damages.",
-      "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on accident prevention and legal rights. Through this podcast, Liam Perry shares valuable insights into personal injury law, discusses recent cases and legal developments, and provides practical advice for anyone who has been injured due to someone else's negligence. His goal is to empower listeners with knowledge while offering hope and guidance to those navigating the challenging aftermath of a serious accident."
+      "Liam Perry is a dedicated personal injury attorney who has devoted his legal career to fighting for accident victims throughout San Diego County. With extensive trial experience and a deep understanding of California personal injury law, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His approach combines aggressive advocacy with genuine compassion for those navigating the aftermath of life-changing injuries.",
+      "Throughout his career, Liam Perry has built Perry Personal Injury Lawyers into one of San Diego's most trusted personal injury firms. He understands that behind every case is a person whose life has been disrupted by someone else's negligence. Whether negotiating with insurance companies or presenting cases before juries, Liam Perry brings thorough preparation, strategic thinking, and unwavering commitment to achieving the best possible outcomes for his clients.",
+      "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on their legal rights following accidents. Through this podcast, he shares insights gained from years of experience, helping listeners understand complex legal concepts and empowering them to make informed decisions during difficult times. Liam Perry's dedication to client service and community education has earned him recognition as a leading voice in San Diego personal injury law."
 ],
     memberships: [],
     socialLinks: [],
