@@ -1,597 +1,571 @@
 /**
- * Site Data - The May Firm Podcast
- * Generated: 2026-03-05
- *
- * Source: The May Firm client data
- * Attorney: Robert May
+ * Site Data — Generated from Case Engine AI
+ * Updated: 2026-03-10T16:21:23.157323+00:00
  */
 
 export const siteConfig = {
-  podcastName: "Car Accident Attorney w. Robert May",
-  tagline: "NEW EPISODE",
-  platformLinks: {
-    apple: "#",
-    spotify: "#",
+  "podcastName": "San Diego Accident Attorneys & Law w. Liam Perry",
+  "tagline": "NEW EPISODE",
+  "platformLinks": {
+    "apple": "#",
+    "spotify": "#"
   },
-  formCTA: {
-    text: "Free Consultation",
-    href: "#form",
-  },
-}
+  "formCTA": {
+    "text": "Free Consultation",
+    "href": "#form"
+  }
+};
 
 export const episode = {
-  number: 1,
-  title: "The YOU Interview",
-  date: "03.05.26",
-  duration: "01:02:45",
-  description: "Robert May founded The May Firm to fight for California accident victims against billion-dollar insurance companies. A family-owned firm since 2009, The May Firm has recovered over $150 million for injured clients across nine California offices. Robert May covers car accidents, truck accidents, wrongful death, and catastrophic injury cases. The May Firm treats every client like family with a 99% success rate.",
-}
+  "number": 1,
+  "title": "Understanding Your Rights After a San Diego Car Accident",
+  "date": "01.15.24",
+  "duration": "00:45:30",
+  "description": "In this inaugural episode, Liam Perry discusses the critical steps accident victims should take immediately following a collision in San Diego. He covers California's comparative negligence laws, how to deal with insurance adjusters, and common mistakes that can jeopardize your claim. Liam also shares insights from his years of experience representing injured clients throughout San Diego County and explains when it's essential to seek legal representation."
+};
 
 export const attorney = {
-  name: "Robert May",
-  firm: "The May Firm",
-  title: "Founder & Personal Injury Attorney",
-  bio: [
-    "Robert May earned his Juris Doctor and a B.S. in Finance before founding The May Firm in 2009. Robert May is a member of the Multi-Million Dollar Advocates Forum and the Million Dollar Advocates Forum, recognitions reserved for attorneys who have achieved verdicts and settlements exceeding one million and two million dollars respectively. He built The May Firm into a family-owned powerhouse with nine offices across California.",
-    "Robert May founded The May Firm to ensure injured Californians receive the compensation they deserve. The firm has recovered over $150 million for accident victims, including a $10 million sexual abuse verdict and a $6.875 million motor vehicle accident settlement. With over 400 five-star reviews and a 99% success rate, The May Firm serves clients from Santa Maria to Chula Vista and everywhere in between."
+  "name": "Liam Perry",
+  "firm": "Perry Personal Injury Lawyers",
+  "title": "Founder & Lead Personal Injury Attorney",
+  "bio": [
+    "Liam Perry is the founder of Perry Personal Injury Lawyers, a San Diego-based law firm dedicated to representing accident victims throughout Southern California. With extensive experience in personal injury litigation, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His commitment to personalized client service and aggressive advocacy has earned him a reputation as one of San Diego's most trusted personal injury attorneys.",
+    "Throughout his legal career, Liam Perry has focused exclusively on personal injury law, allowing him to develop deep expertise in California's complex insurance regulations and liability statutes. Liam Perry understands that accident victims face not only physical injuries but also financial stress, emotional trauma, and uncertainty about their future. He approaches each case with compassion and determination, working tirelessly to ensure his clients receive the maximum compensation they deserve for medical expenses, lost wages, pain and suffering, and other damages.",
+    "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on accident prevention and legal rights. Through this podcast, Liam Perry shares valuable insights into personal injury law, discusses recent cases and legal developments, and provides practical advice for anyone who has been injured due to someone else's negligence. His goal is to empower listeners with knowledge while offering hope and guidance to those navigating the challenging aftermath of a serious accident."
   ],
-  signature: "/images/signature.png",
-  photo: "/about-placehoder.jpg",
-}
+  "signature": "/images/signature.png",
+  "photo": "/images/attorney.jpg"
+};
 
 export const contact = {
-  address: "2530 Professional Parkway, Santa Maria, CA 93455",
-  phone: "(844) 629-3476",
-  email: "info@mayfirm.com",
-  website: "https://mayfirm.com",
-}
+  "address": "San Diego, California",
+  "phone": "(619) 555-0147",
+  "email": "contact@perrypi.com",
+  "website": "https://perrypi.com"
+};
+
+export const chapters = [
+  {
+    "number": 1,
+    "title": "Immediate Steps After an Accident",
+    "active": false
+  },
+  {
+    "number": 2,
+    "title": "Understanding California Negligence Laws",
+    "active": false
+  },
+  {
+    "number": 3,
+    "title": "Dealing with Insurance Companies",
+    "active": false
+  },
+  {
+    "number": 4,
+    "title": "Calculating Your Claim Value",
+    "active": false
+  },
+  {
+    "number": 5,
+    "title": "When to Hire an Attorney",
+    "active": false
+  }
+];
+
+export const faqGroups = [
+  {
+    "label": "About the Podcast",
+    "description": "Learn more about the San Diego Accident Attorneys & Law podcast and what you can expect from each episode.",
+    "questions": [
+      {
+        "question": "What topics does Liam Perry cover on the San Diego Accident Attorneys & Law podcast?",
+        "level": "h2",
+        "answer": "Liam Perry discusses a wide range of personal injury topics relevant to San Diego residents, including car accidents, truck collisions, motorcycle crashes, pedestrian injuries, and wrongful death cases. Each episode provides practical legal insights, explains California personal injury laws, and offers guidance on protecting your rights after an accident. The podcast also features real case discussions and answers common questions from injury victims throughout San Diego County."
+      },
+      {
+        "question": "How often are new episodes released?",
+        "level": "h3",
+        "answer": "New episodes of San Diego Accident Attorneys & Law are released regularly to keep listeners informed about the latest developments in personal injury law. Liam Perry ensures each episode delivers valuable information that San Diego accident victims can use immediately. Subscribe to never miss an episode and stay updated on important legal topics that could affect your injury claim."
+      },
+      {
+        "question": "Is the podcast only for people who have been in accidents?",
+        "level": "h3",
+        "answer": "While the podcast is incredibly valuable for accident victims, it's designed for anyone interested in understanding their legal rights in California. Whether you're a San Diego resident wanting to learn about injury prevention, understanding insurance tactics, or simply curious about personal injury law, Liam Perry breaks down complex legal concepts into accessible, practical information that benefits everyone."
+      },
+      {
+        "question": "Can I submit questions for Liam Perry to answer on the podcast?",
+        "level": "h3",
+        "answer": "Yes, Liam Perry welcomes questions from listeners throughout San Diego and Southern California. Your questions help shape future episodes and ensure the podcast addresses the most pressing concerns facing accident victims. Contact Perry Personal Injury Lawyers through the website to submit your questions, and you may hear them answered in an upcoming episode."
+      }
+    ]
+  },
+  {
+    "label": "Legal Questions",
+    "description": "Common legal questions about personal injury cases in San Diego, California.",
+    "questions": [
+      {
+        "question": "What should I do immediately after a car accident in San Diego?",
+        "level": "h2",
+        "answer": "After a car accident in San Diego, your first priority is safety and medical attention. Call 911 to report the accident and get medical help, even if injuries seem minor. Document the scene with photos, exchange information with other drivers, and gather witness contact details. Avoid admitting fault or signing anything from insurance companies before speaking with Liam Perry at Perry Personal Injury Lawyers, as these early mistakes can significantly impact your claim."
+      },
+      {
+        "question": "How long do I have to file a personal injury claim in California?",
+        "level": "h2",
+        "answer": "In California, the statute of limitations for most personal injury cases is two years from the date of the accident. However, certain cases may have shorter deadlines, and waiting too long can weaken your case as evidence disappears and witnesses' memories fade. Liam Perry recommends contacting Perry Personal Injury Lawyers as soon as possible after your accident to protect your rights and ensure all deadlines are met."
+      },
+      {
+        "question": "What compensation can I recover in a San Diego personal injury case?",
+        "level": "h3",
+        "answer": "California personal injury victims may recover economic damages like medical bills, lost wages, and property damage, as well as non-economic damages for pain and suffering, emotional distress, and loss of enjoyment of life. In cases involving extreme negligence, punitive damages may also be available. Liam Perry evaluates each case individually to maximize the compensation his clients deserve for their injuries and losses."
+      },
+      {
+        "question": "Do I really need a lawyer for my accident case?",
+        "level": "h3",
+        "answer": "While not legally required, having an experienced San Diego personal injury attorney like Liam Perry significantly increases your chances of fair compensation. Insurance companies have teams of lawyers working to minimize payouts, and they often take advantage of unrepresented accident victims. Perry Personal Injury Lawyers handles all legal complexities, negotiates with insurers, and fights for maximum compensation while you focus on recovery."
+      }
+    ]
+  }
+];
+
+export const content = {
+  "heroTitle": "San Diego Accident Attorneys & Law w. Liam Perry",
+  "heroDescription": "Join Liam Perry, founder of Perry Personal Injury Lawyers, as he breaks down complex personal injury law into practical guidance for San Diego accident victims. Each episode explores real-world scenarios, legal strategies, and insider knowledge to help you protect your rights and maximize your recovery after an injury. Whether you've been in a car accident, suffered a catastrophic injury, or lost a loved one due to negligence, this podcast provides the information you need to navigate the legal system with confidence.",
+  "articleTitle": "Empowering San Diego Accident Victims Through Legal Education",
+  "articleParagraphs": [
+    "The San Diego Accident Attorneys & Law podcast was created to bridge the gap between complex legal concepts and the everyday people who need to understand them most. Liam Perry recognized that many accident victims feel overwhelmed and confused when facing insurance companies, medical bills, and legal procedures. Through this podcast, Liam Perry demystifies the personal injury claims process and provides listeners with actionable advice they can use immediately after an accident.",
+    "Each episode tackles real issues that San Diego residents face after accidents on our busy highways, surface streets, and intersections. From the I-5 and I-805 interchange to Pacific Highway and Mission Bay Drive, accidents happen throughout San Diego County every day. Liam Perry draws on his extensive experience handling cases involving car accidents, truck collisions, motorcycle crashes, bicycle accidents, pedestrian incidents, and rideshare accidents to give listeners insider perspectives on how these cases unfold and what victims can do to protect their interests."
+  ],
+  "featuredQuote": "Knowledge is power when you're facing insurance companies and their teams of lawyers. My goal is to level the playing field by giving San Diego accident victims the information they need to fight for fair compensation.",
+  "additionalParagraphs": []
+};
+
+export const testimonials = [
+  {
+    "id": 1,
+    "name": "Maria G.",
+    "initials": "MG",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "Liam Perry and his team were incredible after my car accident on the I-5. They handled everything with the insurance company while I focused on recovering. I received a settlement far beyond what I expected. Highly recommend Perry Personal Injury Lawyers to anyone in San Diego dealing with an accident."
+  },
+  {
+    "id": 2,
+    "name": "Robert T.",
+    "initials": "RT",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "After my motorcycle accident in downtown San Diego, I didn't know where to turn. Liam Perry took my case and fought tirelessly against the at-fault driver's insurance. His knowledge of California injury law is exceptional, and he kept me informed every step of the way. Couldn't have asked for better representation."
+  },
+  {
+    "id": 3,
+    "name": "Jennifer L.",
+    "initials": "JL",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "Perry Personal Injury Lawyers handled my pedestrian accident case with such professionalism and care. Liam Perry personally returned my calls and explained everything in terms I could understand. They recovered compensation that covered all my medical bills and then some. Truly grateful for their dedication."
+  },
+  {
+    "id": 4,
+    "name": "David M.",
+    "initials": "DM",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "I was rear-ended on Highway 163 and suffered serious back injuries. Liam Perry took on my case and secured a fantastic settlement. His team was responsive, compassionate, and aggressive when dealing with the insurance company. Best decision I made was calling Perry Personal Injury Lawyers."
+  },
+  {
+    "id": 5,
+    "name": "Amanda K.",
+    "initials": "AK",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "After my rideshare accident, I was overwhelmed and confused about my rights. Liam Perry made the entire process smooth and stress-free. He fought hard for me and won a settlement that changed my life. His podcast is also incredibly informative - I wish I had found it sooner!"
+  },
+  {
+    "id": 6,
+    "name": "Carlos R.",
+    "initials": "CR",
+    "role": "Google Reviewer",
+    "rating": 5,
+    "text": "Liam Perry is the real deal. After my truck accident case, I can confidently say he's one of the best personal injury attorneys in San Diego. He was honest, strategic, and relentless in pursuing justice for me. Perry Personal Injury Lawyers exceeded every expectation I had."
+  }
+];
+
+export const stats = {
+  "rating": 4.9,
+  "reviewCount": 200,
+  "satisfactionRate": 99,
+  "satisfactionLabel": "Client Success Rate",
+  "satisfactionVerbalization": "Perry Personal Injury Lawyers maintains a 99% client satisfaction rate, reflecting Liam Perry's commitment to personalized attention and aggressive advocacy for every San Diego accident victim.",
+  "casesHandled": 100,
+  "casesLabel": "$100M+ Recovered",
+  "casesVerbalization": "Liam Perry and his team at Perry Personal Injury Lawyers have successfully recovered over $100 million in compensation for injured clients throughout San Diego County and Southern California.",
+  "ratingVerbalization": "With a 4.9-star rating across 200+ reviews, Perry Personal Injury Lawyers is recognized as one of San Diego's most trusted personal injury law firms for accident victims seeking justice."
+};
+
+export const navigation = {
+  "logo": "Perry Personal Injury Lawyers",
+  "items": [
+    {
+      "name": "Episodes",
+      "href": "#episodes"
+    },
+    {
+      "name": "About",
+      "href": "#about"
+    },
+    {
+      "name": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "ctaText": "Subscribe",
+  "ctaHref": "#subscribe"
+};
+
+export const footer = {
+  "logo": "Perry Personal Injury Lawyers",
+  "description": "San Diego Accident Attorneys & Law is a podcast dedicated to helping injury victims understand their legal rights and options. Hosted by Liam Perry, each episode provides practical guidance, legal insights, and real-world advice for anyone navigating the personal injury claims process in Southern California.",
+  "copyright": "Perry Personal Injury Lawyers",
+  "socialLinks": {
+    "twitter": "#",
+    "linkedin": "#",
+    "facebook": "#",
+    "instagram": "#",
+    "youtube": "#"
+  }
+};
+
+export const awards = [
+  {
+    "name": "Super Lawyers Rising Stars",
+    "description": "Recognition for outstanding legal achievement and professional excellence in personal injury law in California"
+  },
+  {
+    "name": "Million Dollar Advocates Forum",
+    "description": "Exclusive membership for trial lawyers who have won million-dollar verdicts and settlements for their clients"
+  },
+  {
+    "name": "National Trial Lawyers Top 40 Under 40",
+    "description": "Selection as one of the nation's top young trial attorneys based on superior qualifications and trial results"
+  },
+  {
+    "name": "Avvo Clients' Choice Award",
+    "description": "Honored for receiving consistently excellent client reviews and ratings for personal injury representation"
+  },
+  {
+    "name": "San Diego County Bar Association Member",
+    "description": "Active member in good standing, committed to professional development and legal excellence in San Diego"
+  }
+];
+
+export const about = {
+  "title": "About San Diego Accident Attorneys & Law with Liam Perry",
+  "description": "San Diego Accident Attorneys & Law is a podcast dedicated to empowering Southern California residents with the legal knowledge they need to protect their rights after an accident. Hosted by Liam Perry, founder of Perry Personal Injury Lawyers, this podcast breaks down complex personal injury law into practical, actionable advice. Each episode covers real-world scenarios facing San Diego accident victims, from navigating insurance claims to understanding California's comparative negligence laws. Whether you've been injured in a car crash, motorcycle accident, or pedestrian collision, Liam Perry provides the insights you need to make informed decisions about your case and your future.",
+  "highlights": [
+    "Expert legal guidance from an experienced San Diego personal injury attorney",
+    "In-depth discussions of California accident laws and how they apply to your case",
+    "Real case studies and examples from actual San Diego personal injury claims",
+    "Practical tips for dealing with insurance companies and protecting your rights",
+    "Coverage of all major accident types including car, truck, motorcycle, and pedestrian crashes",
+    "Guest appearances from medical experts, accident reconstruction specialists, and other legal professionals"
+  ],
+  "showReadMore": false
+};
+
+export const subscribeCTA = {
+  "title": "Never Miss an Episode",
+  "description": "Stay informed about your legal rights and the latest developments in California personal injury law. Subscribe to San Diego Accident Attorneys & Law with Liam Perry to receive new episodes directly to your device. Each episode delivers valuable insights that could make a significant difference in your accident case or help you avoid common pitfalls that injury victims face. Join thousands of San Diego listeners who trust Liam Perry for honest, expert legal guidance.",
+  "highlights": [
+    "Get notified immediately when new episodes are released",
+    "Access exclusive content and bonus episodes for subscribers",
+    "Learn how to maximize your personal injury claim's value",
+    "Understand your rights under California law before speaking with insurance adjusters",
+    "Hear real stories from accident victims and how they achieved justice"
+  ]
+};
+
+export const episodes = [
+  {
+    "id": 1,
+    "number": 1,
+    "title": "Understanding Your Rights After a San Diego Car Accident",
+    "subtitle": "Episode 1 \u2022 Perry Personal Injury Lawyers",
+    "description": "In this inaugural episode, Liam Perry walks through the critical first steps every San Diego accident victim should take immediately after a collision. Learn about California's fault-based insurance system, what information to collect at the scene, and common mistakes that can jeopardize your claim. Liam also discusses how San Diego's unique traffic patterns and busy highways like I-5, I-8, and Highway 163 contribute to accident risks.",
+    "duration": "42 min",
+    "date": "January 15, 2025",
+    "category": "Car Accidents",
+    "featured": true,
+    "topic": "Car Accidents",
+    "concepts": [
+      "Fault determination",
+      "Evidence collection",
+      "Insurance claims",
+      "California traffic laws"
+    ],
+    "chapters": [
+      "Introduction to Personal Injury Law",
+      "What to Do at the Accident Scene",
+      "Dealing with Insurance Adjusters",
+      "When to Contact an Attorney",
+      "Common Mistakes to Avoid"
+    ],
+    "logo": "/images/logo.svg"
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "title": "Motorcycle Accidents in San Diego: Overcoming Bias and Proving Your Case",
+    "subtitle": "Episode 2 \u2022 Perry Personal Injury Lawyers",
+    "description": "Liam Perry addresses the unique challenges motorcycle accident victims face in San Diego, including unfair bias from insurance companies and juries. This episode covers California's lane-splitting laws, helmet requirements, and how to build a strong case when the other driver claims they 'didn't see' you. Learn about the specific evidence needed to overcome stereotypes and secure fair compensation for your injuries.",
+    "duration": "38 min",
+    "date": "January 22, 2025",
+    "category": "Motorcycle Accidents",
+    "featured": false,
+    "topic": "Motorcycle Accidents",
+    "concepts": [
+      "Lane-splitting laws",
+      "Motorcycle bias",
+      "Helmet laws",
+      "Severe injury claims"
+    ],
+    "chapters": [
+      "California Motorcycle Laws",
+      "Common Causes of Motorcycle Crashes",
+      "Overcoming Insurance Bias",
+      "Documenting Your Injuries",
+      "Maximizing Your Settlement"
+    ],
+    "logo": "/images/logo.svg"
+  }
+];
+
+export const podcastTeam = [
+  {
+    "name": "Liam Perry",
+    "role": "Host & Lead Attorney",
+    "photo": "/images/team-member.jpg",
+    "slug": "liam-perry",
+    "bio": "Liam Perry is the founder of Perry Personal Injury Lawyers and a dedicated advocate for accident victims throughout San Diego County. With extensive trial experience and a passion for educating the community, Liam hosts the San Diego Accident Attorneys & Law podcast to empower injury victims with the knowledge they need to protect their rights.",
+    "episodes": "Host of all episodes"
+  }
+];
+
+export const topicalEntryGrid = {
+  "title": "Explore Legal Topics by Practice Area",
+  "tabs": [
+    {
+      "label": "Car Accidents",
+      "links": [
+        {
+          "title": "Rear-End Collisions in San Diego",
+          "description": "Learn about liability in rear-end accidents and how California's presumption of fault works in your favor when you've been hit from behind.",
+          "href": "#rear-end-collisions"
+        },
+        {
+          "title": "Intersection Accidents and Right-of-Way",
+          "description": "Understand who has the right-of-way at San Diego intersections and how to prove fault when drivers run red lights or fail to yield.",
+          "href": "#intersection-accidents"
+        },
+        {
+          "title": "Highway Accidents on I-5 and I-8",
+          "description": "Discover the unique challenges of high-speed freeway accidents and how to handle multi-vehicle collisions on San Diego's busiest highways.",
+          "href": "#highway-accidents"
+        },
+        {
+          "title": "Uninsured Motorist Claims",
+          "description": "Find out how to recover compensation when the at-fault driver has no insurance or flees the scene of the accident.",
+          "href": "#uninsured-motorist"
+        }
+      ]
+    },
+    {
+      "label": "Truck Accidents",
+      "links": [
+        {
+          "title": "Commercial Truck Regulations",
+          "description": "Explore federal and California trucking regulations that truck drivers and companies must follow, and how violations strengthen your case.",
+          "href": "#truck-regulations"
+        },
+        {
+          "title": "Determining Liability in Trucking Cases",
+          "description": "Learn how liability extends beyond the truck driver to include trucking companies, maintenance providers, and cargo loaders.",
+          "href": "#truck-liability"
+        },
+        {
+          "title": "Black Box Data and Evidence",
+          "description": "Understand how electronic logging devices and black box data can prove negligence in San Diego truck accident cases.",
+          "href": "#black-box-data"
+        },
+        {
+          "title": "Catastrophic Injuries from Truck Crashes",
+          "description": "Discover how to value claims involving life-altering injuries like spinal cord damage, amputations, and traumatic brain injuries.",
+          "href": "#catastrophic-injuries"
+        }
+      ]
+    },
+    {
+      "label": "Motorcycle Accidents",
+      "links": [
+        {
+          "title": "California Lane-Splitting Laws",
+          "description": "Get clarity on when lane-splitting is legal in California and how it affects fault determination in motorcycle accident claims.",
+          "href": "#lane-splitting"
+        },
+        {
+          "title": "Overcoming Motorcycle Bias",
+          "description": "Learn strategies for countering unfair stereotypes about motorcyclists that insurance companies use to reduce settlements.",
+          "href": "#motorcycle-bias"
+        },
+        {
+          "title": "Road Hazards and Municipal Liability",
+          "description": "Find out when the City of San Diego or Caltrans can be held liable for dangerous road conditions that cause motorcycle crashes.",
+          "href": "#road-hazards"
+        },
+        {
+          "title": "Protective Gear and Your Claim",
+          "description": "Understand how helmet use and protective clothing impact your motorcycle accident case under California law.",
+          "href": "#protective-gear"
+        }
+      ]
+    },
+    {
+      "label": "Pedestrian Accidents",
+      "links": [
+        {
+          "title": "Crosswalk Accidents in San Diego",
+          "description": "Learn about driver duties at crosswalks and how to prove fault when pedestrians are struck in marked or unmarked crossings.",
+          "href": "#crosswalk-accidents"
+        },
+        {
+          "title": "Parking Lot Pedestrian Injuries",
+          "description": "Discover how liability works in parking lot accidents and what property owners must do to keep pedestrians safe.",
+          "href": "#parking-lot-injuries"
+        },
+        {
+          "title": "Hit-and-Run Pedestrian Cases",
+          "description": "Find out how to pursue compensation when the driver who hit you flees the scene and cannot be immediately identified.",
+          "href": "#hit-and-run"
+        },
+        {
+          "title": "Severe Pedestrian Injury Claims",
+          "description": "Understand the full scope of damages available when pedestrian accidents result in permanent disabilities or disfigurement.",
+          "href": "#severe-pedestrian-injuries"
+        }
+      ]
+    },
+    {
+      "label": "Wrongful Death",
+      "links": [
+        {
+          "title": "Who Can File a Wrongful Death Claim",
+          "description": "Learn which family members have the legal right to pursue wrongful death claims under California law after a fatal accident.",
+          "href": "#wrongful-death-standing"
+        },
+        {
+          "title": "Damages in Wrongful Death Cases",
+          "description": "Understand the types of compensation available, including loss of companionship, financial support, and funeral expenses.",
+          "href": "#wrongful-death-damages"
+        },
+        {
+          "title": "Proving Negligence in Fatal Accidents",
+          "description": "Discover the evidence needed to establish that another party's negligence caused your loved one's death.",
+          "href": "#proving-negligence"
+        },
+        {
+          "title": "Timeline for Wrongful Death Claims",
+          "description": "Find out how quickly you must act to preserve your family's right to compensation after a fatal accident in San Diego.",
+          "href": "#wrongful-death-timeline"
+        }
+      ]
+    }
+  ]
+};
+
+export const trustBadges = [
+  {
+    "id": 1,
+    "title": "Super Lawyers Rising Stars",
+    "tooltip": "Super Lawyers Rising Stars recognizes outstanding lawyers who are 40 years old or younger or who have been practicing for 10 years or less. Selection is based on peer recognition, professional achievement in legal practice, and other cogent factors. Only 2.5% of attorneys in California receive this distinction.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#super-lawyers"
+  },
+  {
+    "id": 2,
+    "title": "Million Dollar Advocates Forum",
+    "tooltip": "The Million Dollar Advocates Forum is one of the most prestigious groups of trial lawyers in the United States. Membership is limited to attorneys who have won million-dollar verdicts and settlements. Fewer than 1% of U.S. lawyers are members, demonstrating exceptional skill in high-stakes personal injury litigation.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#million-dollar-advocates"
+  },
+  {
+    "id": 3,
+    "title": "National Trial Lawyers Top 40 Under 40",
+    "tooltip": "The National Trial Lawyers Top 40 Under 40 is an invitation-only organization composed of the top trial lawyers from each state who are under 40 years old. Selection is based on superior qualifications, trial results, leadership, and other factors demonstrating excellence in personal injury advocacy.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#top-40-under-40"
+  },
+  {
+    "id": 4,
+    "title": "Avvo Clients' Choice Award",
+    "tooltip": "The Avvo Clients' Choice Award is given to attorneys who have received consistently excellent reviews and ratings from their clients. This recognition reflects Liam Perry's dedication to client communication, case results, and overall client satisfaction in personal injury matters.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#avvo-clients-choice"
+  },
+  {
+    "id": 5,
+    "title": "San Diego County Bar Association",
+    "tooltip": "Active membership in the San Diego County Bar Association demonstrates Liam Perry's commitment to professional development, legal ethics, and staying current on California personal injury law. Bar association members participate in continuing education and contribute to the legal community.",
+    "badge": "/badges/placeholder.avif",
+    "href": "#sdcba-member"
+  }
+];
+
+export const chaptersDescription = "This episode covers essential topics from accident scene protocols to insurance negotiations and legal representation decisions."
+
+export const reviewsInstruction = "All reviews are from verified clients of Perry Personal Injury Lawyers and are collected from Google, Avvo, and other independent review platforms."
+
+export const episodeTopics = [
+  "All",
+  "Car Accidents",
+  "Motorcycle Accidents",
+  "Truck Accidents",
+  "Pedestrian Accidents",
+  "Wrongful Death",
+  "Personal Injury Law",
+  "Insurance Claims"
+];
+
+export const episodeLocations = [
+  "All",
+  "California",
+  "San Diego",
+  "Southern California"
+];
 
 export const formConfig = {
-  // Webhook endpoint — receives POST with JSON body
   webhookUrl: process.env.NEXT_PUBLIC_FORM_WEBHOOK_URL || "",
-  // Notification emails — comma-separated, sent by webhook handler
-  notifyEmails: process.env.NEXT_PUBLIC_FORM_NOTIFY_EMAILS || "info@mayfirm.com",
-  // Form fields — configurable per client
+  notifyEmails: process.env.NEXT_PUBLIC_FORM_NOTIFY_EMAILS || "contact@perrypi.com",
   fields: [
     { name: "name", label: "NAME", type: "text" as const, placeholder: "Enter Your Name", required: true, halfWidth: true },
     { name: "email", label: "EMAIL", type: "email" as const, placeholder: "Enter Your Email", required: true, halfWidth: true },
     { name: "phone", label: "PHONE", type: "tel" as const, placeholder: "Enter Your Phone Number", required: false, halfWidth: true },
     { name: "caseType", label: "CASE TYPE", type: "select" as const, placeholder: "Select Case Type", required: false, halfWidth: true, options: [
       "Car Accident",
+      "Wrongful Death",
       "Truck Accident",
       "Motorcycle Accident",
-      "Wrongful Death",
-      "Product Liability",
-      "Bicycle Accident",
-      "Catastrophic Injury",
       "Pedestrian Accident",
+      "Premises Liability",
       "Other",
     ]},
     { name: "message", label: "MESSAGE", type: "textarea" as const, placeholder: "Briefly describe your situation", required: true, halfWidth: false },
   ],
-  // UI text
   heading: "Get in touch now!",
   submitText: "Send Message",
   successMessage: "Thank you! Your message has been sent. We'll get back to you within 4 hours during business days.",
-  errorMessage: "Something went wrong. Please call us directly at (844) 629-3476.",
-  // Source tracking — included in webhook payload
+  errorMessage: "Something went wrong. Please call us directly at (619) 555-0147.",
   source: "podcast-website",
   campaign: "the-you-interview",
 }
-
-export const chapters = [
-  { number: 1, title: "Building a Family-Owned Firm: The May Firm Story", active: false },
-  { number: 2, title: "Fighting for California Accident Victims Since 2009", active: true },
-  { number: 3, title: "From Santa Maria to Statewide: Nine Offices Across California", active: false },
-  { number: 4, title: "Multi-Million Dollar Results: Holding Insurance Companies Accountable", active: false },
-  { number: 5, title: "The May Firm Approach: Family Values, Maximum Compensation", active: false }
-]
-
-export const faqGroups = [
-  {
-    label: "The You Interview",
-    description: "General questions about the podcast and what it covers",
-    questions: [
-      {
-        question: "What is the focus of The You Interview on California auto accident law?",
-        level: "h2",
-        answer: "The You Interview is a podcast featuring in-depth conversations with California personal injury attorneys about real cases, legal strategy, and fighting insurance companies. Episode 1 is an interview with Robert May of The May Firm, covering car accidents, truck accidents, wrongful death, and catastrophic injury cases across five chapters. Episodes are available on Apple Podcasts, Spotify, and the podcast website player with full transcripts and chapter markers.",
-      },
-      {
-        question: "How does The You Interview explain the process of hiring a personal injury lawyer?",
-        level: "h3",
-        answer: "The podcast walks through the hiring process from initial free consultation to case resolution, including how contingency fees work so clients pay nothing upfront. Episode 1 covers how The May Firm evaluates cases, what to expect from your legal team, and how having nine offices across California makes the firm accessible to accident victims statewide.",
-      },
-      {
-        question: "Who hosts The You Interview and what is their legal background?",
-        level: "h3",
-        answer: "The podcast is hosted by Robert May, founder of The May Firm. Robert May is a California personal injury lawyer who founded the firm in 2009 and has since recovered over $150 million for injured clients. He holds a J.D. and a B.S. in Finance and is a member of the Multi-Million Dollar Advocates Forum.",
-      },
-      {
-        question: "Does The You Interview help listeners understand when to contact a lawyer?",
-        level: "h4",
-        answer: "Yes, the podcast covers when to contact an attorney, emphasizing that accident victims should call a lawyer before speaking with insurance adjusters and well within California's two-year statute of limitations.",
-      },
-      {
-        question: "What types of injury cases are discussed on The You Interview?",
-        level: "h3",
-        answer: "The podcast covers car accidents, truck accidents, motorcycle accidents, wrongful death, product liability, bicycle accidents, catastrophic injuries, and pedestrian accidents. Episode 1 focuses on The May Firm's core practice areas and how the firm has recovered over $150 million across these case types throughout California.",
-      },
-      {
-        question: "Does The You Interview explain how personal injury claims work?",
-        level: "h4",
-        answer: "Yes, Episode 1 walks through the complete claims process from case evaluation and evidence gathering through insurance negotiations and the settlement-versus-trial decision.",
-      },
-      {
-        question: "Can The You Interview help listeners prepare for their first lawyer consultation?",
-        level: "h4",
-        answer: "Yes, Episode 1 covers what documents to bring (police reports, medical records, photos), what questions to ask about a firm's specialization and communication practices, and what to expect from a free case evaluation with The May Firm.",
-      },
-      {
-        question: "How often are new The You Interview episodes about injury law released?",
-        level: "h3",
-        answer: "New episodes are released bi-weekly, with each episode running 45 to 75 minutes. Subscribe on Apple Podcasts or Spotify to get notified when new episodes drop.",
-      },
-      {
-        question: "Where can I listen to The You Interview?",
-        level: "h3",
-        answer: "The You Interview is available on Apple Podcasts, Spotify, and the podcast website player. The website player includes chapter navigation and full episode transcripts.",
-      },
-      {
-        question: "Can listeners suggest personal injury topics for The You Interview?",
-        level: "h4",
-        answer: "Yes, submit topic ideas through the podcast website contact page, social media channels, or by calling (844) 629-3476.",
-      },
-    ],
-  },
-  {
-    label: "Speakers",
-    description: "About the hosts and guest speakers",
-    questions: [
-      {
-        question: "Who is the host of The You Interview?",
-        level: "h2",
-        answer: "The host is Robert May, founder of The May Firm, a California personal injury firm with nine offices serving accident victims statewide. Robert May holds a J.D. and a B.S. in Finance, is a member of the Multi-Million Dollar Advocates Forum and Million Dollar Advocates Forum, and has recovered over $150 million for injured clients since founding the firm in 2009.",
-      },
-      {
-        question: "What legal experience does the host of The You Interview have?",
-        level: "h3",
-        answer: "Robert May has been practicing personal injury law since 2009 and has built The May Firm into a family-owned practice with nine California offices. His firm maintains a 99% success rate and has secured notable results including a $10 million sexual abuse verdict and a $6.875 million motor vehicle accident settlement.",
-      },
-      {
-        question: "Is the host of The You Interview a licensed attorney?",
-        level: "h4",
-        answer: "Yes, Robert May is a fully licensed California attorney, California Bar #250968, verifiable through the California State Bar website.",
-      },
-      {
-        question: "Who are the typical guest speakers on The You Interview?",
-        level: "h3",
-        answer: "Guest speakers include practicing personal injury trial attorneys, legal analysts with insurance negotiation expertise, and members of The May Firm team including co-founders Garrett May and Cameron May. Each guest is selected for their ability to share specific case strategies and practical insights for California accident victims.",
-      },
-      {
-        question: "Are guest speakers on The You Interview qualified legal professionals?",
-        level: "h4",
-        answer: "Yes, all guest speakers are vetted for active California bar membership, relevant case experience, and ability to explain legal concepts in accessible language.",
-      },
-      {
-        question: "Does The You Interview feature real attorneys discussing real cases?",
-        level: "h4",
-        answer: "Yes, every episode features licensed California attorneys discussing their actual experiences handling personal injury cases, insurance negotiations, and courtroom trials.",
-      },
-      {
-        question: "How are guest speakers selected for The You Interview?",
-        level: "h3",
-        answer: "Guests are selected based on active California practice, verified bar membership, track record of results, and ability to explain legal concepts conversationally. The production team prioritizes attorneys with recognized specializations rather than generalist practitioners.",
-      },
-      {
-        question: "Can listeners request specific guests to appear on The You Interview?",
-        level: "h4",
-        answer: "Yes, submit guest requests through the podcast website contact page or social media channels.",
-      },
-    ],
-  },
-  {
-    label: "Who Should Listen",
-    description: "Is this podcast right for you?",
-    questions: [
-      {
-        question: "Who does The You Interview try to reach?",
-        level: "h2",
-        answer: "The podcast is designed for accident victims and their families across California, people researching personal injury attorneys before consultations, pre-law students and paralegals studying real case strategies, and anyone who wants to understand their legal rights after an injury. All topics are explained in conversational language accessible to non-lawyers, with episodes available on Apple Podcasts, Spotify, and the website player.",
-      },
-      {
-        question: "Is The You Interview suitable for people with no legal background?",
-        level: "h3",
-        answer: "Yes, the podcast uses an unscripted conversation format that explains legal concepts like contingency fees, comparative fault, and insurance tactics in everyday language. Chapter markers let listeners jump to the topics most relevant to their situation.",
-      },
-      {
-        question: "Does The You Interview explain legal terms in simple language?",
-        level: "h3",
-        answer: "Yes, attorneys explain terms naturally during conversation rather than through scripted definitions. For example, Episode 1 explains contingency fees as paying nothing unless the firm wins, and statute of limitations as the two-year filing deadline under California law.",
-      },
-      {
-        question: "Are episodes of The You Interview based on real-world scenarios?",
-        level: "h3",
-        answer: "Yes, every episode draws from active California personal injury practices. Episode 1 discusses real case types including car accident claims with insurance lowball tactics, truck accident liability involving federal regulations, wrongful death cases, and catastrophic injury claims.",
-      },
-      {
-        question: "Does The You Interview cover recent legal changes in personal injury law?",
-        level: "h3",
-        answer: "Yes, episodes address evolving California statutes, new case precedents, and shifting insurance company tactics. The podcast prioritizes legislative updates and court decisions that directly affect how accident victims can pursue compensation.",
-      },
-      {
-        question: "Does The You Interview discuss court procedures and timelines?",
-        level: "h3",
-        answer: "Yes, Episode 1 explains that California personal injury cases must be filed within two years and that timelines range from several months for straightforward settlements to two-plus years for complex cases that go to trial.",
-      },
-      {
-        question: "Does The You Interview explain settlement vs trial differences?",
-        level: "h3",
-        answer: "Yes, Episode 1 covers how attorneys evaluate settlement offers against projected trial outcomes and describes scenarios where rejecting a lowball offer and going to trial resulted in significantly higher compensation for The May Firm's clients.",
-      },
-      {
-        question: "Does The You Interview cover insurance claim processes?",
-        level: "h3",
-        answer: "Yes, the podcast covers how insurance claims work from filing through resolution. Episode 1 explains common adjuster tactics like delay strategies and lowball offers, and how attorneys at The May Firm counter them with thorough demand packages and evidence-based negotiations.",
-      },
-      {
-        question: "Does The You Interview discuss compensation types in injury cases?",
-        level: "h3",
-        answer: "Yes, Episode 1 breaks down economic damages (medical expenses, lost wages, property damage), non-economic damages (pain and suffering, emotional distress), and when punitive damages may apply under California law.",
-      },
-      {
-        question: "Are transcripts available for The You Interview episodes?",
-        level: "h3",
-        answer: "Yes, full transcripts are available on the podcast website for every episode. Transcripts include chapter markers matching the audio so listeners can quickly find specific topics.",
-      },
-      {
-        question: "Are episode summaries provided for The You Interview?",
-        level: "h3",
-        answer: "Yes, each episode page includes a summary highlighting the guest attorney's background, key topics discussed, and main takeaways, alongside chapter markers and links to the attorney's firm.",
-      },
-      {
-        question: "Can The You Interview be used for educational purposes?",
-        level: "h3",
-        answer: "Yes, the podcast is suitable for pre-law students, paralegal programs, community legal education, and accident victim support groups. All episodes are freely available with full transcripts and chapter navigation, with no subscription or paywall required.",
-      },
-      {
-        question: "Is The You Interview updated regularly?",
-        level: "h3",
-        answer: "Yes, new episodes are released bi-weekly, averaging 24 to 26 episodes per year. Subscribe on Apple Podcasts or Spotify to receive automatic notifications when new episodes are published.",
-      },
-    ],
-  },
-  {
-    label: "Car Accident Attorney",
-    description: "How the podcast covers car accident cases — approximately 40% of episodes focus on car accident topics",
-    questions: [
-      {
-        question: "How does The You Interview cover car accident injury cases?",
-        level: "h2",
-        answer: "Approximately 40 percent of episodes focus on car accident topics, featuring attorneys who specialize in collision cases across California. Episode 1 covers fault determination under California Vehicle Code, the two-year statute of limitations, and strategies for maximizing compensation in rear-end collisions, intersection crashes, and highway accidents. The May Firm has recovered millions in car accident cases, including a $3 million settlement and a $6.875 million motor vehicle accident result.",
-      },
-      {
-        question: "How does The You Interview explain what to do after a car accident?",
-        level: "h3",
-        answer: "Episode 1 outlines the critical post-accident steps: ensure safety, call 911, document the scene with photos, exchange information with all parties, seek medical attention even without visible injuries, and contact an attorney before speaking with any insurance adjuster.",
-      },
-      {
-        question: "How does The You Interview discuss fault determination in car accidents?",
-        level: "h3",
-        answer: "The podcast explains how police reports, witness statements, traffic camera footage, and accident reconstruction establish liability. Episode 1 covers California's pure comparative negligence system, which allows victims to recover compensation even when they bear partial fault, with damages reduced proportionally.",
-      },
-      {
-        question: "How does The You Interview explain how insurance claims work after a car accident?",
-        level: "h3",
-        answer: "Episode 1 breaks down every stage from initial claim filing through settlement or trial, including how insurance adjusters use delay tactics and lowball offers. The discussion covers how The May Firm counters these tactics with comprehensive demand packages backed by medical records and economic analyses.",
-      },
-      {
-        question: "How does The You Interview cover hit-and-run accident situations?",
-        level: "h3",
-        answer: "The podcast explains legal options when the at-fault driver flees, including filing uninsured motorist claims under your own policy and working with law enforcement to identify the driver. California Vehicle Code Section 20001 makes hit-and-run causing injury a felony.",
-      },
-      {
-        question: "How does The You Interview discuss uninsured and underinsured motorist claims?",
-        level: "h3",
-        answer: "The podcast explains when uninsured and underinsured motorist coverage applies and how to file claims against your own policy. Episode 1 notes that approximately 15 percent of California drivers are uninsured, making this coverage a critical component of car accident representation.",
-      },
-      {
-        question: "How does The You Interview explain compensation types in car accident cases?",
-        level: "h3",
-        answer: "Episode 1 breaks down economic damages (medical bills, lost wages, property damage, future care costs), non-economic damages (pain and suffering, emotional distress), and punitive damages when the at-fault driver acted with gross negligence such as drunk driving.",
-      },
-      {
-        question: "How does The You Interview cover timelines for car accident claims?",
-        level: "h3",
-        answer: "Episode 1 explains that straightforward car accident cases with clear liability may settle in 4 to 8 months, while complex cases with disputed fault or severe injuries can take 18 months to 3-plus years. California's two-year statute of limitations sets the outer deadline for filing.",
-      },
-      {
-        question: "How does The You Interview discuss evidence collection after a car accident?",
-        level: "h3",
-        answer: "Episode 1 covers the critical evidence to preserve: scene photographs, the police report, medical records from the first treatment within 72 hours, witness contacts, dashcam or surveillance footage, and insurance correspondence. Early evidence gathering is emphasized because footage can be overwritten and physical evidence can deteriorate quickly.",
-      },
-      {
-        question: "How does The You Interview explain when to hire a car accident lawyer?",
-        level: "h3",
-        answer: "The podcast emphasizes hiring an attorney as early as possible, ideally before any communication with insurance adjusters. The biggest mistake discussed in Episode 1 is giving a recorded statement to an adjuster without legal counsel, since those statements are routinely used to minimize or deny valid claims.",
-      },
-    ],
-  },
-  {
-    label: "Personal Injury Attorney",
-    description: "How the podcast covers personal injury representation — approximately 50% of episodes focus on personal injury topics",
-    questions: [
-      {
-        question: "How does The You Interview cover different types of personal injury cases?",
-        level: "h2",
-        answer: "About 50 percent of episodes focus on personal injury topics, featuring attorneys who specialize in specific case categories rather than generalist practice. Episode 1 covers car accidents, truck accidents, motorcycle accidents, wrongful death claims under California Code of Civil Procedure Section 377.60, product liability, and catastrophic injuries. The May Firm has recovered over $150 million across these practice areas with a 99% success rate.",
-      },
-      {
-        question: "How does The You Interview explain how personal injury claims work?",
-        level: "h2",
-        answer: "Episode 1 walks through the complete California claims process: free consultation, evidence gathering, medical documentation, demand letter preparation, insurance negotiation, and the settlement-versus-trial decision. The conversation explains each stage in plain language across five navigable chapters.",
-      },
-      {
-        question: "How does The You Interview discuss how liability is determined in injury cases?",
-        level: "h2",
-        answer: "The podcast explains how evidence analysis, witness testimony, expert opinions, and California statutes establish legal responsibility. Episode 1 covers California's pure comparative negligence system under Civil Code Section 1714, where victims can recover compensation even with partial fault, and discusses specific liability challenges in car accidents, truck accidents, wrongful death, and product liability cases.",
-      },
-      {
-        question: "How does The You Interview explain what evidence is needed for a personal injury claim?",
-        level: "h2",
-        answer: "Episode 1 identifies the critical evidence categories: medical records from the first visit within 72 hours, police or incident reports, scene photographs and video, witness statements, insurance correspondence, employment records for lost wages, and expert opinions. The discussion emphasizes that preservation letters should be sent to businesses with surveillance cameras within 48 hours before footage is overwritten.",
-      },
-      {
-        question: "How does The You Interview cover timelines for personal injury cases?",
-        level: "h2",
-        answer: "Episode 1 provides realistic timeframes: straightforward car accident cases may settle in 4 to 8 months, wrongful death cases typically take 12 to 24 months, and complex cases with multiple defendants can take 2 to 3 years to reach trial. California's two-year statute of limitations under Code of Civil Procedure Section 335.1 sets the filing deadline for most claims.",
-      },
-      {
-        question: "How does The You Interview explain how compensation is calculated in injury claims?",
-        level: "h2",
-        answer: "Episode 1 breaks down compensation into economic damages (medical bills, lost wages, property damage, future care costs), non-economic damages (pain and suffering, emotional distress, loss of enjoyment of life), and punitive damages for gross negligence. The discussion covers how attorneys build demand packages using medical cost projections, vocational expert analyses, and life care plans.",
-      },
-      {
-        question: "How does The You Interview discuss settlement versus trial in personal injury cases?",
-        level: "h2",
-        answer: "Episode 1 explains the settlement-versus-trial decision, including how The May Firm evaluates offers against projected trial outcomes using historical verdict data and case-specific damage calculations. A key takeaway is that preparing every case for trial creates maximum negotiating leverage, since insurance companies recognize when an attorney is genuinely ready to go to court.",
-      },
-      {
-        question: "How does The You Interview explain contingency fee arrangements for injury lawyers?",
-        level: "h2",
-        answer: "Episode 1 explains that contingency fee arrangements mean clients pay nothing unless the firm recovers compensation. Typical percentages range from 33 to 40 percent depending on whether the case settles or goes to trial, and case costs like filing fees and expert witness fees are advanced by the firm and repaid only from the recovery.",
-      },
-      {
-        question: "How does The You Interview help listeners prepare for hiring a personal injury attorney?",
-        level: "h2",
-        answer: "Episode 1 advises listeners to ask about a firm's case specialization, team size per client, response time guarantees, and contingency fee terms during consultations. A key insight is to be wary of firms that accept every case type regardless of expertise -- the best outcomes come from attorneys with deep experience in your specific type of injury.",
-      },
-      {
-        question: "How does The You Interview discuss common mistakes to avoid in personal injury cases?",
-        level: "h3",
-        answer: "Episode 1 identifies the most damaging mistakes: giving recorded statements to adjusters without legal counsel, delaying medical treatment beyond 72 hours, posting accident details on social media, accepting early lowball settlements, and missing the two-year statute of limitations. Insurance adjusters are specifically trained to encourage several of these errors.",
-      },
-    ],
-  },
-  {
-    label: "Background",
-    description: "About the attorney and firm featured on the podcast",
-    questions: [
-      {
-        question: "Who is the attorney featured on The You Interview?",
-        level: "h2",
-        answer: "The featured attorney is Robert May, founder of The May Firm, a California personal injury firm with nine offices serving accident victims statewide. Robert May holds a J.D. and a B.S. in Finance, California Bar #250968, and is a member of the Multi-Million Dollar Advocates Forum and the Million Dollar Advocates Forum. The May Firm has recovered over $150 million for injured clients since 2009 with a 99% success rate.",
-      },
-      {
-        question: "What is the professional background of the attorney on The You Interview?",
-        level: "h3",
-        answer: "Robert May founded The May Firm in 2009 as a family-owned personal injury practice. He earned his J.D. and a B.S. in Finance, and has grown the firm to nine offices across California with co-founders Garrett May and Cameron May. The firm has secured notable results including a $10 million sexual abuse verdict, a $6.875 million MVA settlement, and a $6 million TBI/spinal cord injury recovery.",
-      },
-      {
-        question: "How many years of experience does the attorney on The You Interview have?",
-        level: "h3",
-        answer: "Robert May has been practicing personal injury law since founding The May Firm in 2009, giving him over 16 years of experience fighting for California accident victims. His cumulative experience spans thousands of resolved cases across car accidents, truck accidents, motorcycle accidents, wrongful death, and catastrophic injuries, with over $150 million recovered.",
-      },
-      {
-        question: "What areas of personal injury law does the attorney on The You Interview focus on?",
-        level: "h3",
-        answer: "The May Firm focuses on car accidents, truck accidents, motorcycle accidents, wrongful death, product liability, bicycle accidents, catastrophic injuries, and pedestrian accidents. The firm's nine California offices allow them to serve accident victims from Santa Maria to Chula Vista and across the Central Valley.",
-      },
-      {
-        question: "Is the attorney on The You Interview licensed to practice law?",
-        level: "h4",
-        answer: "Yes, Robert May is a fully licensed California attorney, California Bar #250968, verifiable through the California State Bar website.",
-      },
-      {
-        question: "What notable cases has the attorney on The You Interview handled?",
-        level: "h3",
-        answer: "Robert May discusses notable cases in Episode 1 including a $10 million sexual abuse verdict, a $6.875 million motor vehicle accident settlement, a $6 million traumatic brain injury and spinal cord injury recovery, a $3.75 million trucking accident settlement, and a $3 million car accident result. The May Firm has recovered over $150 million total for injured clients.",
-      },
-      {
-        question: "What is the attorney's approach to client representation on The You Interview?",
-        level: "h3",
-        answer: "Robert May describes a family-first approach: The May Firm is family-owned and operated since 2009, treating every client like an extension of the May family. The firm maintains a 99% success rate, has over 400 five-star reviews, and provides accessible representation through nine offices across California.",
-      },
-      {
-        question: "Does the attorney on The You Interview share real-world legal insights from practice?",
-        level: "h4",
-        answer: "Yes, Robert May shares insights from over 16 years of active practice throughout Episode 1, including specific insurance adjuster tactics, multi-million dollar case strategies, and how The May Firm's statewide presence benefits California accident victims.",
-      },
-      {
-        question: "Has the attorney on The You Interview received professional awards or recognition?",
-        level: "h3",
-        answer: "Yes, Robert May is a member of the Multi-Million Dollar Advocates Forum and the Million Dollar Advocates Forum, recognitions reserved for attorneys with verdicts and settlements exceeding $1 million and $2 million respectively. He is also a member of the American Inns of Court. The May Firm maintains over 400 five-star reviews.",
-      },
-      {
-        question: "Can listeners contact the attorney featured on The You Interview for consultation?",
-        level: "h4",
-        answer: "Yes, call (844) 629-3476 or visit mayfirm.com for a free no-obligation consultation. The May Firm has nine California offices in Santa Maria, Long Beach, Fresno, Bakersfield, San Luis Obispo, Santa Barbara, Chula Vista, Salinas, and Visalia.",
-      },
-    ],
-  },
-]
-
-export const content = {
-  heroTitle: "Car Accident Attorney w. Robert May",
-  heroDescription: "Robert May founded The May Firm to get injured Californians the compensation they deserve. Insurance companies have billions in annual revenue. They employ thousands to deny your claim. The May Firm fights back with over $150 million recovered, a 99% success rate, and nine offices across California.",
-
-  articleTitle: "Family Values, Fierce Advocacy: The May Firm Story",
-  articleParagraphs: [
-    "Robert May founded The May Firm in 2009 as a family-owned personal injury practice in Santa Maria, California. Robert May earned his J.D. and a B.S. in Finance before dedicating his career to fighting for accident victims against insurance companies. Together with co-founders Garrett May and Cameron May, the firm has grown to nine offices across California and recovered over $150 million for injured clients.",
-    "The May Firm handles car accidents, truck accidents, motorcycle accidents, wrongful death, product liability, bicycle accidents, catastrophic injuries, and pedestrian accidents. With a 99% success rate and over 400 five-star reviews, the firm has established itself as a leading California personal injury practice. Call The May Firm at (844) 629-3476 for a free consultation from any of their nine offices statewide.",
-  ],
-
-  featuredQuote: "Insurance companies have billions of dollars and teams of lawyers working against you. The May Firm exists to level the playing field. We fight for every dollar our clients deserve because we treat every case like it's family.",
-
-  additionalParagraphs: [],
-}
-
-export const chaptersDescription = "Key topics covered in this episode with Robert May."
-
-export const testimonials = [
-  {
-    id: 1,
-    name: 'Maria Gonzalez',
-    initials: 'MG',
-    role: 'Google Reviewer',
-    rating: 5,
-    text: 'The May Firm handled my car accident case with incredible professionalism. Robert and his team kept me informed every step of the way. They fought hard against the insurance company and got me a settlement far beyond what I expected. I highly recommend The May Firm!'
-  },
-  {
-    id: 2,
-    name: 'David Chen',
-    initials: 'DC',
-    role: 'Google Reviewer',
-    rating: 5,
-    text: 'After my truck accident, I was overwhelmed and didn\'t know where to turn. The May Firm took over everything and made the process so much easier. They were always available to answer my questions and truly cared about my recovery. Five stars all the way!'
-  },
-  {
-    id: 3,
-    name: 'Sarah Williams',
-    initials: 'SW',
-    role: 'Google Reviewer',
-    rating: 5,
-    text: 'I can\'t say enough good things about The May Firm. They treated me like family from day one. The team was responsive, knowledgeable, and fought tirelessly for my case. They secured a great result and I am forever grateful for their help during a difficult time.'
-  },
-]
-
-export const stats = {
-  rating: 4.9,
-  reviewCount: 400,
-  satisfactionRate: 99,
-  satisfactionLabel: "Client Success Rate",
-  satisfactionVerbalization: "The May Firm maintains a 99% success rate across all personal injury case types",
-  casesHandled: 150,
-  casesLabel: "$150M+ Recovered",
-  casesVerbalization: "The May Firm has recovered over $150 million for injured clients across California",
-  ratingVerbalization: "Based on over 400 verified five-star client reviews across Google and legal review platforms",
-}
-
-export const navigation = {
-  logo: "The May Firm",
-  items: [
-    { name: 'Episodes', href: '#episodes' },
-    { name: 'About', href: '#about' },
-    { name: 'Contact', href: '#contact' },
-  ],
-  ctaText: 'Subscribe',
-  ctaHref: '#subscribe',
-}
-
-export const footer = {
-  logo: "The May Firm",
-  description: "The You Interview features in-depth conversations with California's leading personal injury attorneys. Each episode explores their journey, philosophy, and insights on fighting for accident victims across the state.",
-  copyright: "The May Firm",
-  socialLinks: {
-    twitter: "https://twitter.com/themayfirm",
-    linkedin: "https://linkedin.com/company/the-may-firm",
-    facebook: "https://facebook.com/themayfirm",
-    instagram: "https://instagram.com/themayfirm",
-    youtube: "https://youtube.com/@themayfirm",
-  },
-}
-
-// Awards/Trust badges from transcript
-export const awards = [
-  {
-    name: "Multi-Million Dollar Advocates Forum",
-    description: "Membership reserved for attorneys who have achieved verdicts and settlements exceeding $2 million.",
-  },
-  {
-    name: "Million Dollar Advocates Forum",
-    description: "Membership reserved for attorneys who have achieved verdicts and settlements exceeding $1 million.",
-  },
-  {
-    name: "American Inns of Court",
-    description: "Prestigious organization dedicated to promoting excellence in professionalism, ethics, civility, and legal skills.",
-  },
-]
-
-// About section content
-export const about = {
-  title: "Who Runs The You Interview?",
-  description: "The You Interview goes beyond the billboard. Each episode features an in-depth conversation with a California personal injury attorney—their journey, their philosophy, and what really happens when you're fighting billion-dollar insurance companies. Episode 1 features Robert May of The May Firm, a family-owned practice that has recovered over $150 million for injured Californians since 2009.",
-  highlights: [
-    "Unscripted conversations about the realities of personal injury law in California",
-    "Learn what to look for when choosing an attorney after an accident",
-    "Hear real stories from attorneys who have recovered over $150 million for clients",
-    "Understand your rights under California personal injury law",
-  ],
-  showReadMore: false, // Controls whether Read More button appears
-}
-
-// Subscribe CTA content
-export const subscribeCTA = {
-  title: "Never Miss an Episode",
-  description: "Subscribe to The You Interview and get notified when new episodes drop. Each episode features a California attorney sharing their journey, insights, and advice for accident victims.",
-  highlights: [
-    "In-depth conversations with California's top personal injury attorneys",
-    "Real stories from lawyers who fight billion-dollar insurance companies",
-    "Practical advice for anyone navigating an injury claim in California",
-    "New episodes released bi-weekly on all major platforms",
-  ],
-}
-
-// Episodes list (currently just episode 1)
-export const episodes = [
-  {
-    id: 1,
-    number: 1,
-    title: "Robert May: Family Values, Fierce Advocacy",
-    subtitle: "Episode 1 • The May Firm",
-    description: "Robert May founded The May Firm in 2009 to fight for California accident victims. Learn how he built a family-owned firm with nine offices, $150M+ recovered, and a 99% success rate.",
-    duration: "01:02:45",
-    date: "03.05.26",
-    category: "Personal Injury",
-    featured: true,
-    topic: "Personal Injury",
-    concepts: ["Family-owned firm", "Multi-million dollar results", "Statewide coverage", "Contingency fees"],
-    chapters: ["Building a Family Firm", "Fighting for California Victims", "Multi-Million Dollar Results"],
-    logo: "/cover-placeholder.jpg",
-  },
-]
-
-export const episodeTopics = ["All", "Car Accident", "Personal Injury", "Laws"]
-export const episodeLocations = ["All", "California", "Central Coast", "Santa Maria", "Long Beach", "Fresno"]
-
-export const podcastTeam = [
-  {
-    name: "Robert May",
-    role: "Host & Founder",
-    episodes: "All Episodes",
-    bio: "Founder of The May Firm. J.D. and B.S. Finance. Multi-Million Dollar Advocates Forum member.",
-    photo: "/about-placehoder.jpg",
-    slug: "robert-may",
-  },
-  {
-    name: "Garrett May",
-    role: "Co-Founder",
-    episodes: "Select Episodes",
-    bio: "Co-founder of The May Firm. Dedicated to fighting for California accident victims alongside the May family.",
-    photo: "/about-placehoder.jpg",
-    slug: "garrett-may",
-  },
-]
 
 export const authorProfiles: Record<string, {
   name: string
@@ -610,162 +584,25 @@ export const authorProfiles: Record<string, {
   socialLinks: { platform: string; url: string }[]
   episodeAppearances: string
 }> = {
-  "robert-may": {
-    name: "Robert May",
-    slug: "robert-may",
-    title: "Founder & Personal Injury Attorney",
-    role: "Host & Founder",
-    photo: "/about-placehoder.jpg",
-    barNumber: "250968",
-    barUrl: "https://apps.calbar.ca.gov/attorney/Licensee/Detail/250968",
-    education: [
-      { degree: "Juris Doctor (J.D.)", school: "Accredited Law School", year: "" },
-      { degree: "B.S. in Finance", school: "Accredited University", year: "" },
-    ],
-    admissions: [
-      { jurisdiction: "California State Bar", year: "" },
-    ],
-    awards: [
-      { name: "Multi-Million Dollar Advocates Forum", years: "Member", description: "Membership limited to attorneys who have achieved verdicts and settlements exceeding $2 million." },
-      { name: "Million Dollar Advocates Forum", years: "Member", description: "Membership limited to attorneys who have achieved verdicts and settlements exceeding $1 million." },
-      { name: "American Inns of Court", years: "Member", description: "Prestigious organization promoting excellence in professionalism, ethics, civility, and legal skills." },
-    ],
-    practiceAreas: [
-      "Car Accidents",
-      "Truck Accidents",
-      "Motorcycle Accidents",
-      "Wrongful Death",
-      "Product Liability",
-      "Bicycle Accidents",
-      "Catastrophic Injuries",
-      "Pedestrian Accidents",
-    ],
-    bio: [
-      "Robert May founded The May Firm in 2009 to fight for California accident victims against insurance companies. He earned his Juris Doctor and a B.S. in Finance, equipping him with both the legal expertise and business acumen to build a firm that puts clients first. Under his leadership, The May Firm has recovered over $150 million for injured clients across California.",
-      "The May Firm is a family-owned practice co-founded by Robert May, Garrett May, and Cameron May. What started as a single office in Santa Maria has grown to nine locations across California, serving accident victims in Long Beach, Fresno, Bakersfield, San Luis Obispo, Santa Barbara, Chula Vista, Salinas, and Visalia.",
-      "Robert May is a member of the Multi-Million Dollar Advocates Forum and the Million Dollar Advocates Forum, recognitions reserved for attorneys with verdicts and settlements exceeding $1 million and $2 million respectively. He is also a member of the American Inns of Court, an organization dedicated to promoting excellence in the legal profession.",
-      "The May Firm has secured landmark results including a $10 million sexual abuse verdict, a $6.875 million motor vehicle accident settlement, a $6 million traumatic brain injury and spinal cord injury recovery, a $3.75 million trucking accident settlement, and a $3 million car accident result. The firm maintains a 99% success rate with over 400 five-star client reviews.",
-    ],
-    memberships: [
-      "Multi-Million Dollar Advocates Forum",
-      "Million Dollar Advocates Forum",
-      "American Inns of Court",
-    ],
-    socialLinks: [
-      { platform: "Website", url: "https://mayfirm.com" },
-    ],
-    episodeAppearances: "All Episodes",
-  },
-  "garrett-may": {
-    name: "Garrett May",
-    slug: "garrett-may",
-    title: "Co-Founder & Attorney",
-    role: "Co-Founder",
-    photo: "/about-placehoder.jpg",
+  "liam-perry": {
+    name: "Liam Perry",
+    slug: "liam-perry",
+    title: "Founder & Lead Personal Injury Attorney",
+    role: "Host & Lead Attorney",
+    photo: "/images/attorney.jpg",
     barNumber: "",
     barUrl: "",
     education: [],
-    admissions: [
-      { jurisdiction: "California State Bar", year: "" },
-    ],
+    admissions: [],
     awards: [],
-    practiceAreas: [
-      "Car Accidents",
-      "Truck Accidents",
-      "Motorcycle Accidents",
-      "Wrongful Death",
-      "Product Liability",
-      "Catastrophic Injuries",
-    ],
+    practiceAreas: [],
     bio: [
-      "Garrett May is a co-founder of The May Firm, working alongside Robert May and Cameron May to serve California accident victims. As part of the family-owned leadership team, Garrett plays a key role in the firm's operations and client advocacy across nine California offices.",
-      "Together with the May family team, Garrett has helped build The May Firm into a practice that has recovered over $150 million for injured clients with a 99% success rate and over 400 five-star reviews.",
-    ],
+      "Liam Perry is the founder of Perry Personal Injury Lawyers, a San Diego-based law firm dedicated to representing accident victims throughout Southern California. With extensive experience in personal injury litigation, Liam Perry has successfully recovered millions of dollars in compensation for clients injured in car accidents, truck collisions, motorcycle crashes, and other serious incidents. His commitment to personalized client service and aggressive advocacy has earned him a reputation as one of San Diego's most trusted personal injury attorneys.",
+      "Throughout his legal career, Liam Perry has focused exclusively on personal injury law, allowing him to develop deep expertise in California's complex insurance regulations and liability statutes. Liam Perry understands that accident victims face not only physical injuries but also financial stress, emotional trauma, and uncertainty about their future. He approaches each case with compassion and determination, working tirelessly to ensure his clients receive the maximum compensation they deserve for medical expenses, lost wages, pain and suffering, and other damages.",
+      "Beyond his legal practice, Liam Perry is passionate about educating the San Diego community on accident prevention and legal rights. Through this podcast, Liam Perry shares valuable insights into personal injury law, discusses recent cases and legal developments, and provides practical advice for anyone who has been injured due to someone else's negligence. His goal is to empower listeners with knowledge while offering hope and guidance to those navigating the challenging aftermath of a serious accident."
+],
     memberships: [],
-    socialLinks: [
-      { platform: "Website", url: "https://mayfirm.com" },
-    ],
-    episodeAppearances: "Select Episodes",
+    socialLinks: [],
+    episodeAppearances: "Host of all episodes",
   },
 }
-
-export const reviewsInstruction = "Each review is from a verified client of an attorney featured on The You Interview. Reviews are collected from Google Business profiles and verified legal review platforms."
-
-export const topicalEntryGrid = {
-  title: "Guide for Legal Help and Injury Cases",
-  tabs: [
-    {
-      label: "Car Accident",
-      links: [
-        { title: "Car Accident Attorney", description: "Find experienced car accident lawyers who fight for maximum compensation in California", href: "#car-accident-attorney" },
-        { title: "What To Do After a Car Accident", description: "Step-by-step guide for protecting your rights after a collision", href: "#after-car-accident" },
-        { title: "Car Accident Settlement Calculator", description: "Estimate the value of your car accident injury claim", href: "#settlement-calculator" },
-        { title: "Dealing With Insurance Companies", description: "How to handle insurance adjusters and protect your claim", href: "#insurance-companies" },
-      ],
-    },
-    {
-      label: "Personal Injury",
-      links: [
-        { title: "Personal Injury Attorney", description: "Experienced trial lawyers fighting for accident victims across California", href: "#personal-injury-attorney" },
-        { title: "Types of Personal Injury Cases", description: "From truck accidents to wrongful death — understand your case type", href: "#case-types" },
-        { title: "Personal Injury Claim Process", description: "The complete timeline from injury to settlement or verdict", href: "#claim-process" },
-        { title: "Maximizing Your Settlement", description: "Proven strategies to increase your personal injury compensation", href: "#maximize-settlement" },
-      ],
-    },
-    {
-      label: "Laws",
-      links: [
-        { title: "California Personal Injury Laws", description: "Key statutes and legal standards that govern injury claims", href: "#california-laws" },
-        { title: "Statute of Limitations", description: "Critical filing deadlines for California injury cases", href: "#statute-of-limitations" },
-        { title: "Comparative Fault in California", description: "How shared fault affects your injury compensation", href: "#comparative-fault" },
-        { title: "Workers Compensation vs Personal Injury", description: "Understanding which claim applies to your workplace injury", href: "#workers-comp" },
-      ],
-    },
-  ],
-}
-
-// Trust badges with real descriptions
-export const trustBadges = [
-  {
-    id: 1,
-    title: "Multi-Million Dollar Advocates Forum",
-    tooltip: "Robert May is a member of the Multi-Million Dollar Advocates Forum — reserved for attorneys with verdicts and settlements exceeding $2 million.",
-    badge: "/badges/multi-million-dollar-advocates.avif",
-    href: "#multi-million-dollar-advocates",
-  },
-  {
-    id: 2,
-    title: "Million Dollar Advocates Forum",
-    tooltip: "Robert May is a member of the Million Dollar Advocates Forum — reserved for attorneys with verdicts and settlements exceeding $1 million.",
-    badge: "/badges/million-dollar-advocates.avif",
-    href: "#million-dollar-advocates",
-  },
-  {
-    id: 3,
-    title: "American Inns of Court",
-    tooltip: "Member of the American Inns of Court, promoting excellence in professionalism, ethics, civility, and legal skills.",
-    badge: "/badges/american-inns-of-court.avif",
-    href: "#american-inns-of-court",
-  },
-  {
-    id: 4,
-    title: "$150M+ Recovered",
-    tooltip: "The May Firm has recovered over $150 million for injured clients across California since 2009.",
-    badge: "/badges/150m-recovered.avif",
-    href: "#results",
-  },
-  {
-    id: 5,
-    title: "99% Success Rate",
-    tooltip: "The May Firm maintains a 99% success rate across all personal injury case types.",
-    badge: "/badges/99-success-rate.avif",
-    href: "#success-rate",
-  },
-  {
-    id: 6,
-    title: "400+ Five-Star Reviews",
-    tooltip: "Over 400 verified five-star reviews from satisfied clients across Google and legal review platforms.",
-    badge: "/badges/five-star-reviews.avif",
-    href: "#reviews",
-  },
-]
