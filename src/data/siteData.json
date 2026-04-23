@@ -1,0 +1,597 @@
+{
+  "about": {
+    "title": "About Liam Perry and the San Diego Accident Attorneys & Law Podcast",
+    "description": "Liam Perry founded Perry Personal Injury Lawyers after years working as an insurance defense litigator for several of the largest carriers in the country. The firm represents injured Californians from seven offices across Southern California, with headquarters in downtown San Diego. The San Diego Accident Attorneys & Law podcast extends that work — every episode walks San Diego drivers through what the adjuster is actually thinking, how demand packages are evaluated, and what California law (SR-1, pure comparative negligence, the two-year statute) means for their claim.",
+    "highlights": [
+      "Hosted by an attorney who worked FOR the insurance companies before switching sides",
+      "Over $20 million recovered for injury clients across Southern California",
+      "Seven offices serving San Diego, Encinitas, Costa Mesa, La Mesa, Oceanside, Victorville, and La Quinta",
+      "Grounded in California law — SR-1, pure comparative negligence, two-year statute, UM/UIM",
+      "San Diego-anchored: I-5, I-8, the 805, SR-163, SR-15, and every community from Chula Vista to North County",
+      "Free consultation; contingency fee — no recovery, no fee"
+    ],
+    "showReadMore": false
+  },
+  "attorney": {
+    "name": "Liam Perry",
+    "firm": "Perry Personal Injury Lawyers",
+    "title": "Founding Attorney & Podcast Host",
+    "bio": [
+      "Liam Perry is the founding attorney of Perry Personal Injury Lawyers and host of San Diego Accident Attorneys & Law. Before building the firm, Liam spent years as an insurance defense litigator for several of the largest carriers in the country. He now brings that insider view to the other side of the table, representing injured Californians from seven offices across Southern California with his headquarters in downtown San Diego.",
+      "Liam's practice focuses on serious car, truck, motorcycle, rideshare, bicycle, and pedestrian accident cases, plus wrongful death and catastrophic injury matters. He has recovered more than $20 million for injured clients and is routinely co-counseled by other firms on complex cases. His approach pairs former-defense-counsel rigor with plain-language client communication, so injured Californians understand what the adjuster is doing at every step of their claim.",
+      "Beyond his practice, Liam hosts San Diego Accident Attorneys & Law to give San Diego drivers the insider view no general-market podcast can offer. Each episode anchors to California law and San Diego roadways, covers the decisions listeners face in the first 72 hours after a crash, and translates every piece of jargon the first time it appears — comparative negligence, demand package, UM/UIM, pre-litigation — so the audience leaves more prepared than they were 50 minutes earlier."
+    ],
+    "signature": "/images/signature.png",
+    "photo": "/attorney-1.avif"
+  },
+  "authorProfiles": {
+    "liam-perry": {
+      "name": "Liam Perry",
+      "slug": "liam-perry",
+      "title": "Founding Attorney & Podcast Host",
+      "role": "Host & Founding Attorney",
+      "photo": "/attorney-1.avif",
+      "barNumber": "296507",
+      "barUrl": "https://apps.calbar.ca.gov/attorney/Licensee/Detail/296507",
+      "education": [
+        {
+          "degree": "J.D.",
+          "school": "University of San Diego School of Law",
+          "year": "2014"
+        }
+      ],
+      "admissions": [
+        { "jurisdiction": "California", "year": "2014" },
+        { "jurisdiction": "U.S. District Court, Southern District of California", "year": "2015" },
+        { "jurisdiction": "U.S. Court of Appeals, Ninth Circuit", "year": "2017" }
+      ],
+      "awards": [],
+      "practiceAreas": [
+        "Car Accidents",
+        "Truck Accidents",
+        "Motorcycle Accidents",
+        "Rideshare Accidents",
+        "Bicycle Accidents",
+        "Pedestrian Accidents",
+        "Wrongful Death",
+        "Catastrophic Injury"
+      ],
+      "bio": [
+        "Liam Perry is the founding attorney of Perry Personal Injury Lawyers. Before building the firm, Liam spent years as an insurance defense litigator for several of the largest carriers in the country. That insider view now powers every case he takes on the plaintiff side, from routine rear-end claims to catastrophic-injury and wrongful-death matters across Southern California.",
+        "Liam is admitted in California, the U.S. District Court for the Southern District of California, and the U.S. Court of Appeals for the Ninth Circuit. He has recovered more than $20 million for injured clients and is routinely co-counseled by other firms on complex cases. The firm operates seven offices, with headquarters in downtown San Diego and additional locations in Encinitas, Costa Mesa, La Mesa, Oceanside, Victorville, and La Quinta.",
+        "As host of San Diego Accident Attorneys & Law, Liam focuses every episode on what injured San Diego drivers actually need to decide in the first 72 hours, 30 days, and pre-litigation window after a crash. He translates every piece of legal jargon the first time it appears and anchors every question to California law and San Diego roadways, from the 805 and I-5 through Mission Valley, Chula Vista, La Mesa, and North County."
+      ],
+      "memberships": [],
+      "socialLinks": [
+        { "platform": "instagram", "url": "https://www.instagram.com/Liamperry.esq" }
+      ],
+      "episodeAppearances": "Host of all episodes"
+    },
+    "aaron-sibley": {
+      "name": "Aaron Sibley",
+      "slug": "aaron-sibley",
+      "title": "Rotation Attorney",
+      "role": "Rotation Guest Attorney",
+      "photo": "/attorney-2.avif",
+      "barNumber": "",
+      "barUrl": "",
+      "education": [
+        {
+          "degree": "J.D.",
+          "school": "University of San Diego School of Law",
+          "year": "2014"
+        }
+      ],
+      "admissions": [
+        { "jurisdiction": "California", "year": "" },
+        { "jurisdiction": "U.S. District Court, Southern District of California", "year": "" },
+        { "jurisdiction": "U.S. Court of Appeals, Ninth Circuit", "year": "" }
+      ],
+      "awards": [
+        {
+          "name": "Super Lawyers Rising Star",
+          "years": "2022, 2023, 2024",
+          "description": "Recognized as a Super Lawyers Rising Star three consecutive years — an honor reserved for the top 2.5% of California attorneys under 40 or in their first 10 years of practice, based on peer nomination and independent research."
+        }
+      ],
+      "practiceAreas": [
+        "Personal Injury",
+        "Car Accidents",
+        "Motor Vehicle Litigation"
+      ],
+      "bio": [
+        "Aaron Sibley is a Perry Personal Injury Lawyers rotation attorney and featured guest on San Diego Accident Attorneys & Law. He earned his J.D. from the University of San Diego School of Law in 2014 and is admitted to practice in California, the U.S. District Court for the Southern District of California, and the U.S. Court of Appeals for the Ninth Circuit.",
+        "Aaron has been named a Super Lawyers Rising Star in 2022, 2023, and 2024. On the podcast, he rotates in alongside Liam Perry on episodes that call for a second perspective or a deep dive into a practice area where he has worked cases directly."
+      ],
+      "memberships": [],
+      "socialLinks": [],
+      "episodeAppearances": "Rotation guest on select episodes"
+    }
+  },
+  "awards": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Cold Open: Why This Show Exists",
+      "active": true
+    },
+    {
+      "number": 2,
+      "title": "Meet Liam Perry — From Insurance Defense to Plaintiff Side",
+      "active": false
+    },
+    {
+      "number": 3,
+      "title": "What California Drivers Get Wrong in the First 72 Hours",
+      "active": false
+    },
+    {
+      "number": 4,
+      "title": "Core Q&A: SR-1, Comparative Negligence, and the Two-Year Statute",
+      "active": false
+    },
+    {
+      "number": 5,
+      "title": "Lightning Round: San Diego Car Accident Myths",
+      "active": false
+    },
+    {
+      "number": 6,
+      "title": "CTA & Outro: How to Reach Perry Personal Injury Lawyers",
+      "active": false
+    }
+  ],
+  "chaptersDescription": "Episode 1 introduces Liam Perry, lays out why a San Diego-anchored accident podcast hosted by a former insurance defense litigator is different from anything else in the market, and walks listeners through the first-72-hour decisions that drive the value of every California car accident claim.",
+  "compliance": {
+    "jurisdiction": "California",
+    "firm": "Perry Personal Injury Lawyers",
+    "responsibleAttorneys": [
+      { "name": "Liam Perry", "barNumber": "296507" }
+    ],
+    "disclaimers": [
+      {
+        "kind": "attorney_advertising",
+        "text": "This podcast and website constitute attorney advertising under the California Rules of Professional Conduct 7.1 through 7.5 and California Business and Professions Code sections 6157 through 6159.2. The information provided is for general informational purposes only and does not constitute legal advice."
+      },
+      {
+        "kind": "no_ac_relationship",
+        "text": "Viewing this site, listening to the podcast, or contacting Perry Personal Injury Lawyers does not create an attorney-client relationship. No attorney-client relationship exists unless and until a written fee agreement has been signed by both the client and the firm."
+      },
+      {
+        "kind": "prior_results",
+        "text": "Past results do not guarantee future outcomes. Every case is unique and must be evaluated on its own facts. Any recovery amounts referenced reflect outcomes in specific prior matters and should not be interpreted as a prediction of any outcome in your case."
+      },
+      {
+        "kind": "testimonial",
+        "text": "Any client testimonial or endorsement displayed on this site reflects the individual experience of that client, is not a guarantee of a similar result, and was not compensated in exchange for the statement."
+      },
+      {
+        "kind": "jurisdictional",
+        "text": "Liam Perry is licensed to practice law in the State of California (Bar No. 296507), the U.S. District Court for the Southern District of California, and the U.S. Court of Appeals for the Ninth Circuit. Information on this site addresses California law and is not intended as a solicitation for legal services in any jurisdiction where Perry Personal Injury Lawyers' attorneys are not licensed to practice."
+      },
+      {
+        "kind": "fee_structure",
+        "text": "Perry Personal Injury Lawyers represents personal injury clients on a contingency-fee basis. No attorney's fees are charged unless a recovery is obtained. Clients may be responsible for case-related costs as set out in a written fee agreement. Fee structure is negotiable."
+      },
+      {
+        "kind": "podcast_content",
+        "text": "Content shared on the San Diego Accident Attorneys & Law podcast is for general informational and educational purposes only, is not legal advice, and should not be relied upon as a substitute for consultation with a licensed California attorney about the specific facts of your matter."
+      }
+    ]
+  },
+  "contact": {
+    "address": "614 Fifth Ave, Suite H1, San Diego, CA 92101",
+    "phone": "(760) 633-2233",
+    "email": "liam@perrypi.com",
+    "website": "https://perrypi.com"
+  },
+  "content": {
+    "heroTitle": "San Diego Accident Attorneys & Law w. Liam Perry",
+    "heroDescription": "Hosted by Liam Perry — a San Diego personal injury attorney who spent years as an insurance defense litigator before switching sides — this show gives San Diego drivers the insider view of how California car accident claims actually get valued, fought, and paid. Every episode anchors to California law and San Diego roadways, translates every piece of legal jargon the first time it appears, and leaves the listener more prepared for their claim than they were 50 minutes earlier.",
+    "articleTitle": "The Insider's View of San Diego Car Accident Claims",
+    "articleParagraphs": [
+      "San Diego Accident Attorneys & Law fills the gap every San Diego driver runs into when they start Googling after a crash. National-scope podcasts never speak to California law — no SR-1, no pure comparative negligence, no two-year statute. Local content is mostly thinly disguised law firm advertising that never teaches anyone anything. And most lawyer-hosted shows are produced by attorneys who have only ever worked the plaintiff side, without the insider view of how adjusters actually evaluate claims. Liam Perry spent years as an insurance defense litigator for several of the largest carriers in the country before switching sides, which means every episode gets to use that insider lens.",
+      "Each episode anchors to a real scenario a San Diego driver is navigating right now — rear-ended on the 805, hit by an Uber near Petco Park, a dog bite on a walk through Balboa Park, a rideshare crash in Mission Valley — and walks through the decisions listeners have to make in the first 72 hours after the crash, then the first 30 days, then pre-litigation. Liam translates every term the first time it appears (comparative negligence, demand package, UM/UIM, pre-litigation) and anchors every statute to the California code section it actually comes from, so the audience can independently verify what they hear."
+    ],
+    "featuredQuote": "I spent years deciding what insurance companies were going to pay on claims. Now I get to make sure San Diego drivers don't leave that money on the table.",
+    "additionalParagraphs": []
+  },
+  "episode": {
+    "number": 1,
+    "title": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash",
+    "date": "TBD",
+    "duration": "TBD",
+    "description": "In the debut episode of San Diego Accident Attorneys & Law, Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — what to say (and not say) to the adjuster, when to file the SR-1, why late-onset neck and back pain does not mean it is too late, and how California's pure comparative negligence rule affects what a claim is actually worth. TODO: finalize title, description, and episode art from final recording and show notes."
+  },
+  "episodeLocations": [
+    "All",
+    "California",
+    "San Diego",
+    "San Diego County",
+    "Encinitas",
+    "Oceanside",
+    "La Mesa",
+    "Costa Mesa",
+    "Victorville",
+    "La Quinta"
+  ],
+  "episodeTopics": [
+    "All",
+    "Car Accidents",
+    "Truck Accidents",
+    "Motorcycle Accidents",
+    "Rideshare Accidents",
+    "Bicycle Accidents",
+    "Pedestrian Accidents",
+    "Wrongful Death",
+    "Catastrophic Injury",
+    "California Laws"
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash",
+      "subtitle": "Episode 1 • Perry Personal Injury Lawyers",
+      "description": "Liam Perry walks through the decisions every San Diego driver has to make in the first 72 hours after a car accident — talking to the adjuster, filing the SR-1, late-onset injuries, and California's pure comparative negligence rule. TODO: final description pulls from the recording.",
+      "duration": "TBD",
+      "date": "TBD",
+      "category": "Car Accidents",
+      "featured": true,
+      "topic": "Car Accidents",
+      "concepts": [
+        "SR-1 form California",
+        "Pure comparative negligence",
+        "Two-year statute of limitations",
+        "Talking to the adjuster",
+        "Late-onset neck and back injuries"
+      ],
+      "chapters": [
+        "Cold Open: Why This Show Exists",
+        "Meet Liam Perry — From Insurance Defense to Plaintiff Side",
+        "What California Drivers Get Wrong in the First 72 Hours",
+        "Core Q&A: SR-1, Comparative Negligence, and the Two-Year Statute",
+        "Lightning Round: San Diego Car Accident Myths",
+        "CTA & Outro: How to Reach Perry Personal Injury Lawyers"
+      ],
+      "audioUrl": "",
+      "guid": "",
+      "logo": "/episode-art-1.jpg"
+    }
+  ],
+  "faqGroups": [
+    {
+      "label": "About the Podcast",
+      "description": "Learn more about San Diego Accident Attorneys & Law w. Liam Perry and what to expect from each episode.",
+      "questions": [
+        {
+          "question": "What topics does Liam Perry cover on San Diego Accident Attorneys & Law?",
+          "level": "h2",
+          "answer": "Liam Perry covers everything a San Diego driver needs to know about California car accident claims, with rotation into truck, motorcycle, rideshare, bicycle, and pedestrian cases. Every episode anchors to California law — SR-1, pure comparative negligence, the two-year statute, UM/UIM — and to San Diego roadways from I-5 and the 805 through North County. Liam uses his former insurance-defense background to explain what the adjuster is actually thinking on each call."
+        },
+        {
+          "question": "How often are new episodes released?",
+          "level": "h3",
+          "answer": "San Diego Accident Attorneys & Law publishes on a weekly, evergreen cadence. Episodes run 50 to 55 minutes each and are organized by practice area cluster — Car Accidents as the primary cluster, with Truck, Motorcycle, Rideshare, Bicycle, Pedestrian, and broader personal injury in rotation — rather than numbered seasons."
+        },
+        {
+          "question": "Who is the target audience?",
+          "level": "h3",
+          "answer": "The show is built for San Diego drivers between 25 and 55 who have been in a car accident in the last 30 days or have a close family member who has. Secondary audiences include family members helping an injured loved one, referral sources like chiropractors and physical therapists who want a lawyer they can confidently send patients to, and other San Diego attorneys screening potential co-counsel on catastrophic cases."
+        },
+        {
+          "question": "Can I submit questions for the podcast?",
+          "level": "h3",
+          "answer": "Yes. Liam welcomes listener questions and case scenarios through perrypi.com. The show regularly addresses common questions from San Diego accident victims, and many episodes are shaped directly by what listeners are asking. The podcast provides general legal information and cannot replace individualized legal advice about your specific matter."
+        }
+      ]
+    },
+    {
+      "label": "California Car Accident Questions",
+      "description": "Common legal questions about car accident claims in San Diego and throughout California.",
+      "questions": [
+        {
+          "question": "How long do I have to file a car accident claim in California?",
+          "level": "h2",
+          "answer": "California's statute of limitations for most personal injury claims, including car accidents, is two years from the date of the injury. Property-damage-only claims generally run three years. Claims against California government entities require a written claim within six months and are governed by the Government Claims Act. Liam recommends contacting an attorney promptly to preserve evidence and meet every deadline that applies to your specific matter."
+        },
+        {
+          "question": "What is SR-1 and do I need to file one after a California accident?",
+          "level": "h2",
+          "answer": "SR-1 is the Report of Traffic Accident Occurring in California, filed with the California DMV. You are required to file it within 10 days if anyone was injured or killed, or if property damage to any person's property exceeded $1,000 — independent of whether the police came to the scene. Failing to file can result in a license suspension, so it is one of the first things Liam walks clients through after a crash."
+        },
+        {
+          "question": "What if I was partly at fault for the accident?",
+          "level": "h3",
+          "answer": "California follows pure comparative negligence, which means you can still recover even if you were the majority at fault for the crash — your recovery just gets reduced by your share of responsibility. Adjusters will try to assign you a higher percentage of fault than the facts support, because every point they add subtracts from what they pay. Liam's former defense experience is specifically useful for pushing back on those fault allocations."
+        },
+        {
+          "question": "The other driver was uninsured or underinsured. Am I out of options?",
+          "level": "h3",
+          "answer": "Not necessarily. California insurers are required to offer Uninsured and Underinsured Motorist (UM/UIM) coverage, so if you carry it — or if another household policy does — that coverage can step into the gap. Liam walks through UM/UIM in multiple episodes because it is one of the most misunderstood parts of a California claim."
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "logo": "Perry Personal Injury Lawyers",
+    "description": "San Diego Accident Attorneys & Law w. Liam Perry is a weekly podcast for San Diego drivers dealing with a car accident claim. Hosted by Perry Personal Injury Lawyers founder Liam Perry — a former insurance defense litigator — every episode anchors to California law and San Diego roadways to help listeners understand what their claim is actually worth.",
+    "copyright": "Perry Personal Injury Lawyers",
+    "socialLinks": {
+      "twitter": "#",
+      "linkedin": "#",
+      "facebook": "#",
+      "instagram": "https://www.instagram.com/Liamperry.esq",
+      "youtube": "#"
+    }
+  },
+  "formConfig": {
+    "webhookUrl": "",
+    "notifyEmails": "liam@perrypi.com",
+    "fields": [
+      {
+        "name": "name",
+        "label": "NAME",
+        "type": "text",
+        "placeholder": "Enter Your Name",
+        "required": true,
+        "halfWidth": true
+      },
+      {
+        "name": "email",
+        "label": "EMAIL",
+        "type": "email",
+        "placeholder": "Enter Your Email",
+        "required": true,
+        "halfWidth": true
+      },
+      {
+        "name": "phone",
+        "label": "PHONE",
+        "type": "tel",
+        "placeholder": "Enter Your Phone Number",
+        "required": false,
+        "halfWidth": true
+      },
+      {
+        "name": "caseType",
+        "label": "CASE TYPE",
+        "type": "select",
+        "placeholder": "Select Case Type",
+        "required": false,
+        "halfWidth": true,
+        "options": [
+          "Car Accident",
+          "Truck Accident",
+          "Motorcycle Accident",
+          "Rideshare Accident",
+          "Bicycle Accident",
+          "Pedestrian Accident",
+          "Wrongful Death",
+          "Other"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "MESSAGE",
+        "type": "textarea",
+        "placeholder": "Briefly describe your situation",
+        "required": true,
+        "halfWidth": false
+      }
+    ],
+    "heading": "Get in touch now!",
+    "submitText": "Send Message",
+    "successMessage": "Thank you! Your message has been sent. We'll get back to you within 4 hours during business days.",
+    "errorMessage": "Something went wrong. Please call us directly at (760) 633-2233.",
+    "source": "podcast-website",
+    "campaign": "san-diego-accident-attorneys-ep-1"
+  },
+  "navigation": {
+    "logo": "Perry Personal Injury Lawyers",
+    "items": [
+      { "name": "Episodes", "href": "#episodes" },
+      { "name": "About", "href": "#about" },
+      { "name": "Contact", "href": "#contact" }
+    ],
+    "ctaText": "Subscribe",
+    "ctaHref": "#subscribe"
+  },
+  "offices": [
+    { "name": "San Diego Office (Headquarters)", "address": "614 Fifth Ave, Suite H1", "city": "San Diego", "state": "CA", "zip": "92101" },
+    { "name": "Encinitas Office", "address": "336 Encinitas Blvd., Suite 240", "city": "Encinitas", "state": "CA", "zip": "92024" },
+    { "name": "Costa Mesa Office", "address": "600 Anton Blvd, Suite 640", "city": "Costa Mesa", "state": "CA", "zip": "92626" },
+    { "name": "La Mesa Office", "address": "7317 El Cajon Blvd., Suite 181", "city": "La Mesa", "state": "CA", "zip": "91942" },
+    { "name": "Oceanside Office", "address": "2003 S. El Camino Real, Suite 215", "city": "Oceanside", "state": "CA", "zip": "92054" },
+    { "name": "Victorville Office", "address": "15000 7th St, Suite 212D", "city": "Victorville", "state": "CA", "zip": "92395" },
+    { "name": "La Quinta Office", "address": "78010 Main St, Suite 200B", "city": "La Quinta", "state": "CA", "zip": "92253" }
+  ],
+  "podcastTeam": [
+    {
+      "name": "Liam Perry",
+      "role": "Host & Founding Attorney",
+      "photo": "/attorney-1.avif",
+      "slug": "liam-perry",
+      "bio": "Liam Perry is the founding attorney of Perry Personal Injury Lawyers and host of San Diego Accident Attorneys & Law. Before switching sides, Liam spent years as an insurance defense litigator for several of the largest carriers in the country, and he brings that insider view to every episode.",
+      "episodes": "Host of all episodes"
+    },
+    {
+      "name": "Aaron Sibley",
+      "role": "Rotation Attorney",
+      "photo": "/attorney-2.avif",
+      "slug": "aaron-sibley",
+      "bio": "Aaron Sibley is a Perry Personal Injury Lawyers rotation attorney. USD Law 2014, admitted in California, the Southern District of California, and the Ninth Circuit. Super Lawyers Rising Star 2022, 2023, and 2024.",
+      "episodes": "Rotation guest on select episodes"
+    }
+  ],
+  "reviewsInstruction": "Testimonials are populated only from verified third-party review platforms (Google Business Profile, Avvo). Per California Rules of Professional Conduct 7.1, testimonials must reflect actual client experiences and cannot guarantee a similar result in any other case.",
+  "rotationAttorneys": [
+    {
+      "name": "Aaron Sibley",
+      "slug": "aaron-sibley",
+      "bio_source": "Podcast Overview rotation attorney entry; bar number pending",
+      "education": { "degree": "J.D.", "school": "University of San Diego School of Law", "year": "2014" },
+      "admissions": [
+        "California",
+        "U.S. District Court, Southern District of California",
+        "U.S. Court of Appeals, Ninth Circuit"
+      ],
+      "awards": ["Super Lawyers Rising Star 2022, 2023, 2024"],
+      "todo": "TODO: Add Aaron Sibley to Supabase client_attorneys table; fill in California bar number; confirm photo asset."
+    }
+  ],
+  "siteConfig": {
+    "podcastName": "San Diego Accident Attorneys & Law w. Liam Perry",
+    "attorneyHandle": "Liamperry.esq",
+    "tagline": "Trial Lawyers Who Take Your Injury Personally.",
+    "taglineCandidates": [
+      "Trial Lawyers Who Take Your Injury Personally.",
+      "The insider's view on San Diego car accident claims.",
+      "Car accident conversations San Diego drivers actually need."
+    ],
+    "taglineNote": "Three candidates from Podcast Overview awaiting user sign-off. Default is candidate #1 — 'Trial Lawyers Who Take Your Injury Personally.' — pulled directly from perrypi.com homepage for brand continuity.",
+    "podcastUrl": "https://podcast-sandiegocaraccidentlawyer.vercel.app",
+    "rssFeedUrl": "https://rss2.flightcast.com/f7n4yz8fsrx3tivvijoxlmr2.xml",
+    "format": "Interview-driven, video-first",
+    "episodeLengthMinutes": "50-55",
+    "cadence": "Weekly, evergreen",
+    "platformLinks": {
+      "apple": "#",
+      "spotify": "#"
+    },
+    "formCTA": {
+      "text": "Free Consultation",
+      "href": "#form"
+    }
+  },
+  "stats": {
+    "rating": 5.0,
+    "reviewCount": 0,
+    "satisfactionRate": 0,
+    "satisfactionLabel": "",
+    "satisfactionVerbalization": "TODO: Populate from verified third-party review platform data (Google Business Profile, Avvo) before launch. Per California RPC 7.1, numeric claims about client satisfaction require substantiation.",
+    "casesHandled": 20,
+    "casesLabel": "$20M+ Recovered",
+    "casesVerbalization": "Perry Personal Injury Lawyers has recovered more than $20 million in settlements and verdicts for injured clients across Southern California. Past results do not guarantee a similar outcome in your case.",
+    "ratingVerbalization": "TODO: Populate rating and review count from Perry's verified Google Business Profile. Per California RPC 7.1, star-rating claims require citation to the verifiable source."
+  },
+  "subscribeCTA": {
+    "title": "Never Miss an Episode",
+    "description": "Subscribe to San Diego Accident Attorneys & Law w. Liam Perry to get the insider view of how California car accident claims actually get valued, fought, and paid. Each weekly episode anchors to California law and San Diego roadways, with plain-language answers from an attorney who worked for the insurance companies before switching sides.",
+    "highlights": [
+      "Insider commentary from a former insurance defense litigator",
+      "Every episode anchored to California law — SR-1, pure comparative negligence, UM/UIM, two-year statute",
+      "San Diego roadway and community hooks — I-5, the 805, I-8, SR-163, Mission Valley, Chula Vista, North County",
+      "First-72-hour, first-30-day, and pre-litigation decision frameworks for every claim",
+      "Answers to listener questions about real San Diego car accident scenarios"
+    ]
+  },
+  "testimonials": [],
+  "topicalEntryGrid": {
+    "title": "Explore Topics Covered on the Podcast",
+    "description": "Browse the San Diego accident topics Liam Perry covers on the show. Each card links to a deeper resource from Perry Personal Injury Lawyers on that situation.",
+    "tabs": [
+      {
+        "label": "Car Accidents",
+        "links": [
+          {
+            "title": "Rear-End Collisions on San Diego Freeways",
+            "description": "What a rear-end case on the 805, I-5, or I-8 is actually worth, how California's pure comparative negligence rule applies, and what adjusters look for when they evaluate liability.",
+            "href": "#rear-end-collisions"
+          },
+          {
+            "title": "Intersection Accidents and Right-of-Way",
+            "description": "California right-of-way rules, how fault gets established at busy San Diego intersections, and what evidence carries the most weight with adjusters and juries.",
+            "href": "#intersection-accidents"
+          },
+          {
+            "title": "Uninsured Motorist Claims in California",
+            "description": "How California UM and UIM coverage actually works, when to file against your own policy, and why this is one of the most misunderstood parts of a California claim.",
+            "href": "#uninsured-motorist"
+          },
+          {
+            "title": "Late-Onset Neck and Back Injuries",
+            "description": "Why soft-tissue pain often does not show up until 48 to 72 hours after the crash, what that means for your claim, and how to document it so the adjuster cannot dismiss it.",
+            "href": "#late-onset-injuries"
+          }
+        ]
+      },
+      {
+        "label": "Truck Accidents",
+        "links": [
+          {
+            "title": "Commercial Truck Regulations",
+            "description": "How federal Motor Carrier Safety Regulations interact with California law, and why commercial truck cases routinely involve multiple liable parties beyond the driver.",
+            "href": "#truck-regulations"
+          },
+          {
+            "title": "Truck Driver Fatigue Cases",
+            "description": "Hours-of-service violations, ELD logs, and how driver fatigue on long-haul routes into and out of San Diego drives liability and damages in commercial truck cases.",
+            "href": "#driver-fatigue"
+          },
+          {
+            "title": "Multiple Liable Parties in Trucking",
+            "description": "Driver, carrier, broker, loader, maintenance contractor, manufacturer — how to identify every potentially responsible defendant in a California commercial truck case.",
+            "href": "#multiple-parties"
+          }
+        ]
+      },
+      {
+        "label": "Motorcycle Accidents",
+        "links": [
+          {
+            "title": "California Lane Splitting Law",
+            "description": "California is the only state that expressly permits lane splitting. How CHP guidance interacts with negligence, and how adjusters try to use lane splitting to reduce a rider's recovery.",
+            "href": "#lane-splitting"
+          },
+          {
+            "title": "Motorcycle Visibility and Driver Negligence",
+            "description": "Why most San Diego motorcycle crashes involve a driver who failed to see the rider, and the evidence that establishes the failure-to-yield claim.",
+            "href": "#motorcycle-visibility"
+          },
+          {
+            "title": "Road Hazards and Motorcycle Crashes",
+            "description": "Potholes, debris, and poor road maintenance disproportionately hurt motorcyclists. When a California government entity can be held liable and how the Government Claims Act applies.",
+            "href": "#road-hazards"
+          }
+        ]
+      },
+      {
+        "label": "Rideshare",
+        "links": [
+          {
+            "title": "Uber and Lyft Accidents in California",
+            "description": "Which insurance layer applies during each phase of a rideshare trip, why the $1M rideshare policy matters, and how to pursue a claim as a passenger, another driver, or a pedestrian.",
+            "href": "#rideshare-coverage"
+          },
+          {
+            "title": "Passenger Injuries in Rideshare Crashes",
+            "description": "What passengers in Uber or Lyft vehicles are entitled to when the rideshare driver is at fault versus when the other driver is at fault, and how the claim process differs.",
+            "href": "#rideshare-passenger"
+          }
+        ]
+      },
+      {
+        "label": "Pedestrian & Bicycle",
+        "links": [
+          {
+            "title": "Crosswalk Accident Claims",
+            "description": "California pedestrian right-of-way, how fault gets proved in marked versus unmarked crosswalks, and why the first 72 hours of medical documentation matter so much.",
+            "href": "#crosswalk-accidents"
+          },
+          {
+            "title": "Bicycle Accidents in San Diego",
+            "description": "San Diego bike infrastructure, California bicycle right-of-way rules, and how to build a case when a driver's failure to look before turning causes serious rider injury.",
+            "href": "#bicycle-accidents"
+          },
+          {
+            "title": "Hit-and-Run Pedestrian and Bike Cases",
+            "description": "California options when the at-fault driver leaves the scene, including UM coverage, MedPay, and how law enforcement can help identify a responsible driver.",
+            "href": "#hit-and-run"
+          }
+        ]
+      }
+    ]
+  },
+  "trustBadges": []
+}
