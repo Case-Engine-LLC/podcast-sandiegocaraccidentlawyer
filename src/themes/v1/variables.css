@@ -1,39 +1,42 @@
 /* ============================================
    CSS VARIABLES - PODCAST TEMPLATE
+   Liam Perry / San Diego palette
+   Primary #02073B deep navy | Secondary #3E75D9 blue | Accent #02073B
+   Source: Figma "Perry - Podcast Branding" Brand Colors swatches (oXTLtQw3PY0Htem6dBGMca)
    ============================================ */
 
 :root {
   /* ========== COLORS ========== */
-  /* Perry Personal Injury Lawyers brand palette — sourced from the firm's
-     WordPress theme stylesheet (wp-content/themes/perrypi/style.css) via
-     Supabase clients.brand_guidelines. Classic navy + red + supporting blue. */
-  --color-primary: #13274B;          /* deep navy — headers, dark sections, body copy */
-  --color-secondary: #E13833;        /* firm red — CTAs, buttons, accents */
-  --color-secondary-hover: #B42A26;  /* darker red for hover states */
-  --color-accent-blue: #3E75D9;      /* supporting blue — secondary accents / links */
+  /* Primary Colors */
+  --color-primary: #02073B;
+  --color-primary-hover: #010424;
+  --color-primary-deep: #00021A;
+  --color-secondary: #3E75D9;
+  --color-secondary-hover: #2F5DB8;
+  --color-secondary-deep: #244998;
 
   /* Accent & Neutral Colors */
-  --color-accent: #3E75D9;
+  --color-accent: #02073B;
   --color-background: #ffffff;
-  --color-foreground: #13274B;
+  --color-foreground: #02073B;
 
   /* Muted Colors */
-  --color-muted: #F1F4FA;
-  --color-muted-foreground: #4A5A7A;
+  --color-muted: #f5f5f7;
+  --color-muted-foreground: #676767;
 
   /* Card Colors */
-  --color-card: #F1F4FA;
-  --color-card-foreground: #13274B;
+  --color-card: #eeeef0;
+  --color-card-foreground: #02073B;
 
   /* Border & Divider */
   --color-border: #d9d9d9;
 
   /* Additional UI Colors */
-  --color-gray-dark: #2E3A52;
-  --color-gray-light: #9aa4b8;
-  --color-gray-lighter: #6c7791;
+  --color-gray-dark: #353535;
+  --color-gray-light: #9e9e9e;
+  --color-gray-lighter: #616161;
   --color-beige: #e1dddc;
-  --color-dark-bg: #13274B;
+  --color-dark-bg: #02073B;
 
   /* ========== TYPOGRAPHY ========== */
   --font-heading: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
