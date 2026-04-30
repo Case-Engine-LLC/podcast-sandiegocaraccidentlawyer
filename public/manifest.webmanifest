@@ -1,0 +1,21 @@
+{
+  "name": "San Diego Accident Attorneys & Law w. Liam Perry",
+  "short_name": "Perry Podcast",
+  "description": "Weekly San Diego car accident podcast hosted by Liam Perry of Perry Personal Injury Lawyers — California claims explained by a former insurance defense litigator.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02073B",
+  "theme_color": "#02073B",
+  "icons": [
+    {
+      "src": "/icon",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
