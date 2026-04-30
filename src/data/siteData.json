@@ -423,6 +423,11 @@
         "href": "#about"
       },
       {
+        "name": "Liam's Bio",
+        "href": "https://liamperry.attorney",
+        "external": true
+      },
+      {
         "name": "Contact",
         "href": "#contact"
       }
