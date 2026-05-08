@@ -42,14 +42,35 @@ const TopicalEntryGrid = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {topicalEntryGrid.tabs[activeTab].links.map((link, index) => {
             const isExternal = /^https?:\/\//.test(link.href)
-            const cardClass = "bg-white rounded-2xl overflow-hidden hover:shadow-xl transition-all group p-6 md:p-8 flex flex-col justify-center"
+            const linkImage = (link as { image?: string }).image
+            const cardClass = "bg-white rounded-2xl overflow-hidden hover:shadow-xl transition-all group flex flex-col md:flex-row"
             const inner = (
               <>
-                <h3 className="text-xl md:text-2xl font-bold text-black mb-3">{link.title}</h3>
-                <p className="text-sm md:text-base text-gray-600 leading-relaxed mb-4">{link.description}</p>
-                <div className="flex items-center text-black font-semibold group-hover:text-secondary transition-colors">
-                  <span className="text-sm md:text-base">Read More</span>
-                  <ChevronRight className="w-5 h-5 ml-1" />
+                {/* Topical thumbnail - Alternates left/right on desktop */}
+                <div className={`w-full md:w-1/3 bg-[#E6EAF2] flex-shrink-0 ${
+                  index % 2 === 1 ? 'md:order-2' : ''
+                }`}>
+                  <div className="w-full h-48 md:h-full bg-[#E6EAF2] flex items-center justify-center p-8">
+                    {linkImage ? (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img src={linkImage} alt="" aria-hidden="true" className="w-20 h-20 md:w-24 md:h-24" />
+                    ) : (
+                      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="25" cy="20" r="6" stroke="white" strokeWidth="2" strokeOpacity="0.4"/>
+                        <path d="M10 50 L25 35 L40 45 L50 30" stroke="white" strokeWidth="2" strokeLinecap="round" strokeOpacity="0.4"/>
+                      </svg>
+                    )}
+                  </div>
+                </div>
+
+                {/* Content */}
+                <div className="p-6 md:p-8 flex flex-col justify-center flex-grow">
+                  <h3 className="text-xl md:text-2xl font-bold text-black mb-3">{link.title}</h3>
+                  <p className="text-sm md:text-base text-gray-600 leading-relaxed mb-4">{link.description}</p>
+                  <div className="flex items-center text-black font-semibold group-hover:text-secondary transition-colors">
+                    <span className="text-sm md:text-base">Read More</span>
+                    <ChevronRight className="w-5 h-5 ml-1" />
+                  </div>
                 </div>
               </>
             )
