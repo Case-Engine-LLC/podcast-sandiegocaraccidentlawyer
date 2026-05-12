@@ -429,7 +429,8 @@
       },
       {
         "name": "Contact",
-        "href": "#contact"
+        "href": "https://perrypi.com/contact/",
+        "external": true
       }
     ],
     "ctaText": "Subscribe",
@@ -547,7 +548,7 @@
     },
     "formCTA": {
       "text": "Free Consultation",
-      "href": "#form"
+      "href": "https://perrypi.com/contact/"
     },
     "firmUrl": "https://perrypi.com"
   },
