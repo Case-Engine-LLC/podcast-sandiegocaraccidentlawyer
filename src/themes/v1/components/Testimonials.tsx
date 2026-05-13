@@ -28,6 +28,12 @@ const Testimonials = () => {
 
   const testimonials: Testimonial[] = testimonialsData
 
+  // Hide the entire section when no testimonials are configured —
+  // prevents the "heading with cut-off blank carousel" state.
+  if (!testimonials || testimonials.length === 0) {
+    return null
+  }
+
   const cardsPerView = isMobile ? 1 : 3
   const maxIndex = Math.max(0, testimonials.length - cardsPerView)
 

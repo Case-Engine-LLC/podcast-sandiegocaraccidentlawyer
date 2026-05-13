@@ -342,11 +342,9 @@
     "description": "San Diego Accident Attorneys & Law w. Liam Perry is a weekly podcast for San Diego drivers dealing with a car accident claim. Hosted by Perry Personal Injury Lawyers founder Liam Perry — a former insurance defense litigator — every episode anchors to California law and San Diego roadways to help listeners understand what their claim is actually worth.",
     "copyright": "Perry Personal Injury Lawyers",
     "socialLinks": {
-      "twitter": "#",
-      "linkedin": "https://www.linkedin.com/in/perrypi/",
       "facebook": "https://www.facebook.com/PerryLawPI",
-      "instagram": "https://www.instagram.com/Liamperry.esq",
-      "youtube": "#"
+      "instagram": "https://www.instagram.com/thepersonalinjurylawyer/",
+      "linkedin": "https://www.linkedin.com/in/perrypi/"
     }
   },
   "formConfig": {
@@ -555,13 +553,13 @@
   "stats": {
     "rating": 5.0,
     "reviewCount": 0,
-    "satisfactionRate": 0,
-    "satisfactionLabel": "",
-    "satisfactionVerbalization": "TODO: Populate from verified third-party review platform data (Google Business Profile, Avvo) before launch. Per California RPC 7.1, numeric claims about client satisfaction require substantiation.",
+    "satisfactionRate": 100,
+    "satisfactionLabel": "Contingency Fee",
+    "satisfactionVerbalization": "Perry Personal Injury Lawyers takes San Diego car accident matters on a 100% contingency basis. No attorney fees unless the firm recovers for the client. Free initial case review and no out-of-pocket cost to start.",
     "casesHandled": 20,
     "casesLabel": "$20M+ Recovered",
     "casesVerbalization": "Perry Personal Injury Lawyers has recovered more than $20 million in settlements and verdicts for injured clients across Southern California. Past results do not guarantee a similar outcome in your case.",
-    "ratingVerbalization": "TODO: Populate rating and review count from Perry's verified Google Business Profile. Per California RPC 7.1, star-rating claims require citation to the verifiable source."
+    "ratingVerbalization": "Perry Personal Injury Lawyers represents San Diego drivers from a former insurance defense litigator's seat — founding attorney Liam Perry is admitted to practice in California (Bar No. 296507), the Southern District of California, and the Ninth Circuit."
   },
   "subscribeCTA": {
     "title": "Never Miss an Episode",
