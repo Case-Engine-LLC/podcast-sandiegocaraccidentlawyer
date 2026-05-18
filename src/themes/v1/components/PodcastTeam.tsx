@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState } from 'react'
+import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { podcastTeam } from '@/data/siteData'
 
@@ -102,15 +103,13 @@ const PodcastTeam = () => {
                     <p className="text-xs text-gray-600">{teamMembers[currentSlide].title}</p>
                   </div>
                 </div>
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation()
-                    // TODO: Navigate to episodes page
-                  }}
-                  className="bg-secondary hover:bg-secondary-hover text-white text-xs font-semibold px-3 py-1.5 rounded-full whitespace-nowrap"
+                <Link
+                  href={`/author/${teamMembers[currentSlide].slug}`}
+                  onClick={(e) => e.stopPropagation()}
+                  className="inline-block bg-secondary hover:bg-secondary-hover text-white text-xs font-semibold px-3 py-1.5 rounded-full whitespace-nowrap"
                 >
                   All Episodes
-                </button>
+                </Link>
               </div>
               <p className="text-gray-700 text-xs leading-relaxed">{teamMembers[currentSlide].bio}</p>
             </div>
@@ -186,15 +185,13 @@ const PodcastTeam = () => {
                       <p className="text-sm text-gray-600">{member.title}</p>
                     </div>
                   </div>
-                  <button
-                    onClick={(e) => {
-                      e.stopPropagation()
-                      // TODO: Navigate to episodes page
-                    }}
-                    className="bg-secondary hover:bg-secondary-hover text-white text-sm font-semibold px-4 py-2 rounded-full whitespace-nowrap"
+                  <Link
+                    href={`/author/${member.slug}`}
+                    onClick={(e) => e.stopPropagation()}
+                    className="inline-block bg-secondary hover:bg-secondary-hover text-white text-sm font-semibold px-4 py-2 rounded-full whitespace-nowrap"
                   >
                     All Episodes
-                  </button>
+                  </Link>
                 </div>
                 <p className="text-gray-700 text-sm">{member.bio}</p>
               </div>
