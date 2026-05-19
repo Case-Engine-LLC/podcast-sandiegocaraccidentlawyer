@@ -577,7 +577,56 @@
       "Answers to listener questions about real San Diego car accident scenarios"
     ]
   },
-  "testimonials": [],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Katherine L.",
+      "initials": "KL",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "I highly recommend Liam Perry to any of my friends and family. I've known Liam professionally and personally. I've seen his work first hand. He is professional, collaborative, and a fierce advocate in getting great value for his clients. He is a great attorney and a wonderful human being. You need both qualities when you're looking for a personal injury attorney, especially during times that you're in pain and building your life back together. You need someone who will listen. Liam is that attorney."
+    },
+    {
+      "id": 2,
+      "name": "Shana J.",
+      "initials": "SJ",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "Perry Personal Injury made me over 40k! The knowledge and determination is unmatched by any other legal representation I've ever experienced. At first, I was skeptical about being able to receive financial compensation, as so many odds were stacked against me, but Liam completely crushed it!!! I HIGHLY recommend Liam Perry, he definitely knows how to win, BIG!"
+    },
+    {
+      "id": 3,
+      "name": "Nelly C.",
+      "initials": "NC",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "I can't even express how happy I am to have found Liam Perry as my attorney for my accident. I definitely recommend him, I'm glad I am not alone in this because accidents can be super stressful and messy. I was not looking forward to doing this alone but Perry took care of everything from the moment I had my first consult. I can still have my daily life while he helps make sure everything else is being taken care of from my car rental, calling the insurance companies, doctor visits etc. He knows all the right people with the best customer service. If you or someone you know needs an attorney contact Perry Law, he takes very good care of his clients and goes above and beyond."
+    },
+    {
+      "id": 4,
+      "name": "Michael G.",
+      "initials": "MG",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "Super Professional and explained everything to me in a way that I could understand."
+    },
+    {
+      "id": 5,
+      "name": "Anna S.",
+      "initials": "AS",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "We were referred to Liam Perry from one of his colleagues. Immediately when he took my husbands case we knew he was going to be an amazing attorney. He always responded right away when we had any questions or concerns regarding the case. Definitely went above and beyond for us. Will be referring any friends or family in need of an injury attorney in the future."
+    },
+    {
+      "id": 6,
+      "name": "Nicole W.",
+      "initials": "NW",
+      "role": "Verified Client",
+      "rating": 5,
+      "text": "I had such a positive experience with Liam Perry. He really took the time to walk me through the process, hear my concerns, and most of all advocate for me when it felt like no one else would. The case was long and required a lot of communication but he was there with me every step of the way and I always left our meetings/conversations feeling much more reassured. I would definitely recommend him to anyone that need legal advice, he's a great genuine lawyer which is hard to come by!"
+    }
+  ],
   "topicalEntryGrid": {
     "title": "Explore Topics Covered on the Podcast",
     "description": "Browse the San Diego accident topics Liam Perry covers on the show. Each card links to a deeper resource from Perry Personal Injury Lawyers on that situation.",
