@@ -31,7 +31,7 @@ const Hero = ({ latestEpisode }: HeroProps) => {
         <img
           src="/hero-placeholder.jpg"
           alt={content.heroTitle}
-          className="w-full h-full object-cover object-[center_right]"
+          className="w-full h-full object-cover object-[right_top]"
         />
       </figure>
 
