@@ -33,10 +33,10 @@ const Header = ({ variant = 'dark' }: HeaderProps) => {
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-colors duration-300 ${headerBg}`}>
-      <div className="max-w-container mx-auto px-6 md:px-12 py-4 md:py-6 flex items-center justify-between">
+      <div className="max-w-container mx-auto px-6 md:px-12 py-2 md:py-3 flex items-center justify-between">
         {/* Logo — links to law firm homepage */}
         <Link href="/" className="flex items-center">
-            <img src="/logo.svg" alt={siteConfig.podcastName} className="h-20 md:h-24 w-auto object-contain" />
+            <img src="/logo.svg" alt={siteConfig.podcastName} className="h-14 md:h-16 w-auto object-contain" />
           </Link>
 
         {/* Desktop Nav */}
