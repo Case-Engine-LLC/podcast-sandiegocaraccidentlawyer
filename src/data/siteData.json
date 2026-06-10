@@ -210,7 +210,7 @@
     "website": "https://perrypi.com"
   },
   "content": {
-    "heroTitle": "San Diego Accident Attorneys & Law w. Liam Perry",
+    "heroTitle": "San Diego Accident Attorneys & Law Podcast with Liam Perry",
     "heroDescription": "Hosted by Liam Perry, a San Diego personal injury attorney who spent years as an insurance defense litigator before switching sides, this show gives San Diego drivers the insider view of how California car accident claims actually get valued, fought, and paid. Every episode anchors to California law and San Diego roadways, translates every piece of legal jargon the first time it appears, and leaves the listener more prepared for their claim than they were 50 minutes earlier.",
     "articleTitle": "The Insider's View of San Diego Car Accident Claims",
     "articleParagraphs": [
@@ -422,22 +422,22 @@
         "href": "#episodes"
       },
       {
+        "name": "Perry Personal Injury Lawyers",
+        "href": "https://www.perrypi.com/",
+        "external": true
+      },
+      {
         "name": "About",
         "href": "#about"
       },
       {
         "name": "Meet Liam Perry",
-        "href": "https://liamperry.attorney",
-        "external": true
-      },
-      {
-        "name": "Contact",
-        "href": "https://perrypi.com/contact/",
+        "href": "https://www.liamperry.attorney/",
         "external": true
       }
     ],
-    "ctaText": "Subscribe",
-    "ctaHref": "#subscribe"
+    "ctaText": "Contact",
+    "ctaHref": "https://perrypi.com/contact/"
   },
   "offices": [
     {

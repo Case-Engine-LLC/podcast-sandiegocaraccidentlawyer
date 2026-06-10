@@ -3,6 +3,6 @@
   <rect x="18" y="24" width="5" height="20" rx="1" fill="#02073B"/>
   <rect x="41" y="24" width="5" height="20" rx="1" fill="#02073B"/>
   <path d="M16 24l16-8 16 8" fill="#02073B"/>
-  <line x1="16" y1="44" x2="48" y2="44" fill="none"/>
+  <line x1="16" y1="44" x2="48" y2="44" fill="none" stroke="#02073B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="32" cy="30" r="3" fill="#02073B" opacity="0.4"/>
   <path d="M26 42c0-4 2.7-7 6-7s6 3 6 7" fill="#02073B"/></svg>

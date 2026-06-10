@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
   <rect x="12" y="28" width="44" height="14" rx="3" fill="#02073B"/>
   <path d="M22 28l5-12h12l5 12" fill="#3E75D9"/>
-  <line x1="33" y1="16" x2="33" y2="28" fill="none" opacity="0.4"/>
+  <line x1="33" y1="16" x2="33" y2="28" fill="none" opacity="0.4" stroke="#02073B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="24" cy="44" r="5" fill="#02073B"/>
   <circle cx="46" cy="44" r="5" fill="#02073B"/>
-  <line x1="4" y1="30" x2="12" y2="32" fill="none"/>
-  <line x1="3" y1="35" x2="12" y2="35" fill="none"/>
-  <line x1="4" y1="40" x2="12" y2="38" fill="none"/></svg>
+  <line x1="4" y1="30" x2="12" y2="32" fill="none" stroke="#02073B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="3" y1="35" x2="12" y2="35" fill="none" stroke="#02073B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="4" y1="40" x2="12" y2="38" fill="none" stroke="#02073B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>
