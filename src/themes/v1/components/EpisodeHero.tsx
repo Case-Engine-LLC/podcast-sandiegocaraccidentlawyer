@@ -9,11 +9,16 @@ interface EpisodeHeroProps {
   episode?: Episode | null
 }
 
+const isRealLink = (url?: string | null): url is string =>
+  !!url && url.trim() !== '' && url.trim() !== '#'
+
 const EpisodeHero = ({ episode: propEpisode }: EpisodeHeroProps) => {
   const ep = propEpisode ?? staticEpisode
   const [descExpanded, setDescExpanded] = useState(false)
   const episodesData = propEpisode ? [propEpisode] : staticEpisodesData
   const fallbackArt = episodesData.find((e) => (e as { logo?: string }).logo && (e as { logo?: string }).logo!.trim() !== '')?.logo as string | undefined
+  const showApple = isRealLink(siteConfig.platformLinks.apple)
+  const showSpotify = isRealLink(siteConfig.platformLinks.spotify)
   return (
     <>
       {/* Marquee Banner */}
@@ -73,7 +78,7 @@ const EpisodeHero = ({ episode: propEpisode }: EpisodeHeroProps) => {
 
               {/* Platform Buttons */}
               <div className="flex flex-col sm:flex-row gap-4">
-                <a
+                {showApple && <a
                   href={siteConfig.platformLinks.apple}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -95,9 +100,9 @@ const EpisodeHero = ({ episode: propEpisode }: EpisodeHeroProps) => {
                     <div className="text-xs text-white/60 uppercase">Available on</div>
                     <div className="text-base font-bold text-white">Apple Podcast</div>
                   </div>
-                </a>
+                </a>}
 
-                <a
+                {showSpotify && <a
                   href={siteConfig.platformLinks.spotify}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -119,7 +124,10 @@ const EpisodeHero = ({ episode: propEpisode }: EpisodeHeroProps) => {
                     <div className="text-xs text-white/60 uppercase">Available on</div>
                     <div className="text-base font-bold text-white">Spotify</div>
                   </div>
-                </a>
+                </a>}
+                {!showApple && !showSpotify && (
+                  <p className="text-sm italic text-gray-500">Subscribe links will appear here when the show is published.</p>
+                )}
               </div>
             </div>
 

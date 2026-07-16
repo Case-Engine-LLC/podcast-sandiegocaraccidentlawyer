@@ -97,6 +97,10 @@ export async function getAllEpisodes(): Promise<Episode[]> {
   try {
     const feed = await fetchPodcastFeed(RSS_URL)
     const episodes = feed.episodes.map(rssEpisodeToEpisode)
+    if (episodes.length === 0) {
+      // A valid but empty feed must not erase the staged episode route.
+      return (staticEpisodes as Record<string, unknown>[]).map(normalizeStaticEpisode)
+    }
     feedCache = { episodes, fetchedAt: Date.now() }
     return episodes
   } catch (e) {

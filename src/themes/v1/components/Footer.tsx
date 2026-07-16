@@ -22,6 +22,14 @@ const XIcon = ({ size = 20, className = '' }: { size?: number; className?: strin
 const Footer = () => {
   const currentYear = new Date().getFullYear()
 
+  const socialLinks = [
+    { key: 'twitter', label: 'X', href: footer.socialLinks.twitter, icon: <XIcon size={20} className="text-white" /> },
+    { key: 'linkedin', label: 'LinkedIn', href: footer.socialLinks.linkedin, icon: <Linkedin size={20} className="text-white" /> },
+    { key: 'facebook', label: 'Facebook', href: footer.socialLinks.facebook, icon: <Facebook size={20} className="text-white" /> },
+    { key: 'instagram', label: 'Instagram', href: footer.socialLinks.instagram, icon: <Instagram size={20} className="text-white" /> },
+    { key: 'youtube', label: 'YouTube', href: footer.socialLinks.youtube, icon: <Youtube size={20} className="text-white" /> },
+  ].filter((item) => item.href && item.href !== '#')
+
   const epList = (episodesData as Array<{ id: number | string; number?: number; title: string; slug?: string }>).map(ep => ({
     name: `Episode ${ep.number ?? ep.id}: ${(ep.title || '').split(':')[0]}`,
     href: `/episode/${ep.slug ?? ep.id}`,
@@ -53,21 +61,18 @@ const Footer = () => {
               {footer.description}
             </p>
             <div className="flex items-center gap-4">
-              <Link href={footer.socialLinks.twitter} className="hover:opacity-70 transition-opacity">
-                <XIcon size={20} className="text-white" />
-              </Link>
-              <Link href={footer.socialLinks.linkedin} className="hover:opacity-70 transition-opacity">
-                <Linkedin size={20} className="text-white" />
-              </Link>
-              <Link href={footer.socialLinks.facebook} className="hover:opacity-70 transition-opacity">
-                <Facebook size={20} className="text-white" />
-              </Link>
-              <Link href={footer.socialLinks.instagram} className="hover:opacity-70 transition-opacity">
-                <Instagram size={20} className="text-white" />
-              </Link>
-              <Link href={footer.socialLinks.youtube} className="hover:opacity-70 transition-opacity">
-                <Youtube size={20} className="text-white" />
-              </Link>
+              {socialLinks.map((item) => (
+                <a
+                  key={item.key}
+                  href={item.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={`${footer.copyright} on ${item.label}`}
+                  className="transition-opacity hover:opacity-70"
+                >
+                  {item.icon}
+                </a>
+              ))}
             </div>
           </div>
 

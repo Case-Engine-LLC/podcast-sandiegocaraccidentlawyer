@@ -1,7 +1,6 @@
 'use client'
 
 import React, { useState } from 'react'
-import { Play } from 'lucide-react'
 import { content, attorney } from '@/data/siteData'
 import { episodeTranscript as staticTranscript } from '@/data/transcript'
 import type { Episode } from '@/lib/data'
@@ -61,10 +60,9 @@ const EpisodeContent = ({ episode, transcript }: EpisodeContentProps) => {
               />
             </div>
           ) : !youtubeEmbed ? (
-            <div className="relative w-full aspect-video bg-[#3a3a3a] rounded-3xl overflow-hidden mb-12 flex items-center justify-center group cursor-pointer">
-              <div className="relative z-10 w-20 h-20 rounded-full bg-secondary flex items-center justify-center group-hover:scale-110 transition-transform">
-                <Play size={32} className="text-white fill-white ml-1" />
-              </div>
+            <div role="status" className="mb-12 rounded-3xl border border-white/10 bg-[#2a2a3e] p-8 text-center">
+              <p className="font-semibold text-white">Recording not yet published</p>
+              <p className="mt-2 text-sm text-white/60">Episode notes, key takeaways, and the transcript are available below.</p>
             </div>
           ) : null}
 

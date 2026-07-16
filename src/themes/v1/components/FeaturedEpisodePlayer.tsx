@@ -108,9 +108,9 @@ const FeaturedEpisodePlayer = ({
               {isPlaying ? <Pause size={20} fill="white" className="text-white" /> : <Play size={20} fill="white" className="text-white ml-0.5" />}
             </button>
           ) : (
-            <Link href={episodeLink} aria-label={`Play ${title}`} className="w-12 h-12 rounded-full bg-black flex items-center justify-center hover:bg-gray-800 transition-colors shrink-0">
-              <Play size={20} fill="white" className="text-white ml-0.5" />
-            </Link>
+            <span className="shrink-0 rounded-full bg-gray-100 px-3 py-2 text-xs font-semibold text-gray-600">
+              Audio pending
+            </span>
           )}
           {audioUrl ? (
             <div className="flex-1 flex flex-col gap-1">
@@ -122,14 +122,9 @@ const FeaturedEpisodePlayer = ({
               </span>
             </div>
           ) : (
-            <Link href={episodeLink} className="flex-1 flex flex-col gap-1 cursor-pointer">
-              <div className="h-1.5 bg-gray-200 rounded-full overflow-hidden group">
-                <div className="h-full w-0 bg-black transition-all group-hover:bg-gray-800" />
-              </div>
-              <span className="text-xs text-gray-400">
-                0:00 / {duration}
-              </span>
-            </Link>
+            <p role="status" className="flex-1 text-xs leading-relaxed text-gray-500">
+              The recording has not been published. Episode notes and transcript are available on the episode page.
+            </p>
           )}
         </div>
       </div>
@@ -156,18 +151,18 @@ const FeaturedEpisodePlayer = ({
                 {isPlaying ? <Pause size={18} fill="white" className="text-white" /> : <Play size={18} fill="white" className="text-white ml-0.5" />}
               </button>
             ) : (
-              <Link href={episodeLink} aria-label={`Play ${title}`} className="w-10 h-10 rounded-full bg-black flex items-center justify-center hover:bg-gray-800 transition-colors shrink-0">
-                <Play size={18} fill="white" className="text-white ml-0.5" />
-              </Link>
+              <span className="shrink-0 rounded-full bg-gray-100 px-3 py-2 text-xs font-semibold text-gray-600">
+                Audio pending
+              </span>
             )}
             {audioUrl ? (
               <div ref={progressRef} onClick={handleSeek} className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden cursor-pointer group">
                 <div className="h-full bg-black transition-all group-hover:bg-gray-800" style={{ width: `${progress}%` }} />
               </div>
             ) : (
-              <Link href={episodeLink} className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden cursor-pointer group">
-                <div className="h-full w-0 bg-black transition-all group-hover:bg-gray-800" />
-              </Link>
+              <p role="status" className="flex-1 text-sm text-gray-500">
+                The recording has not been published. Episode notes and transcript are available.
+              </p>
             )}
             <span className="text-xs text-gray-400 shrink-0 min-w-[3.5rem] text-right">
               {totalDuration > 0 ? formatTime(totalDuration - currentTime) : duration}
@@ -177,8 +172,8 @@ const FeaturedEpisodePlayer = ({
                 {isMuted ? <VolumeX size={20} /> : <Volume2 size={20} />}
               </button>
             ) : (
-              <Link href={episodeLink} aria-label="Open episode page for full player" className="text-gray-600 hover:text-black transition-colors shrink-0">
-                <Volume2 size={20} />
+              <Link href={episodeLink} className="shrink-0 text-sm font-semibold text-gray-600 underline underline-offset-4 transition-colors hover:text-black">
+                Transcript
               </Link>
             )}
           </div>
