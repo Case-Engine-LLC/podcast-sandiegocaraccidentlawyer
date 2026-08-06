@@ -66,7 +66,7 @@ const homeSchema = {
       "@type": "WebSite",
       "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website",
       "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
-      "name": "San Diego Accident Attorneys & Law w. Liam Perry",
+      "name": "Personal Injury Law Uncovered with Liam Perry",
       "description": "Liam Perry, founding attorney of Perry Personal Injury Lawyers and former insurance-defense litigator, walks San Diego drivers through California car accident and personal injury law.",
       "publisher": {
         "@id": "https://perrypi.com/#org"
@@ -85,7 +85,7 @@ const homeSchema = {
       "@type": "WebPage",
       "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#webpage",
       "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
-      "name": "San Diego Accident Attorneys & Law w. Liam Perry | Perry Personal Injury Lawyers",
+      "name": "Personal Injury Law Uncovered with Liam Perry | Perry Personal Injury Lawyers",
       "description": "Liam Perry covers California car accident law from the plaintiff side — coverage, evidence preservation, and how insurance defense lawyers actually evaluate claims.",
       "isPartOf": {
         "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website"
@@ -118,8 +118,8 @@ const homeSchema = {
     {
       "@type": "PodcastSeries",
       "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#podcast",
-      "name": "San Diego Accident Attorneys & Law w. Liam Perry",
-      "description": "San Diego Accident Attorneys & Law with Liam Perry covers California personal injury law from the plaintiff side — with the added perspective of years spent defending insurance carriers before switching to plaintiffs' work. Episodes address what San Diego drivers actually need to know about coverage, evidence, and settlement.",
+      "name": "Personal Injury Law Uncovered with Liam Perry",
+      "description": "Personal Injury Law Uncovered with Liam Perry covers California personal injury law from the plaintiff side — with the added perspective of years spent defending insurance carriers before switching to plaintiffs' work. Episodes address what San Diego drivers actually need to know about coverage, evidence, and settlement.",
       "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
       "image": "https://podcast-sandiegocaraccidentlawyer.vercel.app/Hero.jpg",
       "author": {
@@ -158,7 +158,7 @@ const homeSchema = {
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What topics does Liam Perry cover on San Diego Accident Attorneys & Law?",
+          "name": "What topics does Liam Perry cover on Personal Injury Law Uncovered?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Liam Perry covers everything a San Diego driver needs to know about California car accident, motorcycle, truck, and rideshare law — including uninsured and underinsured motorist coverage, how insurance defense lawyers evaluate claims (Liam spent years on that side), late-onset neck and back injuries, California lane-splitting law, and when a personal injury case actually needs to go to trial."
@@ -169,7 +169,7 @@ const homeSchema = {
           "name": "How often are new episodes released?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "San Diego Accident Attorneys & Law publishes on a weekly, evergreen cadence. Episodes run 40–70 minutes and focus on one topic in depth. Subscribe via the platform links in the footer to be notified when each episode drops."
+            "text": "Personal Injury Law Uncovered publishes on a weekly, evergreen cadence. Episodes run 40–70 minutes and focus on one topic in depth. Subscribe via the platform links in the footer to be notified when each episode drops."
           }
         },
         {

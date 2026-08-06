@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const canonicalPath = `/episode/${episode.slug ?? episode.id}`
 
   return {
-    title: `${episode.title} | San Diego Accident Attorneys & Law w. Liam Perry`,
+    title: episode.title,
     description,
     alternates: {
       canonical: canonicalPath,
@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       title: episode.title,
       description,
       url: `https://perrypi.com${canonicalPath}`,
-      siteName: 'San Diego Accident Attorneys & Law w. Liam Perry',
+      siteName: 'Personal Injury Law Uncovered with Liam Perry',
       type: 'article',
       images: [{ url: imageUrl, width: 1200, height: 630, alt: episode.title }],
     },

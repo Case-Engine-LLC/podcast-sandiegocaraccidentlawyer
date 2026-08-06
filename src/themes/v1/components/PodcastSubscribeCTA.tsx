@@ -24,12 +24,13 @@ const PodcastSubscribeCTA = () => {
           {/* CTA Card */}
           <div className="relative bg-secondary/95 rounded-3xl mx-4 md:mx-8 overflow-visible">
             <div className="grid grid-cols-1 md:grid-cols-5 items-end relative">
-              {/* Left Side - Subject Cutout */}
-              <div className="relative md:col-span-2 md:absolute md:left-0 md:bottom-0 md:w-2/5 flex justify-center md:justify-start order-2 md:order-1">
+              {/* Left Side - Subject Cutout — spans the full card height so the
+                  figure scales to fit and the head is never clipped */}
+              <div className="relative md:col-span-2 md:absolute md:left-0 md:top-0 md:bottom-0 md:w-2/5 flex items-end justify-center md:justify-start order-2 md:order-1">
                 <img
                   src="/cta-subject.png"
                   alt="Attorneys"
-                  className="w-full max-w-[280px] md:max-w-[420px] h-auto object-contain"
+                  className="w-full max-w-[280px] h-auto md:w-auto md:max-w-none md:h-full object-contain object-bottom"
                 />
               </div>
 

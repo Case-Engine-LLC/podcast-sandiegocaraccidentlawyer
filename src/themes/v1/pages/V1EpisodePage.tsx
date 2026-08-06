@@ -15,7 +15,7 @@ const episodeSchema = {
       "@type": "WebPage",
       "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1#webpage",
       "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1",
-      "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash | Episode 1 | San Diego Accident Attorneys & Law w. Liam Perry",
+      "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash | Episode 1 | Personal Injury Law Uncovered with Liam Perry",
       "description": "Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — from medical care to evidence preservation to the call no one should make.",
       "isPartOf": {
         "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website"
@@ -58,7 +58,7 @@ const episodeSchema = {
       "@type": "PodcastEpisode",
       "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1#episode",
       "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash",
-      "description": "In the debut episode of San Diego Accident Attorneys & Law, Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — what to say (and not say) to the adjuster, when to file the SR-1, why late-onset neck and back pain does not mean it is too late, and how California's pure comparative negligence rule affects what a claim is actually worth. TODO: finalize title, description, and episode art from final recording and show notes.",
+      "description": "In the debut episode of Personal Injury Law Uncovered, Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — what to say (and not say) to the adjuster, when to file the SR-1, why late-onset neck and back pain does not mean it is too late, and how California's pure comparative negligence rule affects what a claim is actually worth. TODO: finalize title, description, and episode art from final recording and show notes.",
       "episodeNumber": 1,
       "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1",
       "image": "https://podcast-sandiegocaraccidentlawyer.vercel.app/cover.jpg",

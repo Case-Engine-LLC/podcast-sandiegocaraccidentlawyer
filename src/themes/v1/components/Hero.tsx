@@ -49,7 +49,7 @@ const Hero = ({ latestEpisode }: HeroProps) => {
       <div className="hidden md:block absolute inset-0 z-[1] pointer-events-none">
         <div className="relative mx-auto h-full max-w-container px-4 md:px-12">
           <img
-            src="/attorney.png"
+            src="/hero-attorney.png"
             alt={content.heroTitle}
             className="absolute bottom-0 right-4 md:right-12 h-[68%] lg:h-[78%] w-auto object-contain object-bottom block"
           />
@@ -125,7 +125,7 @@ const Hero = ({ latestEpisode }: HeroProps) => {
         {/* Attorney Image - Mobile only, stacked below the text */}
         <div className="md:hidden flex justify-center mt-2">
           <img
-            src="/attorney.png"
+            src="/hero-attorney.png"
             alt={content.heroTitle}
             className="w-auto max-h-[55vh] object-contain object-bottom"
           />

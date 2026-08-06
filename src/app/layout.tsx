@@ -14,9 +14,8 @@ const inter = Inter({
 
 const SITE_URL = siteConfig.podcastUrl || 'https://podcast-sandiegocaraccidentlawyer.vercel.app'
 
-// Meta/SEO title — "Podcast" inserted before the host and "w." spelled out.
-// Visible on-page headings use siteConfig.podcastName directly.
-const META_TITLE = siteConfig.podcastName.replace(' w. ', ' Podcast with ')
+// Meta/SEO title — same as the canonical podcast name.
+const META_TITLE = siteConfig.podcastName
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
