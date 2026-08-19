@@ -109,7 +109,7 @@ export default function OgImage() {
           }}
         >
           <div style={{ display: 'flex', gap: 28, alignItems: 'center' }}>
-            <span style={{ display: 'flex' }}>Weekly podcast</span>
+            <span style={{ display: 'flex' }}>Podcast</span>
             <span style={{ display: 'flex', color: '#3E75D9' }}>·</span>
             <span style={{ display: 'flex' }}>San Diego, CA</span>
             <span style={{ display: 'flex', color: '#3E75D9' }}>·</span>

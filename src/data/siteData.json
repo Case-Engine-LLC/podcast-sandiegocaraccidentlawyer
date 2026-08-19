@@ -298,7 +298,7 @@
         {
           "question": "How Often Are New Episodes Released?",
           "level": "h3",
-          "answer": "Personal Injury Law Uncovered publishes on a weekly, evergreen cadence. Episodes run 50 to 55 minutes each and are organized by practice area cluster — Car Accidents as the primary cluster, with Truck, Motorcycle, Rideshare, Bicycle, Pedestrian, and broader personal injury in rotation — rather than numbered seasons."
+          "answer": "Personal Injury Law Uncovered publishes on an ongoing, evergreen cadence. Episodes run 50 to 55 minutes each and are organized by practice area cluster — Car Accidents as the primary cluster, with Truck, Motorcycle, Rideshare, Bicycle, Pedestrian, and broader personal injury in rotation — rather than numbered seasons."
         },
         {
           "question": "Who is The Target Audience?",
@@ -341,7 +341,7 @@
   ],
   "footer": {
     "logo": "Perry Personal Injury Lawyers",
-    "description": "Personal Injury Law Uncovered with Liam Perry is a weekly podcast for San Diego drivers dealing with a car accident claim. Hosted by Perry Personal Injury Lawyers founder Liam Perry — a former insurance defense litigator — every episode anchors to California law and San Diego roadways to help listeners understand what their claim is actually worth.",
+    "description": "Personal Injury Law Uncovered with Liam Perry is a podcast for San Diego drivers dealing with a car accident claim. Hosted by Perry Personal Injury Lawyers founder Liam Perry — a former insurance defense litigator — every episode anchors to California law and San Diego roadways to help listeners understand what their claim is actually worth.",
     "copyright": "Perry Personal Injury Lawyers",
     "socialLinks": {
       "facebook": "https://www.facebook.com/PerryLawPI",
@@ -544,7 +544,7 @@
     "rssFeedUrl": "https://rss2.flightcast.com/f7n4yz8fsrx3tivvijoxlmr2.xml",
     "format": "Interview-driven, video-first",
     "episodeLengthMinutes": "50-55",
-    "cadence": "Weekly, evergreen",
+    "cadence": "Evergreen, ongoing",
     "platformLinks": {
       "apple": "#",
       "spotify": "#"
@@ -568,7 +568,7 @@
   },
   "subscribeCTA": {
     "title": "Never Miss an Episode",
-    "description": "Subscribe to Personal Injury Law Uncovered with Liam Perry to get the insider's view of how California car accident claims actually get valued, fought, and paid. Each weekly episode anchors to California law and San Diego roadways, with plain-language answers from an attorney who worked for the insurance companies before switching sides.",
+    "description": "Subscribe to Personal Injury Law Uncovered with Liam Perry to get the insider's view of how California car accident claims actually get valued, fought, and paid. Each episode anchors to California law and San Diego roadways, with plain-language answers from an attorney who worked for the insurance companies before switching sides.",
     "highlights": [
       "Insider commentary from a former insurance defense litigator",
       "Every episode anchored to California law — SR-1, pure comparative negligence, UM/UIM, two-year statute",
