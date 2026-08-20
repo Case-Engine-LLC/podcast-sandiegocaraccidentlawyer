@@ -169,7 +169,7 @@ const homeSchema = {
           "name": "How often are new episodes released?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Personal Injury Law Uncovered publishes on a weekly, evergreen cadence. Episodes run 40–70 minutes and focus on one topic in depth. Subscribe via the platform links in the footer to be notified when each episode drops."
+            "text": "Personal Injury Law Uncovered publishes on an ongoing, evergreen cadence. Episodes run 40–70 minutes and focus on one topic in depth. Subscribe via the platform links in the footer to be notified when each episode drops."
           }
         },
         {
