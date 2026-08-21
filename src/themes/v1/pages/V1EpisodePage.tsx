@@ -13,12 +13,12 @@ const episodeSchema = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1#webpage",
-      "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1",
+      "@id": "https://www.personalinjurylawuncovered.attorney/episode/1#webpage",
+      "url": "https://www.personalinjurylawuncovered.attorney/episode/1",
       "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash | Episode 1 | Personal Injury Law Uncovered with Liam Perry",
       "description": "Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — from medical care to evidence preservation to the call no one should make.",
       "isPartOf": {
-        "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website"
+        "@id": "https://www.personalinjurylawuncovered.attorney/#website"
       },
       "inLanguage": "en-US",
       "speakable": {
@@ -37,36 +37,36 @@ const episodeSchema = {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://podcast-sandiegocaraccidentlawyer.vercel.app/"
+            "item": "https://www.personalinjurylawuncovered.attorney/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Episodes",
-            "item": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#episodes"
+            "item": "https://www.personalinjurylawuncovered.attorney/#episodes"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash",
-            "item": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1"
+            "item": "https://www.personalinjurylawuncovered.attorney/episode/1"
           }
         ]
       }
     },
     {
       "@type": "PodcastEpisode",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1#episode",
+      "@id": "https://www.personalinjurylawuncovered.attorney/episode/1#episode",
       "name": "What Every San Diego Driver Needs to Know in the First 72 Hours After a Crash",
       "description": "In the debut episode of Personal Injury Law Uncovered, Liam Perry walks through exactly what a San Diego driver should do in the first 72 hours after a car accident — what to say (and not say) to the adjuster, when to file the SR-1, why late-onset neck and back pain does not mean it is too late, and how California's pure comparative negligence rule affects what a claim is actually worth. TODO: finalize title, description, and episode art from final recording and show notes.",
       "episodeNumber": 1,
-      "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1",
-      "image": "https://podcast-sandiegocaraccidentlawyer.vercel.app/cover.jpg",
+      "url": "https://www.personalinjurylawuncovered.attorney/episode/1",
+      "image": "https://www.personalinjurylawuncovered.attorney/cover.jpg",
       "partOfSeries": {
-        "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#podcast"
+        "@id": "https://www.personalinjurylawuncovered.attorney/#podcast"
       },
       "author": {
-        "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#host"
+        "@id": "https://www.personalinjurylawuncovered.attorney/#host"
       },
       "publisher": {
         "@id": "https://perrypi.com/#org"
@@ -88,7 +88,7 @@ const episodeSchema = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/episode/1#faq",
+      "@id": "https://www.personalinjurylawuncovered.attorney/episode/1#faq",
       "mainEntity": [
         {
           "@type": "Question",

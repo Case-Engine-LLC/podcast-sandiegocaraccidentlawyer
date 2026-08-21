@@ -12,7 +12,7 @@ const inter = Inter({
   weight: ['400', '500', '600', '700', '800'],
 })
 
-const SITE_URL = siteConfig.podcastUrl || 'https://podcast-sandiegocaraccidentlawyer.vercel.app'
+const SITE_URL = siteConfig.podcastUrl || 'https://www.personalinjurylawuncovered.attorney'
 
 // Meta/SEO title — same as the canonical podcast name.
 const META_TITLE = siteConfig.podcastName
