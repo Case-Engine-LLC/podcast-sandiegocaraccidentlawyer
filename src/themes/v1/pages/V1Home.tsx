@@ -62,25 +62,7 @@ const homeSchema = {
         "https://perrypi.com/"
       ]
     },
-    {
-      "@type": "WebSite",
-      "@id": "https://www.personalinjurylawuncovered.attorney/#website",
-      "url": "https://www.personalinjurylawuncovered.attorney/",
-      "name": "Personal Injury Law Uncovered with Liam Perry",
-      "description": "Liam Perry, founding attorney of Perry Personal Injury Lawyers and former insurance-defense litigator, walks San Diego drivers through California car accident and personal injury law.",
-      "publisher": {
-        "@id": "https://perrypi.com/#org"
-      },
-      "inLanguage": "en-US",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "https://www.personalinjurylawuncovered.attorney/?s={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      }
-    },
+    
     {
       "@type": "WebPage",
       "@id": "https://www.personalinjurylawuncovered.attorney/#webpage",
@@ -115,43 +97,7 @@ const homeSchema = {
         ]
       }
     },
-    {
-      "@type": "PodcastSeries",
-      "@id": "https://www.personalinjurylawuncovered.attorney/#podcast",
-      "name": "Personal Injury Law Uncovered with Liam Perry",
-      "description": "Personal Injury Law Uncovered with Liam Perry covers California personal injury law from the plaintiff side — with the added perspective of years spent defending insurance carriers before switching to plaintiffs' work. Episodes address what San Diego drivers actually need to know about coverage, evidence, and settlement.",
-      "url": "https://www.personalinjurylawuncovered.attorney/",
-      "image": "https://www.personalinjurylawuncovered.attorney/Hero.jpg",
-      "author": {
-        "@type": "Person",
-        "@id": "https://www.personalinjurylawuncovered.attorney/#host",
-        "name": "Liam Perry",
-        "givenName": "Liam",
-        "familyName": "Perry",
-        "jobTitle": "Founding Attorney & Podcast Host",
-        "image": "https://www.personalinjurylawuncovered.attorney/headshot-liam-perry.jpg",
-        "worksFor": {
-          "@id": "https://perrypi.com/#org"
-        },
-        "sameAs": [
-          "https://perrypi.com/"
-        ],
-        "alumniOf": {
-          "@type": "EducationalOrganization",
-          "name": "University of San Diego School of Law"
-        }
-      },
-      "webFeed": [],
-      "genre": [
-        "Legal",
-        "Personal Injury Law",
-        "Education"
-      ],
-      "inLanguage": "en-US",
-      "publisher": {
-        "@id": "https://perrypi.com/#org"
-      }
-    },
+    
     {
       "@type": "FAQPage",
       "@id": "https://www.personalinjurylawuncovered.attorney/#faq",
