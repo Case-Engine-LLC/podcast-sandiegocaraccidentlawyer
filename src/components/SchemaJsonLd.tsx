@@ -7,7 +7,6 @@ import {
   contact,
   episode,
   episodes,
-  faqGroups,
   footer,
   siteConfig,
   stats,
@@ -152,23 +151,6 @@ const SchemaJsonLd = () => {
     sameAs,
   }
 
-  const faqMainEntities = (faqGroups || [])
-    .flatMap((g) => g.questions || [])
-    .map((q) => ({
-      '@type': 'Question',
-      name: q.question,
-      acceptedAnswer: { '@type': 'Answer', text: q.answer },
-    }))
-
-  const faqSchema =
-    faqMainEntities.length > 0
-      ? {
-          '@context': 'https://schema.org',
-          '@type': 'FAQPage',
-          mainEntity: faqMainEntities,
-        }
-      : null
-
   const websiteSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
@@ -186,7 +168,6 @@ const SchemaJsonLd = () => {
     hostSchema,
     orgSchema,
     websiteSchema,
-    faqSchema,
   ].filter(Boolean)
 
   return (
