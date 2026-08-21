@@ -27,13 +27,13 @@ const homeSchema = {
       "url": "https://perrypi.com/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/logo.svg",
+        "url": "https://www.personalinjurylawuncovered.attorney/logo.svg",
         "width": 200,
         "height": 60
       },
       "image": {
         "@type": "ImageObject",
-        "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/Hero.jpg",
+        "url": "https://www.personalinjurylawuncovered.attorney/Hero.jpg",
         "width": 1200,
         "height": 630
       },
@@ -64,8 +64,8 @@ const homeSchema = {
     },
     {
       "@type": "WebSite",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website",
-      "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
+      "@id": "https://www.personalinjurylawuncovered.attorney/#website",
+      "url": "https://www.personalinjurylawuncovered.attorney/",
       "name": "Personal Injury Law Uncovered with Liam Perry",
       "description": "Liam Perry, founding attorney of Perry Personal Injury Lawyers and former insurance-defense litigator, walks San Diego drivers through California car accident and personal injury law.",
       "publisher": {
@@ -76,19 +76,19 @@ const homeSchema = {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": "https://podcast-sandiegocaraccidentlawyer.vercel.app/?s={search_term_string}"
+          "urlTemplate": "https://www.personalinjurylawuncovered.attorney/?s={search_term_string}"
         },
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "WebPage",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#webpage",
-      "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
+      "@id": "https://www.personalinjurylawuncovered.attorney/#webpage",
+      "url": "https://www.personalinjurylawuncovered.attorney/",
       "name": "Personal Injury Law Uncovered with Liam Perry | Perry Personal Injury Lawyers",
       "description": "Liam Perry covers California car accident law from the plaintiff side — coverage, evidence preservation, and how insurance defense lawyers actually evaluate claims.",
       "isPartOf": {
-        "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#website"
+        "@id": "https://www.personalinjurylawuncovered.attorney/#website"
       },
       "about": {
         "@id": "https://perrypi.com/#org"
@@ -110,26 +110,26 @@ const homeSchema = {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://podcast-sandiegocaraccidentlawyer.vercel.app/"
+            "item": "https://www.personalinjurylawuncovered.attorney/"
           }
         ]
       }
     },
     {
       "@type": "PodcastSeries",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#podcast",
+      "@id": "https://www.personalinjurylawuncovered.attorney/#podcast",
       "name": "Personal Injury Law Uncovered with Liam Perry",
       "description": "Personal Injury Law Uncovered with Liam Perry covers California personal injury law from the plaintiff side — with the added perspective of years spent defending insurance carriers before switching to plaintiffs' work. Episodes address what San Diego drivers actually need to know about coverage, evidence, and settlement.",
-      "url": "https://podcast-sandiegocaraccidentlawyer.vercel.app/",
-      "image": "https://podcast-sandiegocaraccidentlawyer.vercel.app/Hero.jpg",
+      "url": "https://www.personalinjurylawuncovered.attorney/",
+      "image": "https://www.personalinjurylawuncovered.attorney/Hero.jpg",
       "author": {
         "@type": "Person",
-        "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#host",
+        "@id": "https://www.personalinjurylawuncovered.attorney/#host",
         "name": "Liam Perry",
         "givenName": "Liam",
         "familyName": "Perry",
         "jobTitle": "Founding Attorney & Podcast Host",
-        "image": "https://podcast-sandiegocaraccidentlawyer.vercel.app/headshot-liam-perry.jpg",
+        "image": "https://www.personalinjurylawuncovered.attorney/headshot-liam-perry.jpg",
         "worksFor": {
           "@id": "https://perrypi.com/#org"
         },
@@ -154,7 +154,7 @@ const homeSchema = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://podcast-sandiegocaraccidentlawyer.vercel.app/#faq",
+      "@id": "https://www.personalinjurylawuncovered.attorney/#faq",
       "mainEntity": [
         {
           "@type": "Question",
