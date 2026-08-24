@@ -1,32 +1,64 @@
+// Transcript for the trailer episode, imported verbatim from the published
+// Flightcast captions in the podcast RSS feed:
+//   https://rss.flightcast.com/transcripts/01M0JR9X7Y463QT490FPBPJF0H.vtt
+// Used only as the static fallback when the RSS feed cannot be reached at
+// runtime; the live site normally fetches this same file via <podcast:transcript>.
+// Speaker labels are inferred: the VTT carries no speaker data, and the voice
+// shifts from third-person intro to first-person at 00:16.
 export const episodeTranscript = [
   {
     timestamp: "00:00",
-    speaker: "Co-host",
-    text: "'s N-Gram Table. Gets the listener to stay. Example frame from the overview: the listener is sitting on their couch, got rear-ended on the 805 three days ago, back is starting to hurt more today than yesterday, and an adjuster just left a voicemail",
+    speaker: "Narrator",
+    text: "He read the internal playbooks.",
   },
   {
-    timestamp: "01:00",
-    speaker: "Co-host",
-    text: "",
+    timestamp: "00:02",
+    speaker: "Narrator",
+    text: "He sat on the calls where adjusters decide what your claim is actually worth.",
   },
   {
-    timestamp: "03:00",
+    timestamp: "00:06",
+    speaker: "Narrator",
+    text: "He saw exactly how the machine works from the inside, and then he walked away from it.",
+  },
+  {
+    timestamp: "00:16",
     speaker: "Liam Perry",
-    text: "",
+    text: "So the short answer is I help hurt people go after insurance companies.",
   },
   {
-    timestamp: "05:00",
-    speaker: "Co-host",
-    text: "'s N-Gram Table. Insider commentary from Liam, co-host keeps it consumer-facing and translates jargon on first use (comparative negligence, demand package, UM/UIM, pre-litigation). Signature questions to weave in: 'Walk me through what the adjuster is actually going to do next,' and 'If this case had come across your desk when you were working for the insurance company, what would you have done?'",
-  },
-  {
-    timestamp: "35:00",
+    timestamp: "00:20",
     speaker: "Liam Perry",
-    text: "'True or false: if I was not wearing a seatbelt, I cannot recover anything?' Anchor each answer to California law (SR-1 filing requirements, pure comparative negligence, UM/UIM, two-year statute) and to San Diego roadway or ER context",
+    text: "So I now get to sue the insurance companies that I was previously representing.",
   },
   {
-    timestamp: "40:00",
-    speaker: "Co-host",
-    text: "'If you or someone you know was in a San Diego car accident, call Perry Personal Injury Lawyers at (760) 633-2233 or visit perrypi.com for a free consultation.' Followed by the standard disclaimer block required under California Rules of Professional Conduct 7.1-7.5 and Business and Professions Code 6157-6159.2: attorney advertising, no attorney-client relationship formed by listening, past results do not guarantee future outcomes",
+    timestamp: "00:25",
+    speaker: "Liam Perry",
+    text: "So we're talking about people who miss limbs and they're settling their case for $50,000 when they're not realizing that it could cost them millions of dollars just in medical expenses for the rest of their life.",
+  },
+  {
+    timestamp: "00:37",
+    speaker: "Liam Perry",
+    text: "When it comes to insurance adjusters, defense attorneys, I will have...",
+  },
+  {
+    timestamp: "00:43",
+    speaker: "Liam Perry",
+    text: "100 voicemails by the end of this week, and I will not listen to one of them.",
+  },
+  {
+    timestamp: "00:46",
+    speaker: "Liam Perry",
+    text: "I will delete them.",
+  },
+  {
+    timestamp: "00:48",
+    speaker: "Liam Perry",
+    text: "And the reason is because anything they need to say to me, they can say in writing.",
+  },
+  {
+    timestamp: "00:51",
+    speaker: "Liam Perry",
+    text: "And if they don't say it in writing, it didn't happen.",
   },
 ]
