@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { ChevronDown, CheckCircle, FileText } from 'lucide-react'
 import { attorney, siteConfig } from '@/data/siteData'
 import { about } from '@/lib/site-compat'
+import { externalLinkProps } from '@/lib/external-link'
 
 const About = () => {
   const [isExpanded, setIsExpanded] = useState(false)
@@ -73,6 +74,7 @@ const About = () => {
             <div className="mt-6 flex justify-center md:justify-start">
               <Link
                 href={siteConfig.formCTA?.href || '#form'}
+                {...externalLinkProps(siteConfig.formCTA?.href)}
                 className="inline-flex items-center gap-3 bg-secondary text-white px-8 py-4 rounded-2xl transition-transform hover:scale-105 font-bold"
               >
                 <FileText className="w-5 h-5" />

@@ -11,6 +11,7 @@ import LatestEpisodes from '../components/LatestEpisodes'
 import { authorProfiles, siteConfig, contact, stats, testimonials, footer, attorney } from '@/data/siteData'
 import { Scale, GraduationCap, Award, Briefcase, Users, ExternalLink, FileText } from 'lucide-react'
 import Link from 'next/link'
+import { externalLinkProps } from '@/lib/external-link'
 
 const SITE_URL = contact.website
 
@@ -224,6 +225,7 @@ const V1AuthorPage = ({ slug }: V1AuthorPageProps) => {
                 {/* CTA */}
                 <Link
                   href={siteConfig.formCTA?.href || '#contact'}
+                  {...externalLinkProps(siteConfig.formCTA?.href)}
                   className="inline-flex items-center gap-3 bg-secondary text-white px-8 py-4 rounded-2xl transition-transform hover:scale-105 font-bold"
                 >
                   <FileText className="w-5 h-5" />
