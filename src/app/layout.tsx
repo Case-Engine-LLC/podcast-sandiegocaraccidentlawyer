@@ -6,6 +6,7 @@ import SchemaJsonLd from '@/components/SchemaJsonLd'
 import { siteConfig, about } from '@/data/siteData'
 import './globals.css'
 import '@/themes/v1/variables.css'
+import { AgentTools } from '@/components/AgentTools'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -112,6 +113,7 @@ export default function RootLayout({
         {children}
         <MarkerWidget />
         <GoogleTagManager />
+        <AgentTools />
       </body>
     </html>
   )
