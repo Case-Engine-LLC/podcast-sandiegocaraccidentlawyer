@@ -348,7 +348,7 @@
       "instagram": "https://www.instagram.com/thepersonalinjurylawyer/",
       "linkedin": "https://www.linkedin.com/in/perrypi/",
       "twitter": "",
-      "youtube": "",
+      "youtube": "https://youtube.com/channel/UCdGe4WA9GrMznTAMksIVMOw",
       "tiktok": ""
     }
   },
@@ -546,14 +546,16 @@
     "episodeLengthMinutes": "50-55",
     "cadence": "Evergreen, ongoing",
     "platformLinks": {
-      "apple": "#",
-      "spotify": "#"
+      "apple": "https://podcasts.apple.com/us/podcast/personal-injury-law-uncovered-w-liam-perry/id6804032505",
+      "spotify": "https://open.spotify.com/show/4tBFzWHXAHyOiHtLWN59Sr",
+      "youtube": "https://youtube.com/channel/UCdGe4WA9GrMznTAMksIVMOw"
     },
     "formCTA": {
       "text": "Free Consultation",
       "href": "https://perrypi.com/contact/"
     },
-    "firmUrl": "https://perrypi.com"
+    "firmUrl": "https://perrypi.com",
+    "rssFeed": "https://rss2.flightcast.com/f7n4yz8fsrx3tivvijoxlmr2.xml"
   },
   "stats": {
     "rating": 5.0,
