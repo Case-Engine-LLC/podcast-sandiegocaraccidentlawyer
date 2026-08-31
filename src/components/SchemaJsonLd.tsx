@@ -42,7 +42,11 @@ const SchemaJsonLd = () => {
   const podcastUrl = siteConfig.podcastUrl?.replace(/\/$/, '') || ''
   const firmUrl = (contact.website || '').replace(/\/$/, '')
   const platformLinks = siteConfig.platformLinks || {}
-  const sameAs = [platformLinks.spotify, platformLinks.apple]
+  // Every canonical profile for the show. Apple, Spotify and YouTube are the
+  // three tier-1 directories the feed is actually distributed to; listing them
+  // is what lets a crawler tie this site, the feed and those profiles together
+  // as one entity.
+  const sameAs = [platformLinks.spotify, platformLinks.apple, platformLinks.youtube]
     .filter((u): u is string => !!u && u !== '#')
 
   const podcastSeries = {
@@ -57,7 +61,11 @@ const SchemaJsonLd = () => {
     author: { '@id': `${podcastUrl}/#host` },
     publisher: { '@id': `${podcastUrl}/#organization` },
     sameAs,
-    webFeed: platformLinks.apple,
+    // schema.org/PodcastSeries.webFeed is the RSS feed itself. This used to
+    // point at the Apple Podcasts page, which is a directory listing, not a
+    // feed — so the one property a podcast crawler reads to find the audio
+    // resolved to an HTML page.
+    webFeed: siteConfig.rssFeed || undefined,
   }
 
   type EpisodeLike = {
